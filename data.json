@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28T21:12:04",
+ "updatedAt": "2026-09-28T22:57:19",
  "timezone": "Europe/Moscow",
  "windowDays": 45,
  "brands": [
@@ -180,6 +180,18 @@
    "status": "Published",
    "url": "https://www.instagram.com/reel/Dd22yargPuq/",
    "video": "https://static.metricool.com/planner/202608/6316245-file-18424313580098080067.mp4"
+  },
+  {
+   "id": 383982961,
+   "brand": "peshkov",
+   "date": "2026-09-29T09:00:00",
+   "tz": "Europe/Moscow",
+   "title": "Тгк: SHOPOMANIIA2012",
+   "text": "Тгк: SHOPOMANIIA2012\nСама Рианна пришла на показы бренда Matières Fécales в рамках Парижской недели моды весна/лето 2026.\nКак вам образ?😍\n\n✅Обязательно подписывайтесь, чтобы не пропускать предстоящие skidки любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
+   "trial": false,
+   "status": "Pending",
+   "url": "",
+   "video": "https://static.metricool.com/video-converter/4867598/202609/016927f648ed481e.mp4"
   },
   {
    "id": 376709926,

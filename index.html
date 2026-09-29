@@ -30,8 +30,8 @@
     --reel: #c96f9b;
     --trial: #f7e5a8;
     --trial-ink: #8a7014;
-    --post: #d9c7f0;
-    --post-ink: #6a4d9e;
+    --post: #c3d9f2;
+    --post-ink: #3d6a9e;
     --line: #f3dee8;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -141,7 +141,7 @@
   /* ---------- День ---------- */
   #day-panel { margin-top: 26px; }
   #day-panel h3 { font-size: 16px; margin-bottom: 12px; text-transform: capitalize; }
-  .post {
+  .post-card {
     background: var(--card); border: 1px solid var(--line); border-radius: 16px;
     padding: 14px; margin-bottom: 12px; display: flex; gap: 14px; align-items: flex-start;
   }
@@ -181,7 +181,7 @@
   .empty-day { color: var(--ink-soft); font-size: 14px; background: var(--card); border: 1px dashed var(--line); border-radius: 14px; padding: 22px; text-align: center; }
 
   @media (max-width: 560px) {
-    .post { flex-direction: column; }
+    .post-card { flex-direction: column; }
     .thumb video, .thumb img { width: 100%; height: 200px; }
     .brand-toggle button { padding: 8px 12px; font-size: 12px; }
   }
@@ -357,7 +357,7 @@ function render() {
       chips.className = "chips";
       posts.slice(0, 6).forEach(p => {
         const c = document.createElement("div");
-        c.className = "chip " + (p.manual ? "post" : p.trial ? "trial" : "reel");
+        c.className = "chip " + ((p.manual || isImgPost(p)) ? "post" : p.trial ? "trial" : "reel");
         c.title = p.title;
         chips.appendChild(c);
       });
@@ -379,6 +379,12 @@ function render() {
 
 function scrollToDay() {
   document.getElementById("day-panel").scrollIntoView({ behavior: "smooth", block: "nearest" });
+}
+
+/* Фото-карусель/пост — картинка по расширению, рилс — видео */
+function isImgPost(p) {
+  const url = p.thumb || p.video || "";
+  return /\.(png|jpe?g|webp|gif|avif)(\?|#|$)/i.test(url);
 }
 
 /* ---------- Панель дня ---------- */
@@ -403,7 +409,7 @@ function renderDay() {
   }
   posts.forEach((p, idx) => {
     const time = p.date.slice(11, 16);
-    const badge = p.manual
+    const badge = (p.manual || isImgPost(p))
       ? `<span class="badge post">Пост</span>`
       : p.trial
         ? `<span class="badge trial">Триал Рилс</span>`
@@ -412,7 +418,7 @@ function renderDay() {
     const link = p.url ? `<div style="margin-top:8px"><a class="post-link" href="${esc(p.url)}" target="_blank" rel="noopener">Открыть в Instagram ↗</a></div>` : "";
     const media = mediaHtml(p.thumb || p.video);
     html += `
-      <div class="post">
+      <div class="post-card">
         ${media}
         <div class="post-body">
           <div class="post-top">

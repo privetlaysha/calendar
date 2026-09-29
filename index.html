@@ -112,6 +112,26 @@
   .legend i.reel { background: var(--reel); }
   .legend i.trial { background: var(--trial); }
 
+  /* ---------- Бренд недели ---------- */
+  .botw {
+    background: var(--brand-soft); border: 1px solid var(--line); border-radius: 14px;
+    padding: 14px 16px; margin-top: 14px;
+  }
+  .botw-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .botw-label { font-size: 12px; color: var(--ink-soft); margin-bottom: 2px; }
+  .botw-brand { font-size: 19px; font-weight: 700; }
+  .botw-dates { font-size: 13px; color: var(--ink-soft); margin-top: 2px; }
+  .botw-btn {
+    border: 1px solid var(--brand); background: #fff; color: var(--brand-deep);
+    font-size: 12px; font-weight: 600; padding: 7px 12px; border-radius: 10px; cursor: pointer;
+  }
+  .botw-btn:hover { background: var(--brand-soft); }
+  .botw-list { margin-top: 12px; border-top: 1px solid var(--line); padding-top: 8px; display: none; }
+  .botw-item { display: flex; justify-content: space-between; gap: 10px; padding: 6px 0; font-size: 14px; color: var(--ink); }
+  .botw-item .bw-dates { color: var(--ink-soft); white-space: nowrap; }
+  .botw-item.current { font-weight: 700; }
+  .botw-item.past { opacity: .5; }
+
   /* ---------- День ---------- */
   #day-panel { margin-top: 26px; }
   #day-panel h3 { font-size: 16px; margin-bottom: 12px; text-transform: capitalize; }
@@ -172,6 +192,18 @@
       <div class="brand-toggle" id="brand-toggle"></div>
       <div class="updated" id="updated"></div>
     </header>
+
+    <div class="botw">
+      <div class="botw-head">
+        <div>
+          <div class="botw-label">Бренд недели</div>
+          <div class="botw-brand" id="botw-current"></div>
+          <div class="botw-dates" id="botw-dates"></div>
+        </div>
+        <button class="botw-btn" id="botw-toggle">Все бренды недели</button>
+      </div>
+      <div class="botw-list" id="botw-list"></div>
+    </div>
 
     <div class="month-nav">
       <button id="prev-month" title="Предыдущий месяц">‹</button>
@@ -237,6 +269,7 @@ async function boot() {
   document.getElementById("updated").textContent =
     "Данные обновлены: " + new Date(DATA.updatedAt).toLocaleString("ru-RU") + " (" + (DATA.timezone || "") + ")";
   render();
+  initBrandOfWeek();
 }
 
 /* ---------- Переключатель брендов ---------- */
@@ -402,6 +435,51 @@ function initVideos() {
     v.addEventListener("click", () => {
       if (v.paused) { v.muted = true; v.play(); } else { v.pause(); }
     });
+  });
+}
+
+/* ---------- Бренд недели ---------- */
+const BRAND_WEEKS = [
+  ["New Balance", "2026-09-14", "2026-09-27"],
+  ["Timberland", "2026-09-28", "2026-10-11"],
+  ["UGG", "2026-10-12", "2026-10-25"],
+  ["Aritzia", "2026-10-26", "2026-11-08"],
+  ["Costco", "2026-11-09", "2026-11-22"],
+  ["Tiffany", "2026-11-23", "2026-12-06"],
+  ["Ralph Lauren", "2026-12-07", "2026-12-20"],
+];
+const MONTHS_GEN = ["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"];
+
+function fmtRange(start, end) {
+  const s = new Date(start + "T00:00:00"), e = new Date(end + "T00:00:00");
+  return `${s.getDate()} ${MONTHS_GEN[s.getMonth()]} — ${e.getDate()} ${MONTHS_GEN[e.getMonth()]}`;
+}
+
+function initBrandOfWeek() {
+  const curEl = document.getElementById("botw-current");
+  const datesEl = document.getElementById("botw-dates");
+  const listEl = document.getElementById("botw-list");
+  const btn = document.getElementById("botw-toggle");
+
+  let currentIdx = BRAND_WEEKS.findIndex(([ , s, e]) => todayStr >= s && todayStr <= e);
+  if (currentIdx === -1) {
+    const next = BRAND_WEEKS.findIndex(([ , s]) => s > todayStr);
+    currentIdx = next === -1 ? BRAND_WEEKS.length - 1 : next;
+  }
+  const [name, start, end] = BRAND_WEEKS[currentIdx];
+  const isCurrent = todayStr >= start && todayStr <= end;
+  curEl.textContent = name;
+  datesEl.textContent = fmtRange(start, end) + (isCurrent ? "" : (todayStr < start ? " (скоро)" : " (завершено)"));
+
+  listEl.innerHTML = BRAND_WEEKS.map(([n, s, e], i) => {
+    const cls = i === currentIdx ? "botw-item current" : (e < todayStr ? "botw-item past" : "botw-item");
+    return `<div class="${cls}"><span>${n}</span><span class="bw-dates">${fmtRange(s, e)}</span></div>`;
+  }).join("");
+
+  btn.addEventListener("click", () => {
+    const open = listEl.style.display !== "block";
+    listEl.style.display = open ? "block" : "none";
+    btn.textContent = open ? "Свернуть список" : "Все бренды недели";
   });
 }
 

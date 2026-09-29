@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28T22:57:19",
+ "updatedAt": "2026-09-28T23:06:29",
  "timezone": "Europe/Moscow",
  "windowDays": 45,
  "brands": [
@@ -182,16 +182,16 @@
    "video": "https://static.metricool.com/planner/202608/6316245-file-18424313580098080067.mp4"
   },
   {
-   "id": 383982961,
-   "brand": "peshkov",
-   "date": "2026-09-29T09:00:00",
+   "id": 383985534,
+   "brand": "shopomaniia",
+   "date": "2026-09-29T09:03:00",
    "tz": "Europe/Moscow",
    "title": "Тгк: SHOPOMANIIA2012",
    "text": "Тгк: SHOPOMANIIA2012\nСама Рианна пришла на показы бренда Matières Fécales в рамках Парижской недели моды весна/лето 2026.\nКак вам образ?😍\n\n✅Обязательно подписывайтесь, чтобы не пропускать предстоящие skidки любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
    "trial": false,
-   "status": "Pending",
-   "url": "",
-   "video": "https://static.metricool.com/video-converter/4867598/202609/016927f648ed481e.mp4"
+   "status": "Published",
+   "url": "https://www.instagram.com/reel/Dd3EzEdjGPK/",
+   "video": "https://static.metricool.com/video-converter/4867598/202609/64fbe3194e2b4dcd.mp4"
   },
   {
    "id": 376709926,
@@ -206,6 +206,18 @@
    "video": "https://static.metricool.com/planner/202608/6316245-file-8163423325824154031.mp4"
   },
   {
+   "id": 381722620,
+   "brand": "shopomaniia",
+   "date": "2026-09-29T10:30:00",
+   "tz": "Europe/Moscow",
+   "title": "Лубутены: Тренд или классика, которая всегда в моде?",
+   "text": "Лубутены: Тренд или классика, которая всегда в моде?\n\nОткройте для себя мир модной обуви! Обсуждаем тренды на шпильки и туфли Louboutin, летние открытые модели, популярность шлепанцев и важность качественной обуви. Узнайте, почему комфорт и стиль идут рука об руку!\n\nПолный выпуск можно посмотреть на YouTube канале PESHKOV SHOES\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США И Европы\n\n#мода #обувь #тренды2026 #стиль #louboutin #шпильки #летняяобувь #комфорт #качество",
+   "trial": true,
+   "status": "Pending",
+   "url": "",
+   "video": "https://static.metricool.com/planner/202608/6316245-file-10428645844517623807.mp4"
+  },
+  {
    "id": 383937302,
    "brand": "peshkov",
    "date": "2026-09-29T12:00:00",
@@ -218,19 +230,7 @@
    "video": "https://static.metricool.com/common/202609/6316245-mtr_6852036509029038610.png"
   },
   {
-   "id": 381722620,
-   "brand": "shopomaniia",
-   "date": "2026-09-29T12:00:00",
-   "tz": "Europe/Moscow",
-   "title": "Лубутены: Тренд или классика, которая всегда в моде?",
-   "text": "Лубутены: Тренд или классика, которая всегда в моде?\n\nОткройте для себя мир модной обуви! Обсуждаем тренды на шпильки и туфли Louboutin, летние открытые модели, популярность шлепанцев и важность качественной обуви. Узнайте, почему комфорт и стиль идут рука об руку!\n\nПолный выпуск можно посмотреть на YouTube канале PESHKOV SHOES\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США И Европы\n\n#мода #обувь #тренды2026 #стиль #louboutin #шпильки #летняяобувь #комфорт #качество",
-   "trial": true,
-   "status": "Pending",
-   "url": "",
-   "video": "https://static.metricool.com/planner/202608/6316245-file-10428645844517623807.mp4"
-  },
-  {
-   "id": 383868155,
+   "id": 383985631,
    "brand": "shopomaniia",
    "date": "2026-09-29T12:00:00",
    "tz": "Europe/Moscow",

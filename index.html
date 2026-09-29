@@ -17,8 +17,8 @@
     --brand-soft: #e3eefb;
     --brand-bg: #f4f8fd;
     --reel: #4a86c5;
-    --trial: #a9cdf1;
-    --trial-ink: #35648f;
+    --trial: #f7e5a8;
+    --trial-ink: #8a7014;
   }
   body[data-brand="shopomaniia"] {
     --brand: #edaecd;
@@ -26,8 +26,8 @@
     --brand-soft: #fbe9f1;
     --brand-bg: #fdf5f8;
     --reel: #c96f9b;
-    --trial: #f3c6d9;
-    --trial-ink: #9c4a72;
+    --trial: #f7e5a8;
+    --trial-ink: #8a7014;
     --line: #f3dee8;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -180,8 +180,8 @@
     <div class="grid" id="calendar"></div>
 
     <div class="legend">
-      <span><i class="reel"></i> Обычный Reels</span>
-      <span><i class="trial"></i> Trial Reels</span>
+      <span><i class="reel"></i> Основная лента</span>
+      <span><i class="trial"></i> Триал Риллз</span>
     </div>
 
     <div id="day-panel"></div>
@@ -352,8 +352,8 @@ function renderDay() {
   posts.forEach((p, idx) => {
     const time = p.date.slice(11, 16);
     const badge = p.trial
-      ? `<span class="badge trial">Trial Reels</span>`
-      : `<span class="badge reel">Reels</span>`;
+      ? `<span class="badge trial">Триал Риллз</span>`
+      : `<span class="badge reel">Основная лента</span>`;
     const pub = p.status === "Published" ? `<span class="badge pub">Опубликовано</span>` : "";
     const link = p.url ? `<div style="margin-top:8px"><a class="post-link" href="${esc(p.url)}" target="_blank" rel="noopener">Открыть в Instagram ↗</a></div>` : "";
     const video = p.video

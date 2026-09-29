@@ -98,7 +98,7 @@
   .day:hover { border-color: var(--brand); }
   .day.selected { border: 2px solid var(--brand-deep); padding: 6px 7px; }
   .day.empty { background: transparent; border: none; cursor: default; }
-  .day.past { opacity: .38; cursor: default; background: #f2f4f7; }
+  .day.past { opacity: .5; background: #f7f9fb; }
   .day .num { font-size: 13px; font-weight: 600; margin-bottom: 5px; }
   .day.today .num {
     display: inline-block; background: var(--brand-deep); color: #fff; border-radius: 8px;
@@ -322,10 +322,6 @@ function render() {
   const label = document.getElementById("month-label");
   label.textContent = `${MONTHS[viewMonth]} ${viewYear}`;
 
-  const now = new Date();
-  document.getElementById("prev-month").disabled =
-    viewYear === now.getFullYear() && viewMonth === now.getMonth();
-
   const cal = document.getElementById("calendar");
   cal.innerHTML = "";
   DOWS.forEach(d => {
@@ -368,10 +364,8 @@ function render() {
       }
       cell.appendChild(chips);
     }
-    if (k >= todayStr) {
-      cell.onclick = () => { selectedDay = k; render(); renderDay(); scrollToDay(); };
-      if (selectedDay === k) cell.classList.add("selected");
-    }
+    cell.onclick = () => { selectedDay = k; render(); renderDay(); scrollToDay(); };
+    if (selectedDay === k) cell.classList.add("selected");
     cal.appendChild(cell);
   }
   renderDay();

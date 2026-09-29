@@ -19,6 +19,8 @@
     --reel: #4a86c5;
     --trial: #f7e5a8;
     --trial-ink: #8a7014;
+    --post: #d9c7f0;
+    --post-ink: #6a4d9e;
   }
   body[data-brand="shopomaniia"] {
     --brand: #edaecd;
@@ -28,6 +30,8 @@
     --reel: #c96f9b;
     --trial: #f7e5a8;
     --trial-ink: #8a7014;
+    --post: #d9c7f0;
+    --post-ink: #6a4d9e;
     --line: #f3dee8;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -104,6 +108,7 @@
   .chip { width: 14px; height: 14px; border-radius: 5px; }
   .chip.reel { background: var(--reel); }
   .chip.trial { background: var(--trial); border: 1px solid rgba(0,0,0,.06); }
+  .chip.post { background: var(--post); }
   .more { font-size: 10px; color: var(--ink-soft); }
 
   .legend { display: flex; gap: 18px; margin-top: 14px; font-size: 12px; color: var(--ink-soft); flex-wrap: wrap; }
@@ -111,6 +116,7 @@
   .legend i { width: 12px; height: 12px; border-radius: 4px; display: inline-block; }
   .legend i.reel { background: var(--reel); }
   .legend i.trial { background: var(--trial); }
+  .legend i.post { background: var(--post); }
 
   /* ---------- Бренд недели ---------- */
   .botw {
@@ -139,18 +145,28 @@
     background: var(--card); border: 1px solid var(--line); border-radius: 16px;
     padding: 14px; margin-bottom: 12px; display: flex; gap: 14px; align-items: flex-start;
   }
-  .thumb { flex: 0 0 128px; }
+  .thumb { flex: 0 0 128px; position: relative; }
   .thumb video, .thumb img {
     width: 128px; height: 180px; object-fit: cover; border-radius: 10px; background: #10151c;
   }
   .thumb video { cursor: pointer; }
   .thumb img { background: #eef2f7; display: block; }
+  .play-overlay {
+    position: absolute; inset: 0; display: none; align-items: center; justify-content: center;
+    background: rgba(20, 25, 35, .35); border-radius: 10px; cursor: pointer;
+  }
+  .play-overlay .pbtn {
+    width: 46px; height: 46px; border-radius: 50%; background: rgba(255, 255, 255, .92);
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 2px 10px rgba(0,0,0,.25);
+  }
   .post-body { flex: 1; min-width: 0; }
   .post-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 7px; }
   .time { font-weight: 700; font-size: 14px; }
   .badge { font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 999px; }
   .badge.reel { background: var(--reel); color: #fff; }
   .badge.trial { background: var(--trial); color: var(--trial-ink); }
+  .badge.post { background: var(--post); color: var(--post-ink); }
   .badge.pub { background: #e5f4e9; color: #3b8a58; }
   .post-title { font-size: 14px; font-weight: 600; margin-bottom: 6px; line-height: 1.35; }
   .post-text { font-size: 13px; color: var(--ink-soft); white-space: pre-wrap; line-height: 1.5; }
@@ -215,7 +231,8 @@
 
     <div class="legend">
       <span><i class="reel"></i> Основная лента</span>
-      <span><i class="trial"></i> Триал Риллз</span>
+      <span><i class="trial"></i> Триал Рилс</span>
+      <span><i class="post"></i> Пост</span>
     </div>
 
     <div id="day-panel"></div>
@@ -340,7 +357,7 @@ function render() {
       chips.className = "chips";
       posts.slice(0, 6).forEach(p => {
         const c = document.createElement("div");
-        c.className = "chip " + (p.trial ? "trial" : "reel");
+        c.className = "chip " + (p.manual ? "post" : p.trial ? "trial" : "reel");
         c.title = p.title;
         chips.appendChild(c);
       });
@@ -386,12 +403,14 @@ function renderDay() {
   }
   posts.forEach((p, idx) => {
     const time = p.date.slice(11, 16);
-    const badge = p.trial
-      ? `<span class="badge trial">Триал Риллз</span>`
-      : `<span class="badge reel">Основная лента</span>`;
+    const badge = p.manual
+      ? `<span class="badge post">Пост</span>`
+      : p.trial
+        ? `<span class="badge trial">Триал Рилс</span>`
+        : `<span class="badge reel">Основная лента</span>`;
     const pub = p.status === "Published" ? `<span class="badge pub">Опубликовано</span>` : "";
     const link = p.url ? `<div style="margin-top:8px"><a class="post-link" href="${esc(p.url)}" target="_blank" rel="noopener">Открыть в Instagram ↗</a></div>` : "";
-    const media = mediaHtml(p.video);
+    const media = mediaHtml(p.thumb || p.video);
     html += `
       <div class="post">
         ${media}
@@ -427,14 +446,32 @@ function mediaHtml(url) {
   return `<div class="thumb"><video muted playsinline preload="metadata" data-src="${esc(url)}"></video></div>`;
 }
 
-/* Превью: показываем первый кадр, клик — play/pause */
+/* Превью: показываем первый кадр, клик — play/pause со звуком,
+   на паузе — полупрозрачная кнопка play поверх видео */
 function initVideos() {
   document.querySelectorAll("#day-panel video").forEach(v => {
+    const wrap = v.closest(".thumb");
+    let ov = wrap.querySelector(".play-overlay");
+    if (!ov) {
+      ov = document.createElement("div");
+      ov.className = "play-overlay";
+      ov.innerHTML = '<div class="pbtn"><svg viewBox="0 0 24 24" width="22" height="22"><path d="M8 5v14l11-7z" fill="#24344a"/></svg></div>';
+      wrap.appendChild(ov);
+    }
+    let started = false;
+    const show = () => { ov.style.display = "flex"; };
+    const hide = () => { ov.style.display = "none"; };
     v.src = v.dataset.src + "#t=0.1";
     v.addEventListener("loadedmetadata", () => { try { v.currentTime = 0.1; } catch (e) {} });
-    v.addEventListener("click", () => {
-      if (v.paused) { v.muted = true; v.play(); } else { v.pause(); }
-    });
+    v.addEventListener("play", () => { started = true; hide(); });
+    v.addEventListener("pause", () => { if (started && !v.ended) show(); });
+    v.addEventListener("ended", () => { started = false; v.currentTime = 0; show(); });
+    const toggle = () => {
+      if (v.paused) { v.muted = false; v.play(); }
+      else { v.pause(); }
+    };
+    v.addEventListener("click", toggle);
+    ov.addEventListener("click", toggle);
   });
 }
 

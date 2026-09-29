@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28T23:06:29",
+ "updatedAt": "2026-09-28T23:27:30",
  "timezone": "Europe/Moscow",
  "windowDays": 45,
  "brands": [
@@ -48,6 +48,19 @@
    "status": "Published",
    "url": "https://www.instagram.com/reel/Dd0fuOPANxH/",
    "video": "https://static.metricool.com/video-converter/4867598/202609/6b8a1f9720284f2b.mp4"
+  },
+  {
+   "id": "manual-ig-Dd3EOfPAnlw",
+   "brand": "peshkov",
+   "date": "2026-09-28T09:00:00",
+   "tz": "Europe/Moscow",
+   "title": "Те самые мечты, которые больше нельзя откладывать 🤩",
+   "text": "тгк PESHKOV.SHOES\nТе самые мечты, которые больше нельзя откладывать 🤩\nПотому что таких zен вы не найдёте больше нигде 🔥\n💯оригинал\n\n🎁живой каталог бренда On из аутлета США ждёт вас в нашем тг-канале\n🔗Ссылка на канал в шапке профиля\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис и доставка брендов из США и Европы.",
+   "manual": true,
+   "trial": false,
+   "status": "Published",
+   "url": "https://www.instagram.com/peshkov.shoes/p/Dd3EOfPAnlw/",
+   "thumb": "media/manual_20260928_900_peshkov.jpg"
   },
   {
    "id": 376709891,

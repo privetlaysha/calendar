@@ -1,4 +1,19 @@
 {
- "posts": [],
- "updatedAt": "2026-09-29T01:30:45"
+ "posts": [
+  {
+   "id": "tg3_13026",
+   "brand": "shopomaniia",
+   "date": "2026-09-29T20:00:00",
+   "tz": "Europe/Moscow",
+   "title": "Карусель — ручная выкладка",
+   "text": "29 сентября \n20:00\nРучная выкладка\n#KIMI\nВсем здравствуйте \n@yasyachik @Peshkovausa @privetlaysha @smman_na Olga @smman_na Olga @anka_kontent @yasyachik @smman_na Olga @kabanovasmm",
+   "trial": false,
+   "manual": true,
+   "status": "Ручная выкладка",
+   "url": "",
+   "video": "",
+   "thumb": "media/tg3_13026.jpg"
+  }
+ ],
+ "updatedAt": "2026-09-29T10:48:56"
 }

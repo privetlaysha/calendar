@@ -79,6 +79,16 @@
   }
   .brand-toggle button.active { background: var(--brand); color: #fff; }
 
+  /* ---------- Вкладки платформ ---------- */
+  .platform-tabs { display: flex; justify-content: center; gap: 10px; margin: 2px 0 16px; }
+  .platform-tabs button {
+    border: 1px solid var(--line); background: #fff; padding: 10px 30px; border-radius: 12px;
+    font-size: 13px; font-weight: 700; letter-spacing: .06em; color: var(--ink-soft);
+    cursor: pointer; transition: all .2s;
+  }
+  .platform-tabs button.active { background: var(--brand); border-color: var(--brand); color: #fff; }
+  .platform-tabs button:not(.active):hover { border-color: var(--brand); }
+
   /* ---------- Навигация по месяцу ---------- */
   .month-nav { display: flex; align-items: center; justify-content: space-between; margin: 14px 0; }
   .month-nav h2 { font-size: 18px; text-transform: capitalize; }
@@ -209,6 +219,11 @@
       <div class="updated" id="updated"></div>
     </header>
 
+    <div class="platform-tabs" id="platform-tabs">
+      <button data-platform="instagram" class="active">INSTAGRAM</button>
+      <button data-platform="youtube">YOUTUBE</button>
+    </div>
+
     <div class="botw">
       <div class="botw-head">
         <div>
@@ -246,6 +261,7 @@ const DOWS = ["Пн","Вт","Ср","Чт","Пт","Сб","Вс"];
 
 let DATA = null;
 let brand = "peshkov";
+let platform = "instagram";       // instagram | youtube
 let viewYear, viewMonth;          // просматриваемый месяц
 let selectedDay = null;           // "YYYY-MM-DD"
 let todayStr = "";
@@ -310,6 +326,7 @@ function buildBrandToggle() {
 /* ---------- Календарь ---------- */
 function postsByDay() {
   const map = {};
+  if (platform !== "instagram") return map;      // youtube пока без данных
   DATA.posts.filter(p => p.brand === brand).forEach(p => {
     const k = p.date.slice(0, 10);
     (map[k] = map[k] || []).push(p);
@@ -317,6 +334,25 @@ function postsByDay() {
   Object.values(map).forEach(list => list.sort((a, b) => a.date.localeCompare(b.date)));
   return map;
 }
+
+/* ---------- Вкладки INSTAGRAM / YOUTUBE ---------- */
+function updatePlatformUI() {
+  const yt = platform === "youtube";
+  document.querySelector(".brand-toggle").style.display = yt ? "none" : "";
+  document.querySelector(".botw").style.display = yt ? "none" : "";
+  document.querySelector(".legend").style.display = yt ? "none" : "";
+  document.querySelectorAll("#platform-tabs button").forEach(b =>
+    b.classList.toggle("active", b.dataset.platform === platform));
+}
+document.querySelectorAll("#platform-tabs button").forEach(b => {
+  b.addEventListener("click", () => {
+    if (platform === b.dataset.platform) return;
+    platform = b.dataset.platform;
+    selectedDay = null;
+    updatePlatformUI();
+    render();
+  });
+});
 
 function render() {
   const label = document.getElementById("month-label");
@@ -394,6 +430,12 @@ function renderDay() {
   const [y, m, d] = selectedDay.split("-").map(Number);
   const dateObj = new Date(y, m - 1, d);
   const dateLabel = dateObj.toLocaleDateString("ru-RU", { weekday: "long", day: "numeric", month: "long" });
+
+  if (platform === "youtube") {
+    panel.innerHTML = `<h3>${dateLabel}</h3>
+      <div class="empty-day">Данные о публикациях YouTube появятся здесь позже</div>`;
+    return;
+  }
 
   let html = `<h3>${dateLabel}</h3>`;
   if (!posts.length) {

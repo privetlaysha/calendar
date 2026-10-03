@@ -72,12 +72,12 @@
   h1.title { font-size: 21px; }
   .updated { font-size: 12px; color: var(--ink-soft); width: 100%; }
 
-  .brand-toggle { display: flex; gap: 8px; background: #fff; padding: 5px; border-radius: 14px; border: 1px solid var(--line); }
-  .brand-toggle button {
-    border: none; background: transparent; padding: 9px 18px; border-radius: 10px;
+  .channel-toggle { display: flex; justify-content: center; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+  .channel-toggle button {
+    border: 1px solid var(--line); background: #fff; padding: 9px 18px; border-radius: 12px;
     font-size: 13px; font-weight: 600; color: var(--ink-soft); cursor: pointer; transition: all .2s;
   }
-  .brand-toggle button.active { background: var(--brand); color: #fff; }
+  .channel-toggle button.active { background: var(--brand); border-color: var(--brand); color: #fff; }
 
   /* ---------- Вкладки платформ ---------- */
   .platform-tabs { display: flex; justify-content: center; gap: 10px; margin: 2px 0 16px; }
@@ -193,7 +193,7 @@
   @media (max-width: 560px) {
     .post-card { flex-direction: column; }
     .thumb video, .thumb img { width: 100%; height: 200px; }
-    .brand-toggle button { padding: 8px 12px; font-size: 12px; }
+    .channel-toggle button { padding: 8px 12px; font-size: 12px; }
   }
 </style>
 </head>
@@ -215,7 +215,6 @@
   <div class="wrap">
     <header>
       <h1 class="title">Календарь публикаций</h1>
-      <div class="brand-toggle" id="brand-toggle"></div>
       <div class="updated" id="updated"></div>
     </header>
 
@@ -223,6 +222,8 @@
       <button data-platform="instagram" class="active">INSTAGRAM</button>
       <button data-platform="youtube">YOUTUBE</button>
     </div>
+
+    <div class="channel-toggle" id="channel-toggle"></div>
 
     <div class="botw">
       <div class="botw-head">
@@ -260,8 +261,8 @@ const MONTHS = ["Январь","Февраль","Март","Апрель","Ма�
 const DOWS = ["Пн","Вт","Ср","Чт","Пт","Сб","Вс"];
 
 let DATA = null;
-let brand = "peshkov";
 let platform = "instagram";       // instagram | youtube
+let channel = "peshkov";          // instagram: peshkov|shopomaniia; youtube: yt-man|yt-classic|yt-shop
 let viewYear, viewMonth;          // просматриваемый месяц
 let selectedDay = null;           // "YYYY-MM-DD"
 let todayStr = "";
@@ -298,25 +299,32 @@ async function boot() {
   const now = new Date();
   todayStr = dayKey(now);
   viewYear = now.getFullYear(); viewMonth = now.getMonth();
-  buildBrandToggle();
+  buildChannelToggle();
   document.getElementById("updated").textContent =
     "Данные обновлены: " + new Date(DATA.updatedAt).toLocaleString("ru-RU") + " (" + (DATA.timezone || "") + ")";
   render();
   initBrandOfWeek();
 }
 
-/* ---------- Переключатель брендов ---------- */
-function buildBrandToggle() {
-  const el = document.getElementById("brand-toggle");
+/* ---------- Переключатель каналов (под вкладками платформ) ---------- */
+const YT_CHANNELS = [
+  { id: "yt-man", name: "PESHKOV SHOES MAN" },
+  { id: "yt-classic", name: "PESHKOV SHOES CLASSIC" },
+  { id: "yt-shop", name: "SHOPOMANIIA2012" },
+];
+
+function buildChannelToggle() {
+  const el = document.getElementById("channel-toggle");
   el.innerHTML = "";
-  DATA.brands.forEach(b => {
+  const list = platform === "instagram" ? DATA.brands : YT_CHANNELS;
+  list.forEach(b => {
     const btn = document.createElement("button");
     btn.textContent = b.name;
-    btn.className = b.id === brand ? "active" : "";
+    btn.className = b.id === channel ? "active" : "";
     btn.onclick = () => {
-      brand = b.id;
-      document.body.dataset.brand = brand;
-      buildBrandToggle();
+      channel = b.id;
+      if (platform === "instagram") document.body.dataset.brand = channel;
+      buildChannelToggle();
       render();
     };
     el.appendChild(btn);
@@ -327,7 +335,7 @@ function buildBrandToggle() {
 function postsByDay() {
   const map = {};
   if (platform !== "instagram") return map;      // youtube пока без данных
-  DATA.posts.filter(p => p.brand === brand).forEach(p => {
+  DATA.posts.filter(p => p.brand === channel).forEach(p => {
     const k = p.date.slice(0, 10);
     (map[k] = map[k] || []).push(p);
   });
@@ -338,7 +346,6 @@ function postsByDay() {
 /* ---------- Вкладки INSTAGRAM / YOUTUBE ---------- */
 function updatePlatformUI() {
   const yt = platform === "youtube";
-  document.querySelector(".brand-toggle").style.display = yt ? "none" : "";
   document.querySelector(".botw").style.display = yt ? "none" : "";
   document.querySelector(".legend").style.display = yt ? "none" : "";
   document.querySelectorAll("#platform-tabs button").forEach(b =>
@@ -348,8 +355,11 @@ document.querySelectorAll("#platform-tabs button").forEach(b => {
   b.addEventListener("click", () => {
     if (platform === b.dataset.platform) return;
     platform = b.dataset.platform;
+    channel = platform === "instagram" ? "peshkov" : "yt-man";
+    if (platform === "instagram") document.body.dataset.brand = channel;
     selectedDay = null;
     updatePlatformUI();
+    buildChannelToggle();
     render();
   });
 });

@@ -121,13 +121,15 @@
   .chip.post { background: var(--post); }
   .more { font-size: 10px; color: var(--ink-soft); }
 
-  .legend { display: flex; gap: 18px; margin-top: 14px; font-size: 12px; color: var(--ink-soft); flex-wrap: wrap; }
-  .legend span { display: inline-flex; align-items: center; gap: 6px; }
-  .legend i { width: 12px; height: 12px; border-radius: 4px; display: inline-block; }
-  .legend i.reel { background: var(--reel); }
-  .legend i.trial { background: var(--trial); }
-  .legend i.post { background: var(--post); }
-
+  /* ---------- Счётчики месяца ---------- */
+  .counters { display: flex; justify-content: center; gap: 26px; margin-top: 14px; font-size: 14px; color: var(--ink); flex-wrap: wrap; }
+  .counters .cnt { display: inline-flex; align-items: center; gap: 8px; }
+  .counters .sq { width: 16px; height: 16px; border-radius: 5px; display: inline-block; }
+  .counters .sq.reel { background: var(--reel); }
+  .counters .sq.trial { background: var(--trial); border: 1px solid rgba(0,0,0,.06); }
+  .counters .sq.post { background: var(--post); }
+  .counters b { font-size: 15px; font-weight: 700; }
+  .counters .lbl { color: var(--ink-soft); }
   /* ---------- Бренд недели ---------- */
   .botw {
     background: var(--brand-soft); border: 1px solid var(--line); border-radius: 14px;
@@ -225,6 +227,16 @@
 
     <div class="channel-toggle" id="channel-toggle"></div>
 
+    <div class="month-nav">
+      <button id="prev-month" title="Предыдущий месяц">‹</button>
+      <h2 id="month-label"></h2>
+      <button id="next-month" title="Следующий месяц">›</button>
+    </div>
+
+    <div class="grid" id="calendar"></div>
+
+    <div class="counters" id="counters"></div>
+
     <div class="botw">
       <div class="botw-head">
         <div>
@@ -235,20 +247,6 @@
         <button class="botw-btn" id="botw-toggle">Все бренды недели</button>
       </div>
       <div class="botw-list" id="botw-list"></div>
-    </div>
-
-    <div class="month-nav">
-      <button id="prev-month" title="Предыдущий месяц">‹</button>
-      <h2 id="month-label"></h2>
-      <button id="next-month" title="Следующий месяц">›</button>
-    </div>
-
-    <div class="grid" id="calendar"></div>
-
-    <div class="legend">
-      <span><i class="reel"></i> Основная лента</span>
-      <span><i class="trial"></i> Триал Рилс</span>
-      <span><i class="post"></i> Пост</span>
     </div>
 
     <div id="day-panel"></div>
@@ -347,7 +345,7 @@ function postsByDay() {
 function updatePlatformUI() {
   const yt = platform === "youtube";
   document.querySelector(".botw").style.display = yt ? "none" : "";
-  document.querySelector(".legend").style.display = yt ? "none" : "";
+  document.querySelector(".counters").style.display = yt ? "none" : "";
   document.querySelectorAll("#platform-tabs button").forEach(b =>
     b.classList.toggle("active", b.dataset.platform === platform));
 }
@@ -414,7 +412,26 @@ function render() {
     if (selectedDay === k) cell.classList.add("selected");
     cal.appendChild(cell);
   }
+  renderCounters();
   renderDay();
+}
+
+/* ---------- Счётчики: выбранный канал + открытый месяц ---------- */
+function renderCounters() {
+  const el = document.getElementById("counters");
+  if (platform !== "instagram") { el.innerHTML = ""; return; }
+  const ym = `${viewYear}-${pad(viewMonth + 1)}`;
+  let trial = 0, reel = 0, post = 0;
+  DATA.posts.forEach(p => {
+    if (p.brand !== channel || p.date.slice(0, 7) !== ym) return;
+    if (p.manual || isImgPost(p)) post++;
+    else if (p.trial) trial++;
+    else reel++;
+  });
+  el.innerHTML = `
+    <span class="cnt"><i class="sq trial"></i><b>${trial}</b><span class="lbl">Триал Рилс</span></span>
+    <span class="cnt"><i class="sq reel"></i><b>${reel}</b><span class="lbl">Рилс</span></span>
+    <span class="cnt"><i class="sq post"></i><b>${post}</b><span class="lbl">Пост</span></span>`;
 }
 
 function scrollToDay() {
@@ -459,7 +476,7 @@ function renderDay() {
       ? `<span class="badge post">Пост</span>`
       : p.trial
         ? `<span class="badge trial">Триал Рилс</span>`
-        : `<span class="badge reel">Основная лента</span>`;
+        : `<span class="badge reel">Рилс</span>`;
     const pub = p.status === "Published" ? `<span class="badge pub">Опубликовано</span>` : "";
     const link = p.url ? `<div style="margin-top:8px"><a class="post-link" href="${esc(p.url)}" target="_blank" rel="noopener">Открыть в Instagram ↗</a></div>` : "";
     const media = mediaHtml(p.thumb || p.video);

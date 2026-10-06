@@ -206,6 +206,29 @@
   .botw-item.current { font-weight: 700; }
   .botw-item.past { opacity: .5; }
 
+  /* ---------- В этом месяце ---------- */
+  .msum { margin-top: 22px; text-align: center; }
+  .msum-title { font-size: 12px; font-weight: 700; letter-spacing: .12em; color: var(--ink-soft); margin-bottom: 10px; }
+  .msum-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+  .mtile { border-radius: 14px; padding: 16px 10px 14px; box-shadow: 0 2px 8px rgba(40, 60, 90, .06); }
+  .mtile .mv { font-size: 30px; line-height: 1.1; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .mtile .mv .arr { font-size: 22px; margin-left: 4px; }
+  .mtile .ml { font-size: 14px; margin-top: 4px; }
+  .mtile.views   { background: #8c97ee; color: #12164a; }
+  .mtile.reach   { background: #9fc9a5; color: #1f3a24; }
+  .mtile.engaged { background: #eeb5e6; color: #4a0f3d; }
+  .mtile.content { background: #e0aa4f; color: #4d3208; }
+  body.dark .mtile.views   { background: #3b437f; color: #e3e6ff; }
+  body.dark .mtile.reach   { background: #335a3a; color: #dff3e2; }
+  body.dark .mtile.engaged { background: #6c3762; color: #fde6f8; }
+  body.dark .mtile.content { background: #74531d; color: #fbecd2; }
+  @media (max-width: 700px) {
+    .msum-grid { grid-template-columns: 1fr 1fr; gap: 8px; }
+    .mtile .mv { font-size: 22px; }
+    .mtile .mv .arr { font-size: 17px; }
+    .mtile .ml { font-size: 12px; }
+  }
+
   /* ---------- День ---------- */
   #day-panel { margin-top: 26px; }
   #day-panel h3 { font-size: 16px; margin-bottom: 12px; text-transform: capitalize; }
@@ -340,6 +363,8 @@
       </div>
       <div class="botw-list" id="botw-list"></div>
     </div>
+
+    <div class="msum" id="month-sum"></div>
 
     <div id="day-panel"></div>
   </div>
@@ -487,6 +512,7 @@ function updatePlatformUI() {
   const yt = platform === "youtube";
   document.querySelector(".botw").style.display = yt ? "none" : "";
   document.querySelector(".counters").style.display = yt ? "none" : "";
+  document.getElementById("month-sum").style.display = yt ? "none" : "";
   document.querySelectorAll("#platform-tabs button").forEach(b =>
     b.classList.toggle("active", b.dataset.platform === platform));
 }
@@ -555,6 +581,7 @@ function render() {
     cal.appendChild(cell);
   }
   renderCounters();
+  renderMonthSummary();
   renderDay();
 }
 
@@ -597,6 +624,48 @@ window.goDay = k => {
   render();
   document.getElementById("day-panel").scrollIntoView({ behavior: "smooth", block: "start" });
 };
+
+/* «В этом месяце»: сумма за открытый месяц по выбранному аккаунту (Metricool Evolution).
+   Стрелка — сравнение с тем же числом дней предыдущего месяца. */
+const MONTHS_PREP = ["январе","феврале","марте","апреле","мае","июне","июле","августе","сентябре","октябре","ноябре","декабре"];
+function monthAgg(daily, y, m, maxDay) {
+  const ym = `${y}-${pad(m + 1)}`;
+  let views = 0, reachSum = 0, reachDays = 0, engaged = 0, content = 0, days = 0;
+  Object.entries(daily).forEach(([d, v]) => {
+    if (d.slice(0, 7) !== ym || +d.slice(8, 10) > maxDay || d >= todayStr) return;   // сегодня — неполный день
+    days++;
+    const [vw, rc, en, ct] = v;
+    views += vw || 0; engaged += en || 0; content += ct || 0;
+    if (rc != null) { reachSum += rc; reachDays++; }
+  });
+  return days ? { views, reach: reachDays ? Math.round(reachSum / reachDays) : 0, engaged, content, days } : null;
+}
+function fmtBig(n) {
+  if (n >= 1e6) return (n / 1e6).toFixed(2).replace(".", ",") + " млн";
+  return fmtNum(n);
+}
+function renderMonthSummary() {
+  const el = document.getElementById("month-sum");
+  const daily = platform === "instagram" && DATA.daily && DATA.daily[channel];
+  if (!daily) { el.innerHTML = ""; return; }
+  const cur = monthAgg(daily, viewYear, viewMonth, 31);
+  if (!cur) { el.innerHTML = ""; return; }
+  const lastDay = Math.max(...Object.keys(daily)
+    .filter(d => d.slice(0, 7) === `${viewYear}-${pad(viewMonth + 1)}` && d < todayStr).map(d => +d.slice(8, 10)));
+  const py = viewMonth === 0 ? viewYear - 1 : viewYear, pm = viewMonth === 0 ? 11 : viewMonth - 1;
+  const prev = monthAgg(daily, py, pm, lastDay);
+  const isNow = todayStr.slice(0, 7) === `${viewYear}-${pad(viewMonth + 1)}`;
+  const title = isNow ? "В ЭТОМ МЕСЯЦЕ" : `В ${MONTHS_PREP[viewMonth].toUpperCase()}`;
+  const tiles = [["views", "Просмотры"], ["reach", "Средний охват в день"], ["engaged", "Вовлечённые аккаунты"], ["content", "Всего контента"]];
+  el.innerHTML = `<div class="msum-title">${title}</div><div class="msum-grid">` + tiles.map(([k, label]) => {
+    let arr = "", hint = "";
+    if (prev && prev[k] !== cur[k]) {
+      arr = `<span class="arr">${cur[k] > prev[k] ? "↑" : "↓"}</span>`;
+      hint = ` title="1–${lastDay} ${MONTHS_GEN[pm]}: ${fmtNum(prev[k])}"`;
+    }
+    return `<div class="mtile ${k}"${hint}><div class="mv">${fmtBig(cur[k])}${arr}</div><div class="ml">${label}</div></div>`;
+  }).join("") + `</div>`;
+}
 
 function scrollToDay() {
   document.getElementById("day-panel").scrollIntoView({ behavior: "smooth", block: "nearest" });

@@ -271,6 +271,15 @@
   .post-link { font-size: 12px; color: var(--brand-deep); text-decoration: none; }
   .post-link:hover { text-decoration: underline; }
 
+  .day-nav { display: flex; justify-content: space-between; gap: 10px; margin-top: 4px; }
+  .day-nav button {
+    display: inline-flex; align-items: center; gap: 8px;
+    border: 1px solid var(--line); background: var(--card); color: var(--ink);
+    font-size: 13px; font-weight: 600; padding: 10px 14px; border-radius: 12px; cursor: pointer;
+  }
+  .day-nav button:hover { border-color: var(--brand); color: var(--brand-deep); }
+  .day-nav svg { width: 14px; height: 14px; flex: none; }
+  .fol.nodata { color: var(--ink-soft); font-weight: 400; }
   .empty-day { color: var(--ink-soft); font-size: 14px; background: var(--card); border: 1px dashed var(--line); border-radius: 14px; padding: 22px; text-align: center; }
 
   @media (max-width: 560px) {
@@ -405,7 +414,7 @@ function buildChannelToggle() {
   const el = document.getElementById("channel-toggle");
   el.innerHTML = "";
   const list = platform === "instagram" ? DATA.brands : YT_CHANNELS;
-  const followers = (platform === "instagram" && DATA.followers) || {};
+  const isIg = platform === "instagram";
   list.forEach(b => {
     const wrap = document.createElement("div");
     wrap.className = "ch";
@@ -419,7 +428,12 @@ function buildChannelToggle() {
       render();
     };
     wrap.appendChild(btn);
-    const f = followers[b.id];
+    const f = isIg ? followersFor(b.id) : null;
+    if (isIg && !f && selectedDay) {
+      const nd = document.createElement("div");
+      nd.className = "fol nodata"; nd.textContent = "нет данных";
+      wrap.appendChild(nd);
+    }
     if (f) {
       const fol = document.createElement("div");
       fol.className = "fol";
@@ -429,11 +443,31 @@ function buildChannelToggle() {
         : `<span class="down">−${fmtNum(-d)}</span>`;
       fol.innerHTML = `<b>${fmtNum(f.count)}</b>${delta}`;
       if (f.date) fol.title = "Подписчики Instagram по данным Metricool на " +
-        f.date.slice(8, 10) + "." + f.date.slice(5, 7) + "; прирост — за этот день";
+        f.date.slice(8, 10) + "." + f.date.slice(5, 7) + "; прирост — за этот день" +
+        (f.latest && selectedDay ? " (за выбранный день данных ещё нет — показан последний доступный)" : "");
       wrap.appendChild(fol);
     }
     el.appendChild(wrap);
   });
+}
+
+/* Подписчики на выбранный день (история из Metricool); без выбранного дня,
+   а также для сегодня/будущего — последний доступный день */
+function shiftDay(k, n) {
+  const [y, m, d] = k.split("-").map(Number);
+  return dayKey(new Date(y, m - 1, d + n));
+}
+function followersFor(id) {
+  const hist = (DATA.followersHistory || {})[id];
+  const latest = (DATA.followers || {})[id];
+  if (!selectedDay || !hist) return latest ? { ...latest, latest: true } : null;
+  if (hist[selectedDay] != null) {
+    const prev = hist[shiftDay(selectedDay, -1)];
+    return { count: hist[selectedDay], delta: prev != null ? hist[selectedDay] - prev : null, date: selectedDay };
+  }
+  const days = Object.keys(hist).sort();
+  if (days.length && selectedDay > days[days.length - 1]) return latest ? { ...latest, latest: true } : null;
+  return null;
 }
 
 /* ---------- Календарь ---------- */
@@ -470,6 +504,7 @@ document.querySelectorAll("#platform-tabs button").forEach(b => {
 });
 
 function render() {
+  if (DATA) buildChannelToggle();
   const label = document.getElementById("month-label");
   label.textContent = `${MONTHS[viewMonth]} ${viewYear}`;
 
@@ -515,7 +550,7 @@ function render() {
       }
       cell.appendChild(chips);
     }
-    cell.onclick = () => { selectedDay = k; render(); renderDay(); scrollToDay(); };
+    cell.onclick = () => { selectedDay = k; render(); };
     if (selectedDay === k) cell.classList.add("selected");
     cal.appendChild(cell);
   }
@@ -540,6 +575,28 @@ function renderCounters() {
     <span class="cnt"><i class="sq reel"></i><b>${reel}</b><span class="lbl">Рилс</span></span>
     <span class="cnt"><i class="sq post"></i><b>${post}</b><span class="lbl">Пост</span></span>`;
 }
+
+/* Кнопки «‹ 30 сентября» / «2 октября ›» под последней карточкой дня */
+const CHEV_L = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>';
+const CHEV_R = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 5l7 7-7 7"/></svg>';
+function dayLabelShort(k) {
+  const [, m, d] = k.split("-").map(Number);
+  return `${d} ${MONTHS_GEN[m - 1]}`;
+}
+function dayNavHtml() {
+  const prev = shiftDay(selectedDay, -1), next = shiftDay(selectedDay, 1);
+  return `<div class="day-nav">
+    <button onclick="goDay('${prev}')">${CHEV_L}${dayLabelShort(prev)}</button>
+    <button onclick="goDay('${next}')">${dayLabelShort(next)}${CHEV_R}</button>
+  </div>`;
+}
+window.goDay = k => {
+  selectedDay = k;
+  const [y, m] = k.split("-").map(Number);
+  viewYear = y; viewMonth = m - 1;
+  render();
+  document.getElementById("day-panel").scrollIntoView({ behavior: "smooth", block: "start" });
+};
 
 function scrollToDay() {
   document.getElementById("day-panel").scrollIntoView({ behavior: "smooth", block: "nearest" });
@@ -567,13 +624,13 @@ function renderDay() {
 
   if (platform === "youtube") {
     panel.innerHTML = `<h3>${dateLabel}</h3>
-      <div class="empty-day">Данные о публикациях YouTube появятся здесь позже</div>`;
+      <div class="empty-day">Данные о публикациях YouTube появятся здесь позже</div>` + dayNavHtml();
     return;
   }
 
   let html = `<h3>${dateLabel}</h3>`;
   if (!posts.length) {
-    html += `<div class="empty-day">Нет запланированных публикаций</div>`;
+    html += `<div class="empty-day">Нет запланированных публикаций</div>` + dayNavHtml();
     panel.innerHTML = html;
     return;
   }
@@ -616,6 +673,7 @@ function renderDay() {
         </div>
       </div>`;
   });
+  html += dayNavHtml();
   panel.innerHTML = html;
   DAY_POSTS = posts;
   initVideos();

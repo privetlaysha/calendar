@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T02:17:24",
+ "updatedAt": "2026-10-10T02:20:26",
  "timezone": "Europe/Moscow",
  "since": "2026-09-01",
  "channels": {
@@ -366,13 +366,355 @@
    "channelId": "UCBpP1YgRYO7EHymStzP67AQ",
    "title": "Peshkov shoes / Оригинальная обувь из США и Европы",
    "handle": "@peshkovshoes",
-   "owned": false,
+   "owned": true,
    "subs": 22200,
    "views": 38402012,
    "videoCount": 1183,
    "avatar": "https://yt3.ggpht.com/TgDHqyKZjORWEZ3Soo9a5jwJyA5VRpMlOjnz7l4YzSvEapFa3B6k-BmveQSQZ-aHabidMwywMw=s800-c-k-c0x00ffffff-no-rj",
    "subsHistory": {
     "2026-10-10": 22200
+   },
+   "daily": {
+    "2026-08-01": [
+     15575,
+     27,
+     191.3
+    ],
+    "2026-08-02": [
+     21226,
+     30,
+     211.6
+    ],
+    "2026-08-03": [
+     21946,
+     30,
+     223.3
+    ],
+    "2026-08-04": [
+     31921,
+     49,
+     311.8
+    ],
+    "2026-08-05": [
+     24787,
+     43,
+     271.8
+    ],
+    "2026-08-06": [
+     32489,
+     53,
+     307.8
+    ],
+    "2026-08-07": [
+     32166,
+     34,
+     261.8
+    ],
+    "2026-08-08": [
+     43203,
+     48,
+     314.5
+    ],
+    "2026-08-09": [
+     50873,
+     42,
+     362.3
+    ],
+    "2026-08-10": [
+     51093,
+     57,
+     334.1
+    ],
+    "2026-08-11": [
+     27678,
+     46,
+     253.9
+    ],
+    "2026-08-12": [
+     26565,
+     31,
+     223.0
+    ],
+    "2026-08-13": [
+     31027,
+     40,
+     285.4
+    ],
+    "2026-08-14": [
+     33378,
+     45,
+     295.8
+    ],
+    "2026-08-15": [
+     61580,
+     49,
+     469.5
+    ],
+    "2026-08-16": [
+     107569,
+     78,
+     718.5
+    ],
+    "2026-08-17": [
+     100577,
+     91,
+     661.9
+    ],
+    "2026-08-18": [
+     150691,
+     91,
+     920.4
+    ],
+    "2026-08-19": [
+     104434,
+     94,
+     654.1
+    ],
+    "2026-08-20": [
+     75214,
+     68,
+     527.4
+    ],
+    "2026-08-21": [
+     73220,
+     50,
+     470.6
+    ],
+    "2026-08-22": [
+     72038,
+     40,
+     449.0
+    ],
+    "2026-08-23": [
+     82324,
+     50,
+     527.9
+    ],
+    "2026-08-24": [
+     80145,
+     61,
+     521.6
+    ],
+    "2026-08-25": [
+     83345,
+     90,
+     513.4
+    ],
+    "2026-08-26": [
+     68269,
+     81,
+     464.7
+    ],
+    "2026-08-27": [
+     90737,
+     71,
+     581.4
+    ],
+    "2026-08-28": [
+     85339,
+     73,
+     548.3
+    ],
+    "2026-08-29": [
+     78217,
+     66,
+     504.5
+    ],
+    "2026-08-30": [
+     88185,
+     69,
+     584.1
+    ],
+    "2026-08-31": [
+     56644,
+     69,
+     402.8
+    ],
+    "2026-09-01": [
+     51071,
+     65,
+     364.2
+    ],
+    "2026-09-02": [
+     60202,
+     73,
+     384.7
+    ],
+    "2026-09-03": [
+     56287,
+     135,
+     363.8
+    ],
+    "2026-09-04": [
+     63076,
+     134,
+     364.0
+    ],
+    "2026-09-05": [
+     73540,
+     102,
+     436.1
+    ],
+    "2026-09-06": [
+     82784,
+     100,
+     505.1
+    ],
+    "2026-09-07": [
+     42615,
+     39,
+     272.2
+    ],
+    "2026-09-08": [
+     31837,
+     38,
+     218.3
+    ],
+    "2026-09-09": [
+     27598,
+     34,
+     212.8
+    ],
+    "2026-09-10": [
+     31178,
+     34,
+     227.0
+    ],
+    "2026-09-11": [
+     32527,
+     29,
+     248.2
+    ],
+    "2026-09-12": [
+     39369,
+     35,
+     301.4
+    ],
+    "2026-09-13": [
+     44319,
+     68,
+     333.2
+    ],
+    "2026-09-14": [
+     33133,
+     34,
+     230.7
+    ],
+    "2026-09-15": [
+     30823,
+     75,
+     236.5
+    ],
+    "2026-09-16": [
+     30005,
+     53,
+     205.4
+    ],
+    "2026-09-17": [
+     26697,
+     47,
+     193.0
+    ],
+    "2026-09-18": [
+     27345,
+     38,
+     195.7
+    ],
+    "2026-09-19": [
+     24769,
+     40,
+     188.0
+    ],
+    "2026-09-20": [
+     35456,
+     47,
+     250.8
+    ],
+    "2026-09-21": [
+     37082,
+     64,
+     244.4
+    ],
+    "2026-09-22": [
+     45409,
+     61,
+     256.1
+    ],
+    "2026-09-23": [
+     50557,
+     105,
+     314.7
+    ],
+    "2026-09-24": [
+     53366,
+     98,
+     306.4
+    ],
+    "2026-09-25": [
+     55107,
+     112,
+     344.1
+    ],
+    "2026-09-26": [
+     58575,
+     66,
+     372.7
+    ],
+    "2026-09-27": [
+     67640,
+     113,
+     410.8
+    ],
+    "2026-09-28": [
+     60185,
+     114,
+     422.5
+    ],
+    "2026-09-29": [
+     103885,
+     167,
+     695.5
+    ],
+    "2026-09-30": [
+     86159,
+     106,
+     537.5
+    ],
+    "2026-10-01": [
+     78221,
+     113,
+     471.6
+    ],
+    "2026-10-02": [
+     75436,
+     138,
+     476.6
+    ],
+    "2026-10-03": [
+     88630,
+     196,
+     574.9
+    ],
+    "2026-10-04": [
+     81603,
+     131,
+     524.1
+    ],
+    "2026-10-05": [
+     53317,
+     91,
+     351.6
+    ],
+    "2026-10-06": [
+     53344,
+     109,
+     343.3
+    ],
+    "2026-10-07": [
+     42373,
+     75,
+     257.5
+    ]
    }
   },
   "yt-shop": {
@@ -830,7 +1172,7 @@
    "thumb": "https://i.ytimg.com/vi/_PeSgqD4WXA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/_PeSgqD4WXA",
    "stats": {
-    "views": 6683,
+    "views": 6680,
     "likes": 42,
     "comments": 2,
     "follows": 7,
@@ -851,7 +1193,7 @@
    "thumb": "https://i.ytimg.com/vi/rifdXfin9po/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/rifdXfin9po",
    "stats": {
-    "views": 6356,
+    "views": 6353,
     "likes": 51,
     "comments": 4,
     "follows": 15,
@@ -935,7 +1277,7 @@
    "thumb": "https://i.ytimg.com/vi/d3AL8T7p77s/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/d3AL8T7p77s",
    "stats": {
-    "views": 8530,
+    "views": 8524,
     "likes": 86,
     "comments": 7,
     "follows": 12,
@@ -977,7 +1319,7 @@
    "thumb": "https://i.ytimg.com/vi/0gF8CeKw4LU/maxresdefault.jpg",
    "url": "https://youtu.be/0gF8CeKw4LU",
    "stats": {
-    "views": 67063,
+    "views": 67208,
     "likes": 1670,
     "comments": 91,
     "follows": 602,
@@ -1019,7 +1361,7 @@
    "thumb": "https://i.ytimg.com/vi/1HNLmre3YPs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/1HNLmre3YPs",
    "stats": {
-    "views": 357410,
+    "views": 357417,
     "likes": 3721,
     "comments": 141,
     "follows": 745,
@@ -1040,7 +1382,7 @@
    "thumb": "https://i.ytimg.com/vi/phYlURWYBLU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/phYlURWYBLU",
    "stats": {
-    "views": 1632536,
+    "views": 1632786,
     "likes": 38028,
     "comments": 568,
     "follows": 9375,
@@ -1103,7 +1445,7 @@
    "thumb": "https://i.ytimg.com/vi/qE-jXG00U-o/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/qE-jXG00U-o",
    "stats": {
-    "views": 168216,
+    "views": 168233,
     "likes": 2626,
     "comments": 67,
     "follows": 671,
@@ -1146,7 +1488,7 @@
    "url": "https://youtube.com/shorts/nHZRyvA6qA4",
    "stats": {
     "views": 182688,
-    "likes": 3217,
+    "likes": 3218,
     "comments": 50,
     "follows": 651,
     "avgWatch": 45,
@@ -1271,7 +1613,7 @@
    "thumb": "https://i.ytimg.com/vi/Pvh_ImcsjSs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/Pvh_ImcsjSs",
    "stats": {
-    "views": 10656,
+    "views": 10665,
     "likes": 90,
     "comments": 3,
     "follows": 4,
@@ -1292,7 +1634,7 @@
    "thumb": "https://i.ytimg.com/vi/_ZizNHLH_HA/maxresdefault.jpg",
    "url": "https://youtu.be/_ZizNHLH_HA",
    "stats": {
-    "views": 8179,
+    "views": 8184,
     "likes": 67,
     "comments": 18,
     "follows": 7,
@@ -1334,7 +1676,7 @@
    "thumb": "https://i.ytimg.com/vi/helZlb7rWDo/maxresdefault.jpg",
    "url": "https://youtu.be/helZlb7rWDo",
    "stats": {
-    "views": 108689,
+    "views": 109131,
     "likes": 1770,
     "comments": 93,
     "follows": 280,
@@ -1393,7 +1735,7 @@
    "thumb": "https://i.ytimg.com/vi/KAdDDYEIzS8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KAdDDYEIzS8",
    "stats": {
-    "views": 2208,
+    "views": 2227,
     "likes": 39,
     "comments": 2
    }
@@ -1412,7 +1754,11 @@
    "stats": {
     "views": 1949,
     "likes": 17,
-    "comments": 1
+    "comments": 1,
+    "follows": 0,
+    "avgWatch": 22,
+    "viewPct": 59.9,
+    "watchH": 3.2
    }
   },
   {
@@ -1429,7 +1775,11 @@
    "stats": {
     "views": 956,
     "likes": 5,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 10,
+    "viewPct": 79.7,
+    "watchH": 0.8
    }
   },
   {
@@ -1446,7 +1796,11 @@
    "stats": {
     "views": 1389,
     "likes": 13,
-    "comments": 2
+    "comments": 2,
+    "follows": 1,
+    "avgWatch": 32,
+    "viewPct": 50.8,
+    "watchH": 6.8
    }
   },
   {
@@ -1480,7 +1834,11 @@
    "stats": {
     "views": 1031,
     "likes": 8,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 15,
+    "viewPct": 36.8,
+    "watchH": 2.3
    }
   },
   {
@@ -1497,7 +1855,11 @@
    "stats": {
     "views": 1044,
     "likes": 5,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 15,
+    "viewPct": 40.1,
+    "watchH": 2.5
    }
   },
   {
@@ -1531,7 +1893,11 @@
    "stats": {
     "views": 2018,
     "likes": 22,
-    "comments": 1
+    "comments": 1,
+    "follows": 0,
+    "avgWatch": 20,
+    "viewPct": 81.9,
+    "watchH": 7.4
    }
   },
   {
@@ -1548,7 +1914,11 @@
    "stats": {
     "views": 1749,
     "likes": 6,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 12,
+    "viewPct": 61.9,
+    "watchH": 3.2
    }
   },
   {
@@ -1599,7 +1969,11 @@
    "stats": {
     "views": 1093,
     "likes": 7,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 13,
+    "viewPct": 78.8,
+    "watchH": 1.3
    }
   },
   {
@@ -1616,7 +1990,11 @@
    "stats": {
     "views": 1227,
     "likes": 26,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 21,
+    "viewPct": 35.7,
+    "watchH": 4.5
    }
   },
   {
@@ -1633,7 +2011,11 @@
    "stats": {
     "views": 1046,
     "likes": 10,
-    "comments": 0
+    "comments": 0,
+    "follows": 4,
+    "avgWatch": 17,
+    "viewPct": 55.0,
+    "watchH": 2.5
    }
   },
   {
@@ -1650,7 +2032,11 @@
    "stats": {
     "views": 1550,
     "likes": 21,
-    "comments": 1
+    "comments": 1,
+    "follows": 2,
+    "avgWatch": 15,
+    "viewPct": 44.0,
+    "watchH": 3.1
    }
   },
   {
@@ -1667,7 +2053,11 @@
    "stats": {
     "views": 2640,
     "likes": 24,
-    "comments": 0
+    "comments": 0,
+    "follows": 2,
+    "avgWatch": 17,
+    "viewPct": 60.4,
+    "watchH": 8.3
    }
   },
   {
@@ -1684,7 +2074,11 @@
    "stats": {
     "views": 209,
     "likes": 4,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 26,
+    "viewPct": 68.1,
+    "watchH": 0.7
    }
   },
   {
@@ -1699,9 +2093,13 @@
    "thumb": "https://i.ytimg.com/vi/gJeTpGTFSu8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/gJeTpGTFSu8",
    "stats": {
-    "views": 149975,
+    "views": 149992,
     "likes": 2626,
-    "comments": 26
+    "comments": 26,
+    "follows": 861,
+    "avgWatch": 33,
+    "viewPct": 66.6,
+    "watchH": 764.6
    }
   },
   {
@@ -1718,7 +2116,11 @@
    "stats": {
     "views": 1636,
     "likes": 11,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 22,
+    "viewPct": 51.2,
+    "watchH": 5.0
    }
   },
   {
@@ -1735,7 +2137,11 @@
    "stats": {
     "views": 1121,
     "likes": 3,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 18,
+    "viewPct": 48.4,
+    "watchH": 3.6
    }
   },
   {
@@ -1752,7 +2158,11 @@
    "stats": {
     "views": 1070,
     "likes": 3,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 12,
+    "viewPct": 69.2,
+    "watchH": 1.2
    }
   },
   {
@@ -1769,7 +2179,11 @@
    "stats": {
     "views": 1105,
     "likes": 6,
-    "comments": 0
+    "comments": 0,
+    "follows": 3,
+    "avgWatch": 18,
+    "viewPct": 38.7,
+    "watchH": 3.7
    }
   },
   {
@@ -1786,7 +2200,11 @@
    "stats": {
     "views": 3731,
     "likes": 41,
-    "comments": 0
+    "comments": 0,
+    "follows": 5,
+    "avgWatch": 32,
+    "viewPct": 63.6,
+    "watchH": 23.2
    }
   },
   {
@@ -1803,7 +2221,11 @@
    "stats": {
     "views": 1578,
     "likes": 14,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 13,
+    "viewPct": 98.6,
+    "watchH": 2.6
    }
   },
   {
@@ -1820,7 +2242,11 @@
    "stats": {
     "views": 1935,
     "likes": 12,
-    "comments": 2
+    "comments": 2,
+    "follows": 0,
+    "avgWatch": 26,
+    "viewPct": 54.6,
+    "watchH": 8.6
    }
   },
   {
@@ -1837,7 +2263,11 @@
    "stats": {
     "views": 3327,
     "likes": 43,
-    "comments": 0
+    "comments": 0,
+    "follows": 6,
+    "avgWatch": 23,
+    "viewPct": 79.0,
+    "watchH": 10.8
    }
   },
   {
@@ -1854,7 +2284,11 @@
    "stats": {
     "views": 1032,
     "likes": 6,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 12,
+    "viewPct": 51.5,
+    "watchH": 1.7
    }
   },
   {
@@ -1871,7 +2305,11 @@
    "stats": {
     "views": 2356,
     "likes": 15,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 15,
+    "viewPct": 78.8,
+    "watchH": 4.8
    }
   },
   {
@@ -1888,7 +2326,11 @@
    "stats": {
     "views": 1153,
     "likes": 8,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 12,
+    "viewPct": 36.6,
+    "watchH": 2.1
    }
   },
   {
@@ -1905,7 +2347,11 @@
    "stats": {
     "views": 2789,
     "likes": 22,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 19,
+    "viewPct": 61.7,
+    "watchH": 8.8
    }
   },
   {
@@ -1922,7 +2368,11 @@
    "stats": {
     "views": 1521,
     "likes": 25,
-    "comments": 2
+    "comments": 2,
+    "follows": 2,
+    "avgWatch": 28,
+    "viewPct": 45.5,
+    "watchH": 6.5
    }
   },
   {
@@ -1939,7 +2389,11 @@
    "stats": {
     "views": 1131,
     "likes": 10,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 16,
+    "viewPct": 44.6,
+    "watchH": 2.2
    }
   },
   {
@@ -1956,7 +2410,11 @@
    "stats": {
     "views": 1225,
     "likes": 9,
-    "comments": 0
+    "comments": 0,
+    "follows": 2,
+    "avgWatch": 12,
+    "viewPct": 67.1,
+    "watchH": 1.9
    }
   },
   {
@@ -1973,7 +2431,11 @@
    "stats": {
     "views": 3323,
     "likes": 6,
-    "comments": 2
+    "comments": 2,
+    "follows": 0,
+    "avgWatch": 12,
+    "viewPct": 61.2,
+    "watchH": 7.3
    }
   },
   {
@@ -1990,7 +2452,11 @@
    "stats": {
     "views": 1161,
     "likes": 5,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 12,
+    "viewPct": 71.0,
+    "watchH": 1.4
    }
   },
   {
@@ -2007,7 +2473,11 @@
    "stats": {
     "views": 1126,
     "likes": 6,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 19,
+    "viewPct": 82.0,
+    "watchH": 2.8
    }
   },
   {
@@ -2024,7 +2494,11 @@
    "stats": {
     "views": 1119,
     "likes": 5,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 12,
+    "viewPct": 47.0,
+    "watchH": 2.4
    }
   },
   {
@@ -2039,9 +2513,13 @@
    "thumb": "https://i.ytimg.com/vi/BCEgAj052uQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/BCEgAj052uQ",
    "stats": {
-    "views": 106820,
+    "views": 106830,
     "likes": 970,
-    "comments": 55
+    "comments": 55,
+    "follows": 192,
+    "avgWatch": 38,
+    "viewPct": 84.6,
+    "watchH": 598.3
    }
   },
   {
@@ -2058,7 +2536,11 @@
    "stats": {
     "views": 357,
     "likes": 6,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 43,
+    "viewPct": 57.9,
+    "watchH": 2.5
    }
   },
   {
@@ -2075,7 +2557,11 @@
    "stats": {
     "views": 1320,
     "likes": 19,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 28,
+    "viewPct": 40.2,
+    "watchH": 5.8
    }
   },
   {
@@ -2092,7 +2578,11 @@
    "stats": {
     "views": 1566,
     "likes": 10,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 11,
+    "viewPct": 49.0,
+    "watchH": 3.2
    }
   },
   {
@@ -2109,24 +2599,11 @@
    "stats": {
     "views": 1924,
     "likes": 28,
-    "comments": 1
-   }
-  },
-  {
-   "channel": "yt-classic",
-   "id": "Htbw0vfzSwY",
-   "title": "КАК ШВЕЙЦАРЦЫ УДЕЛАЛИ NIKE ? КРОССОВКИ ON",
-   "text": "Швейцария — это часы, банки, шоколад и… кроссовки? Да. Компания ON из Цюриха — самый быстрорастущий обувной бренд планеты: выручка росла на 70–80% в год, и уже сейчас ON планирует обогнать культовую ASICS, которой 76 лет. А ON — всего 15.\n\nЭти кроссовки носят марафонцы, теннисисты, актрисы и миллиардеры — Билл Гейтс и Зендея. И при этом никаких кричащих логотипов. Как ребята из Цюриха это провернули? Разбираем в выпуске:\n\n• Оливье Бернхард — триатлонист с 3 титулами чемпиона мира, который не находил «то самое ощущение бега» ни в одной паре;\n• прототип из садового шланга, приклеенного к подошве Nike — так родилась технология CloudTec;\n• почему бренд назвали ON и что означает изогнутая буква O в логотипе;\n• как ON занял пустую нишу между «жёсткой поддержкой» и «естественным бегом»;\n• золото Олимпиады-2012 в Лондоне и исследование Университета Цюриха;\n• стратегическая ошибка Nike, пандемия и взрывной рост продаж;\n• Роджер Федерер: как легенда тенниса сам пришёл к ON и выкупил 3% акций;\n• IPO на $746 млн при оценке в $7,3 млрд;\n• обзор 5 моделей для старта: Cloud 6, Cloudmonster, Cloudsurfer Next, Cloudboom Max, Cloudhorizon.\n\nОригинальные кроссовки ON в полном модельном ряду — со всеми расцветками, размерами и новинками — мы привозим напрямую из США по оригинальным ценам. Ссылка для заказа — ниже ⬇️\n\n\nТаймкоды  \n0:00 — Швейцария и кроссовки: как ON переписывает правила игры\n0:55 — Оливье Бернхард: чемпион мира в поиске ощущения бега\n1:50 — Садовый шланг + подошва Nike: рождение CloudTec\n2:45 — Трое друзей из Цюриха: основание ON Running\n3:20 — Почему ON: бег по облакам и логотип-выключатель\n3:55 — Рынок конца нулевых: пустая ниша\n4:40 — Олимпийское золото 2012 + исследование Университета Цюриха\n5:15 — Почему магазины отказывались от ON и как помог Nike\n6:00 — Пандемия: взрывной спрос\n6:35 — Федерер: разрыв с Nike и 3% акций ON\n7:20 — IPO: $746 млн, оценка $7,3 млрд\n7:45 — Кто носит ON: Зендея, Хадид, Гейтс\n8:15 — Обзор 5 моделей для старта\n9:05 — Итог + как заказать из США\n\nНаши соцсети: \n◼Дзен - https://dzen.ru/peshkovsh\n◼Рутуб - https://rutube.ru/channel/62248193/\n◼ВК - https://vk.com/peshkovshoes\n\n \n\n🔹 Заказать обувь из США и Европы со скидками: ссылку запросить у ольги\n🖤 Заказать одежду сегмента люкс из США и Европы: https://t.me/+f2ct2Lp2Iqs3M2Fi\n👉 Брендовая одежда со скидками: https://t.me/+yWEmP4uGIPE1ODNi\n\n\n\n#cloud6 #cloudmonster), поисковые (#купитькроссовки #оригинальнаяобувь), конкурентные (#nike #asics #hoka через теги) и аудиторные (#марафон #триатлон #мужскиекроссовки #женскиекроссовки",
-   "date": "2026-09-05T20:00:06",
-   "status": "public",
-   "short": false,
-   "duration": 569,
-   "thumb": "https://i.ytimg.com/vi/Htbw0vfzSwY/maxresdefault.jpg",
-   "url": "https://youtu.be/Htbw0vfzSwY",
-   "stats": {
-    "views": 4275,
-    "likes": 38,
-    "comments": 5
+    "comments": 1,
+    "follows": 1,
+    "avgWatch": 18,
+    "viewPct": 51.7,
+    "watchH": 4.5
    }
   },
   {
@@ -2143,7 +2620,11 @@
    "stats": {
     "views": 3416,
     "likes": 39,
-    "comments": 2
+    "comments": 2,
+    "follows": 2,
+    "avgWatch": 16,
+    "viewPct": 66.8,
+    "watchH": 7.2
    }
   },
   {
@@ -2160,7 +2641,11 @@
    "stats": {
     "views": 1045,
     "likes": 5,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 15,
+    "viewPct": 25.9,
+    "watchH": 2.8
    }
   },
   {
@@ -2177,7 +2662,11 @@
    "stats": {
     "views": 2375,
     "likes": 16,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 19,
+    "viewPct": 62.2,
+    "watchH": 7.2
    }
   },
   {
@@ -2194,7 +2683,11 @@
    "stats": {
     "views": 1498,
     "likes": 11,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 14,
+    "viewPct": 62.1,
+    "watchH": 2.6
    }
   },
   {
@@ -2211,7 +2704,11 @@
    "stats": {
     "views": 1152,
     "likes": 10,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 13,
+    "viewPct": 72.9,
+    "watchH": 1.6
    }
   },
   {
@@ -2228,7 +2725,11 @@
    "stats": {
     "views": 2035,
     "likes": 12,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 14,
+    "viewPct": 69.1,
+    "watchH": 4.6
    }
   },
   {
@@ -2245,7 +2746,11 @@
    "stats": {
     "views": 3021,
     "likes": 30,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 35,
+    "viewPct": 60.8,
+    "watchH": 18.3
    }
   },
   {
@@ -2262,7 +2767,11 @@
    "stats": {
     "views": 2497,
     "likes": 31,
-    "comments": 3
+    "comments": 3,
+    "follows": 0,
+    "avgWatch": 27,
+    "viewPct": 46.2,
+    "watchH": 10.3
    }
   },
   {
@@ -2279,7 +2788,11 @@
    "stats": {
     "views": 1117,
     "likes": 8,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 16,
+    "viewPct": 114.8,
+    "watchH": 1.6
    }
   },
   {
@@ -2296,7 +2809,11 @@
    "stats": {
     "views": 1173,
     "likes": 4,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 10,
+    "viewPct": 77.8,
+    "watchH": 1.3
    }
   },
   {
@@ -2313,7 +2830,11 @@
    "stats": {
     "views": 1087,
     "likes": 7,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 15,
+    "viewPct": 54.6,
+    "watchH": 1.9
    }
   },
   {
@@ -2330,7 +2851,11 @@
    "stats": {
     "views": 1102,
     "likes": 5,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 14,
+    "viewPct": 34.0,
+    "watchH": 2.5
    }
   },
   {
@@ -2347,7 +2872,11 @@
    "stats": {
     "views": 1716,
     "likes": 21,
-    "comments": 1
+    "comments": 1,
+    "follows": 0,
+    "avgWatch": 21,
+    "viewPct": 59.1,
+    "watchH": 4.5
    }
   },
   {
@@ -2364,7 +2893,11 @@
    "stats": {
     "views": 219,
     "likes": 5,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 11,
+    "viewPct": 57.4,
+    "watchH": 0.4
    }
   },
   {
@@ -2381,7 +2914,11 @@
    "stats": {
     "views": 1642,
     "likes": 11,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 16,
+    "viewPct": 66.8,
+    "watchH": 3.0
    }
   },
   {
@@ -2398,7 +2935,11 @@
    "stats": {
     "views": 195,
     "likes": 4,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 28,
+    "viewPct": 62.4,
+    "watchH": 0.8
    }
   },
   {
@@ -2415,7 +2956,11 @@
    "stats": {
     "views": 12653,
     "likes": 124,
-    "comments": 7
+    "comments": 7,
+    "follows": 15,
+    "avgWatch": 40,
+    "viewPct": 72.1,
+    "watchH": 84.3
    }
   },
   {
@@ -2466,7 +3011,11 @@
    "stats": {
     "views": 1290,
     "likes": 14,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 23,
+    "viewPct": 39.4,
+    "watchH": 5.4
    }
   },
   {
@@ -2483,7 +3032,11 @@
    "stats": {
     "views": 2400,
     "likes": 16,
-    "comments": 1
+    "comments": 1,
+    "follows": 2,
+    "avgWatch": 14,
+    "viewPct": 96.6,
+    "watchH": 4.2
    }
   },
   {
@@ -2500,7 +3053,11 @@
    "stats": {
     "views": 2464,
     "likes": 23,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 29,
+    "viewPct": 54.4,
+    "watchH": 11.9
    }
   },
   {
@@ -2517,7 +3074,11 @@
    "stats": {
     "views": 10630,
     "likes": 73,
-    "comments": 5
+    "comments": 5,
+    "follows": 10,
+    "avgWatch": 166,
+    "viewPct": 26.9,
+    "watchH": 154.7
    }
   },
   {
@@ -2534,7 +3095,11 @@
    "stats": {
     "views": 1141,
     "likes": 11,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 17,
+    "viewPct": 37.7,
+    "watchH": 3.5
    }
   },
   {
@@ -2551,7 +3116,11 @@
    "stats": {
     "views": 1107,
     "likes": 6,
-    "comments": 1
+    "comments": 1,
+    "follows": 3,
+    "avgWatch": 11,
+    "viewPct": 81.9,
+    "watchH": 1.2
    }
   },
   {
@@ -2585,7 +3154,11 @@
    "stats": {
     "views": 2335,
     "likes": 21,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 26,
+    "viewPct": 55.4,
+    "watchH": 11.5
    }
   },
   {
@@ -2602,7 +3175,11 @@
    "stats": {
     "views": 11030,
     "likes": 168,
-    "comments": 5
+    "comments": 5,
+    "follows": 7,
+    "avgWatch": 33,
+    "viewPct": 59.5,
+    "watchH": 66.6
    }
   },
   {
@@ -2619,7 +3196,11 @@
    "stats": {
     "views": 2296,
     "likes": 19,
-    "comments": 1
+    "comments": 1,
+    "follows": 0,
+    "avgWatch": 24,
+    "viewPct": 57.0,
+    "watchH": 9.5
    }
   },
   {
@@ -2636,7 +3217,11 @@
    "stats": {
     "views": 1070,
     "likes": 13,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 18,
+    "viewPct": 49.4,
+    "watchH": 2.2
    }
   },
   {
@@ -2653,7 +3238,11 @@
    "stats": {
     "views": 2413,
     "likes": 13,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 13,
+    "viewPct": 89.8,
+    "watchH": 4.4
    }
   },
   {
@@ -2670,7 +3259,11 @@
    "stats": {
     "views": 1674,
     "likes": 17,
-    "comments": 1
+    "comments": 1,
+    "follows": 0,
+    "avgWatch": 37,
+    "viewPct": 63.9,
+    "watchH": 10.2
    }
   },
   {
@@ -2687,7 +3280,11 @@
    "stats": {
     "views": 1229,
     "likes": 9,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 14,
+    "viewPct": 41.5,
+    "watchH": 3.2
    }
   },
   {
@@ -2704,7 +3301,11 @@
    "stats": {
     "views": 3085,
     "likes": 56,
-    "comments": 1
+    "comments": 1,
+    "follows": 0,
+    "avgWatch": 33,
+    "viewPct": 58.5,
+    "watchH": 19.0
    }
   },
   {
@@ -2721,7 +3322,11 @@
    "stats": {
     "views": 5066,
     "likes": 80,
-    "comments": 5
+    "comments": 5,
+    "follows": 2,
+    "avgWatch": 25,
+    "viewPct": 62.7,
+    "watchH": 22.0
    }
   },
   {
@@ -2738,7 +3343,11 @@
    "stats": {
     "views": 1139,
     "likes": 3,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 10,
+    "viewPct": 80.8,
+    "watchH": 1.3
    }
   },
   {
@@ -2755,7 +3364,11 @@
    "stats": {
     "views": 1713,
     "likes": 11,
-    "comments": 1
+    "comments": 1,
+    "follows": 0,
+    "avgWatch": 10,
+    "viewPct": 88.7,
+    "watchH": 2.0
    }
   },
   {
@@ -2772,7 +3385,11 @@
    "stats": {
     "views": 1946,
     "likes": 11,
-    "comments": 0
+    "comments": 0,
+    "follows": 2,
+    "avgWatch": 25,
+    "viewPct": 59.6,
+    "watchH": 8.9
    }
   },
   {
@@ -2789,7 +3406,11 @@
    "stats": {
     "views": 2454,
     "likes": 49,
-    "comments": 1
+    "comments": 1,
+    "follows": 0,
+    "avgWatch": 33,
+    "viewPct": 53.8,
+    "watchH": 13.9
    }
   },
   {
@@ -2806,7 +3427,11 @@
    "stats": {
     "views": 1286,
     "likes": 13,
-    "comments": 1
+    "comments": 1,
+    "follows": 1,
+    "avgWatch": 29,
+    "viewPct": 54.8,
+    "watchH": 5.8
    }
   },
   {
@@ -2823,7 +3448,11 @@
    "stats": {
     "views": 1257,
     "likes": 9,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 11,
+    "viewPct": 80.0,
+    "watchH": 1.7
    }
   },
   {
@@ -2840,7 +3469,11 @@
    "stats": {
     "views": 283,
     "likes": 5,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 22,
+    "viewPct": 112.1,
+    "watchH": 0.7
    }
   },
   {
@@ -2857,7 +3490,11 @@
    "stats": {
     "views": 1710,
     "likes": 20,
-    "comments": 1
+    "comments": 1,
+    "follows": 1,
+    "avgWatch": 25,
+    "viewPct": 48.3,
+    "watchH": 6.5
    }
   },
   {
@@ -2874,7 +3511,11 @@
    "stats": {
     "views": 1607,
     "likes": 23,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 21,
+    "viewPct": 44.8,
+    "watchH": 5.7
    }
   },
   {
@@ -2891,7 +3532,11 @@
    "stats": {
     "views": 2710,
     "likes": 23,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 25,
+    "viewPct": 66.0,
+    "watchH": 11.1
    }
   },
   {
@@ -2908,7 +3553,11 @@
    "stats": {
     "views": 1483,
     "likes": 8,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 24,
+    "viewPct": 53.9,
+    "watchH": 6.2
    }
   },
   {
@@ -2925,7 +3574,11 @@
    "stats": {
     "views": 1513,
     "likes": 11,
-    "comments": 1
+    "comments": 1,
+    "follows": 2,
+    "avgWatch": 10,
+    "viewPct": 103.7,
+    "watchH": 1.9
    }
   },
   {
@@ -2942,7 +3595,11 @@
    "stats": {
     "views": 459,
     "likes": 12,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 36,
+    "viewPct": 57.6,
+    "watchH": 2.4
    }
   },
   {
@@ -2959,7 +3616,11 @@
    "stats": {
     "views": 1652,
     "likes": 21,
-    "comments": 0
+    "comments": 0,
+    "follows": 2,
+    "avgWatch": 28,
+    "viewPct": 46,
+    "watchH": 7.4
    }
   },
   {
@@ -2976,7 +3637,11 @@
    "stats": {
     "views": 6910,
     "likes": 56,
-    "comments": 10
+    "comments": 10,
+    "follows": 11,
+    "avgWatch": 145,
+    "viewPct": 48.3,
+    "watchH": 97.6
    }
   },
   {
@@ -2991,9 +3656,13 @@
    "thumb": "https://i.ytimg.com/vi/-xtuwISvqMM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/-xtuwISvqMM",
    "stats": {
-    "views": 4225,
+    "views": 4226,
     "likes": 49,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 33,
+    "viewPct": 65.7,
+    "watchH": 19.9
    }
   },
   {
@@ -3010,7 +3679,11 @@
    "stats": {
     "views": 434,
     "likes": 3,
-    "comments": 1
+    "comments": 1,
+    "follows": 2,
+    "avgWatch": 28,
+    "viewPct": 25.2,
+    "watchH": 1.5
    }
   },
   {
@@ -3027,7 +3700,11 @@
    "stats": {
     "views": 1070,
     "likes": 7,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 17,
+    "viewPct": 49.7,
+    "watchH": 2.3
    }
   },
   {
@@ -3044,7 +3721,11 @@
    "stats": {
     "views": 1550,
     "likes": 16,
-    "comments": 1
+    "comments": 1,
+    "follows": 1,
+    "avgWatch": 33,
+    "viewPct": 52.6,
+    "watchH": 8.2
    }
   },
   {
@@ -3061,7 +3742,11 @@
    "stats": {
     "views": 9070,
     "likes": 84,
-    "comments": 1
+    "comments": 1,
+    "follows": 1,
+    "avgWatch": 35,
+    "viewPct": 74.8,
+    "watchH": 48.2
    }
   },
   {
@@ -3078,7 +3763,11 @@
    "stats": {
     "views": 9108,
     "likes": 81,
-    "comments": 4
+    "comments": 4,
+    "follows": 6,
+    "avgWatch": 44,
+    "viewPct": 69.4,
+    "watchH": 63.9
    }
   },
   {
@@ -3095,7 +3784,11 @@
    "stats": {
     "views": 1688,
     "likes": 36,
-    "comments": 1
+    "comments": 1,
+    "follows": 3,
+    "avgWatch": 42,
+    "viewPct": 71.2,
+    "watchH": 13.8
    }
   },
   {
@@ -3112,7 +3805,11 @@
    "stats": {
     "views": 1216,
     "likes": 13,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 27,
+    "viewPct": 39.2,
+    "watchH": 4.5
    }
   },
   {
@@ -3129,7 +3826,11 @@
    "stats": {
     "views": 527,
     "likes": 8,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 29,
+    "viewPct": 64.2,
+    "watchH": 2.4
    }
   },
   {
@@ -3146,7 +3847,11 @@
    "stats": {
     "views": 502,
     "likes": 7,
-    "comments": 2
+    "comments": 2,
+    "follows": 1,
+    "avgWatch": 123,
+    "viewPct": 33.7,
+    "watchH": 6.2
    }
   },
   {
@@ -3163,7 +3868,11 @@
    "stats": {
     "views": 8193,
     "likes": 72,
-    "comments": 0
+    "comments": 0,
+    "follows": 6,
+    "avgWatch": 25,
+    "viewPct": 71.4,
+    "watchH": 34.1
    }
   },
   {
@@ -3180,7 +3889,11 @@
    "stats": {
     "views": 13043,
     "likes": 175,
-    "comments": 3
+    "comments": 3,
+    "follows": 11,
+    "avgWatch": 58,
+    "viewPct": 75.2,
+    "watchH": 146.3
    }
   },
   {
@@ -3197,7 +3910,11 @@
    "stats": {
     "views": 570,
     "likes": 10,
-    "comments": 2
+    "comments": 2,
+    "follows": 0,
+    "avgWatch": 127,
+    "viewPct": 24.3,
+    "watchH": 6.1
    }
   },
   {
@@ -3214,7 +3931,11 @@
    "stats": {
     "views": 1721,
     "likes": 13,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 20,
+    "viewPct": 52.4,
+    "watchH": 5.4
    }
   },
   {
@@ -3231,7 +3952,11 @@
    "stats": {
     "views": 3981,
     "likes": 53,
-    "comments": 0
+    "comments": 0,
+    "follows": 2,
+    "avgWatch": 32,
+    "viewPct": 58.2,
+    "watchH": 21.2
    }
   },
   {
@@ -3248,7 +3973,11 @@
    "stats": {
     "views": 8908,
     "likes": 186,
-    "comments": 4
+    "comments": 4,
+    "follows": 17,
+    "avgWatch": 49,
+    "viewPct": 60.6,
+    "watchH": 73.6
    }
   },
   {
@@ -3265,7 +3994,11 @@
    "stats": {
     "views": 7313,
     "likes": 111,
-    "comments": 4
+    "comments": 4,
+    "follows": 5,
+    "avgWatch": 29,
+    "viewPct": 54.9,
+    "watchH": 37.5
    }
   },
   {
@@ -3280,9 +4013,13 @@
    "thumb": "https://i.ytimg.com/vi/VE20gvsx9ww/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/VE20gvsx9ww",
    "stats": {
-    "views": 171183,
+    "views": 171218,
     "likes": 1661,
-    "comments": 75
+    "comments": 75,
+    "follows": 293,
+    "avgWatch": 50,
+    "viewPct": 67.6,
+    "watchH": 1320.9
    }
   },
   {
@@ -3297,9 +4034,13 @@
    "thumb": "https://i.ytimg.com/vi/5WccyX2P_PY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/5WccyX2P_PY",
    "stats": {
-    "views": 15003,
+    "views": 15012,
     "likes": 188,
-    "comments": 6
+    "comments": 6,
+    "follows": 8,
+    "avgWatch": 34,
+    "viewPct": 68.5,
+    "watchH": 86.0
    }
   },
   {
@@ -3316,7 +4057,11 @@
    "stats": {
     "views": 3141,
     "likes": 18,
-    "comments": 1
+    "comments": 1,
+    "follows": 1,
+    "avgWatch": 9,
+    "viewPct": 120.9,
+    "watchH": 4.6
    }
   },
   {
@@ -3333,7 +4078,11 @@
    "stats": {
     "views": 2371,
     "likes": 8,
-    "comments": 1
+    "comments": 1,
+    "follows": 1,
+    "avgWatch": 15,
+    "viewPct": 64.3,
+    "watchH": 4.9
    }
   },
   {
@@ -3350,7 +4099,11 @@
    "stats": {
     "views": 3141,
     "likes": 62,
-    "comments": 0
+    "comments": 0,
+    "follows": 6,
+    "avgWatch": 31,
+    "viewPct": 58.0,
+    "watchH": 19.4
    }
   },
   {
@@ -3365,9 +4118,13 @@
    "thumb": "https://i.ytimg.com/vi/B4CKnvGHlUE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/B4CKnvGHlUE",
    "stats": {
-    "views": 1521,
+    "views": 1523,
     "likes": 13,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 12,
+    "viewPct": 89.7,
+    "watchH": 2.2
    }
   },
   {
@@ -3384,7 +4141,11 @@
    "stats": {
     "views": 867,
     "likes": 8,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 13,
+    "viewPct": 75.0,
+    "watchH": 1.0
    }
   },
   {
@@ -3401,7 +4162,11 @@
    "stats": {
     "views": 5033,
     "likes": 81,
-    "comments": 1
+    "comments": 1,
+    "follows": 3,
+    "avgWatch": 25,
+    "viewPct": 71.6,
+    "watchH": 22.7
    }
   },
   {
@@ -3418,7 +4183,11 @@
    "stats": {
     "views": 893,
     "likes": 22,
-    "comments": 2
+    "comments": 2,
+    "follows": 8,
+    "avgWatch": 144,
+    "viewPct": 31.1,
+    "watchH": 14.2
    }
   },
   {
@@ -3435,7 +4204,11 @@
    "stats": {
     "views": 2425,
     "likes": 42,
-    "comments": 3
+    "comments": 3,
+    "follows": 3,
+    "avgWatch": 31,
+    "viewPct": 58.0,
+    "watchH": 10.4
    }
   },
   {
@@ -3452,7 +4225,11 @@
    "stats": {
     "views": 28459,
     "likes": 709,
-    "comments": 11
+    "comments": 11,
+    "follows": 72,
+    "avgWatch": 50,
+    "viewPct": 69.5,
+    "watchH": 201.1
    }
   },
   {
@@ -3469,7 +4246,11 @@
    "stats": {
     "views": 1543,
     "likes": 12,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 22,
+    "viewPct": 50.4,
+    "watchH": 5.0
    }
   },
   {
@@ -3486,7 +4267,11 @@
    "stats": {
     "views": 10163,
     "likes": 131,
-    "comments": 0
+    "comments": 0,
+    "follows": 5,
+    "avgWatch": 33,
+    "viewPct": 62.8,
+    "watchH": 50.9
    }
   },
   {
@@ -3503,7 +4288,11 @@
    "stats": {
     "views": 3603,
     "likes": 42,
-    "comments": 3
+    "comments": 3,
+    "follows": 1,
+    "avgWatch": 24,
+    "viewPct": 63.4,
+    "watchH": 15.4
    }
   },
   {
@@ -3520,7 +4309,11 @@
    "stats": {
     "views": 1504,
     "likes": 13,
-    "comments": 0
+    "comments": 0,
+    "follows": 2,
+    "avgWatch": 15,
+    "viewPct": 38.3,
+    "watchH": 4.4
    }
   },
   {
@@ -3535,9 +4328,13 @@
    "thumb": "https://i.ytimg.com/vi/QiO0ozMRm9o/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/QiO0ozMRm9o",
    "stats": {
-    "views": 6491,
+    "views": 6509,
     "likes": 62,
-    "comments": 1
+    "comments": 1,
+    "follows": 3,
+    "avgWatch": 44,
+    "viewPct": 88.5,
+    "watchH": 19.0
    }
   },
   {
@@ -3554,7 +4351,11 @@
    "stats": {
     "views": 1419,
     "likes": 14,
-    "comments": 0
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 19,
+    "viewPct": 43.8,
+    "watchH": 4.5
    }
   },
   {
@@ -3571,7 +4372,11 @@
    "stats": {
     "views": 1009,
     "likes": 9,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 12,
+    "viewPct": 58.0,
+    "watchH": 1.3
    }
   },
   {
@@ -3603,9 +4408,26 @@
    "thumb": "https://i.ytimg.com/vi/onGRB1f3NCo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/onGRB1f3NCo",
    "stats": {
-    "views": 10488,
+    "views": 10597,
     "likes": 160,
     "comments": 5
+   }
+  },
+  {
+   "channel": "yt-classic",
+   "id": "OHTkm5PF-pw",
+   "title": "Показ моды весна/лето 2027 - это событие, которое диктует глобальные тренды.",
+   "text": "тгк PESHKOV.SHOES\nПоказ моды весна/лето 2027 - это событие, которое диктует глобальные тренды.\nВ этом сезоне дизайнеры вышли далеко за рамки простого удобства, превратив обувь в главного героя.\n\nЧтобы не пропускать интересные новости- подписывайтесь 🤩\n➡️Больше трендовой обуви и новинок — в нашем Telegram-канале 🤍\n📎Ссылка в шапке профиля\n\nС уважением 🩵  \n@peshkov.shoes — байер-сервис и доставка брендов из США и Европы по всему миру 🌍",
+   "date": "2026-10-09T09:39:30",
+   "status": "private",
+   "short": true,
+   "duration": 26,
+   "thumb": "https://i9.ytimg.com/vi/OHTkm5PF-pw/maxresdefault.jpg?sqp=CKDtpdYG&rs=AOn4CLASmX2N87uQxNKH9jD5ZcZs9XDGFA",
+   "url": "https://youtube.com/shorts/OHTkm5PF-pw",
+   "stats": {
+    "views": 8,
+    "likes": 0,
+    "comments": 0
    }
   },
   {
@@ -3637,7 +4459,7 @@
    "thumb": "https://i.ytimg.com/vi/_Xa2sZw-T1E/maxresdefault.jpg",
    "url": "https://youtu.be/_Xa2sZw-T1E",
    "stats": {
-    "views": 2848,
+    "views": 2863,
     "likes": 37,
     "comments": 5
    }
@@ -3654,7 +4476,7 @@
    "thumb": "https://i.ytimg.com/vi/-hHFny3T4cY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/-hHFny3T4cY",
    "stats": {
-    "views": 1599,
+    "views": 1602,
     "likes": 21,
     "comments": 0
    }
@@ -3797,7 +4619,7 @@
    "thumb": "https://i.ytimg.com/vi/ZY3BxQfsQeY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ZY3BxQfsQeY",
    "stats": {
-    "views": 72525,
+    "views": 72522,
     "likes": 615,
     "comments": 173,
     "follows": 30,
@@ -4007,7 +4829,7 @@
    "thumb": "https://i.ytimg.com/vi/cYV_-GKQde4/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/cYV_-GKQde4",
    "stats": {
-    "views": 75123,
+    "views": 75117,
     "likes": 1881,
     "comments": 46,
     "follows": 33,
@@ -4382,7 +5204,7 @@
    "status": "private",
    "short": true,
    "duration": 50,
-   "thumb": "https://i9.ytimg.com/vi/gSLaz6ynafA/maxresdefault.jpg?sqp=CPTqpdYG&rs=AOn4CLB7ZA8jjOZF3hEQFm6jUWlq3HxQZg",
+   "thumb": "https://i9.ytimg.com/vi/gSLaz6ynafA/maxresdefault.jpg?sqp=CKDtpdYG&rs=AOn4CLDynxlt2mAl4dTdeqTWjlBddBskxg",
    "url": "https://youtube.com/shorts/gSLaz6ynafA",
    "stats": {
     "views": 260569,
@@ -4679,7 +5501,7 @@
    "thumb": "https://i.ytimg.com/vi/hZiboyUsIiI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/hZiboyUsIiI",
    "stats": {
-    "views": 240822,
+    "views": 240902,
     "likes": 645,
     "comments": 33,
     "follows": 27,
@@ -4973,7 +5795,7 @@
    "thumb": "https://i.ytimg.com/vi/M2Oh9YKroYM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/M2Oh9YKroYM",
    "stats": {
-    "views": 200849,
+    "views": 200861,
     "likes": 797,
     "comments": 42,
     "follows": 59,
@@ -5204,7 +6026,7 @@
    "thumb": "https://i.ytimg.com/vi/DV62KWSRb8I/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/DV62KWSRb8I",
    "stats": {
-    "views": 730263,
+    "views": 730290,
     "likes": 6385,
     "comments": 755,
     "follows": 1831,
@@ -6758,7 +7580,7 @@
    "thumb": "https://i.ytimg.com/vi/6tjNgTs9xqY/maxresdefault.jpg",
    "url": "https://youtu.be/6tjNgTs9xqY",
    "stats": {
-    "views": 289,
+    "views": 291,
     "likes": 7,
     "comments": 2,
     "follows": 0,
@@ -6884,7 +7706,7 @@
    "thumb": "https://i.ytimg.com/vi/mjhenoE1Al8/maxresdefault.jpg",
    "url": "https://youtu.be/mjhenoE1Al8",
    "stats": {
-    "views": 388,
+    "views": 390,
     "likes": 12,
     "comments": 2,
     "follows": 1,
@@ -6926,7 +7748,7 @@
    "thumb": "https://i.ytimg.com/vi/KQXEgaMJpr8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KQXEgaMJpr8",
    "stats": {
-    "views": 12026,
+    "views": 12027,
     "likes": 139,
     "comments": 9,
     "follows": 4,
@@ -7052,7 +7874,7 @@
    "thumb": "https://i.ytimg.com/vi/FYjRuXxkDnY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/FYjRuXxkDnY",
    "stats": {
-    "views": 12883,
+    "views": 12891,
     "likes": 142,
     "comments": 3,
     "follows": 32,
@@ -7094,7 +7916,7 @@
    "thumb": "https://i.ytimg.com/vi/KmYx8U1SmWc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KmYx8U1SmWc",
    "stats": {
-    "views": 441,
+    "views": 442,
     "likes": 6,
     "comments": 0,
     "follows": 0,
@@ -7157,7 +7979,7 @@
    "thumb": "https://i.ytimg.com/vi/htT6W4n3whk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/htT6W4n3whk",
    "stats": {
-    "views": 26264,
+    "views": 26269,
     "likes": 515,
     "comments": 4,
     "follows": 58,
@@ -7199,7 +8021,7 @@
    "thumb": "https://i.ytimg.com/vi/kG0MdGgV93M/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/kG0MdGgV93M",
    "stats": {
-    "views": 2635,
+    "views": 2637,
     "likes": 7,
     "comments": 0,
     "follows": 0,
@@ -7220,7 +8042,7 @@
    "thumb": "https://i.ytimg.com/vi/5_nn1qiZ4yI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/5_nn1qiZ4yI",
    "stats": {
-    "views": 1168,
+    "views": 1169,
     "likes": 13,
     "comments": 0,
     "follows": 0,
@@ -7241,7 +8063,7 @@
    "thumb": "https://i.ytimg.com/vi/9o8OiEFJNY8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/9o8OiEFJNY8",
    "stats": {
-    "views": 1082,
+    "views": 1084,
     "likes": 10,
     "comments": 1,
     "follows": 0,
@@ -7304,7 +8126,7 @@
    "thumb": "https://i.ytimg.com/vi/gSSDkOTYV38/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/gSSDkOTYV38",
    "stats": {
-    "views": 189,
+    "views": 198,
     "likes": 1,
     "comments": 0
    }

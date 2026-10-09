@@ -493,8 +493,8 @@ function buildChannelToggle() {
         ? `<span class="up">+${fmtNum(d)}</span>`
         : `<span class="down">−${fmtNum(-d)}</span>`;
       fol.innerHTML = `<b>${fmtNum(f.count)}</b>${delta}`;
-      if (f.date && !isIg) fol.title = "Подписчики YouTube (YouTube округляет до 3 знаков)" +
-        (f.delta != null ? "; прирост за " + f.date.slice(8, 10) + "." + f.date.slice(5, 7) + " — YouTube Analytics" : "");
+      if (f.date && !isIg) fol.title = "Подписчики YouTube на конец " + f.date.slice(8, 10) + "." + f.date.slice(5, 7) +
+        " (≈: текущее число от YouTube минус прирост следующих дней по Analytics; Analytics отстаёт на 1–3 дня)";
       else if (f.date) fol.title = "Подписчики Instagram по данным Metricool на " +
         f.date.slice(8, 10) + "." + f.date.slice(5, 7) + "; прирост — за этот день" +
         (f.latest && selectedDay ? " (за выбранный день данных ещё нет — показан последний доступный)" : "");
@@ -527,17 +527,25 @@ function followersFor(id) {
 const YT_THEME = { "yt-man": "peshkov", "yt-classic": "peshkov", "yt-shop": "shopomaniia" };
 function brandTheme() { return platform === "instagram" ? channel : (YT_THEME[channel] || "peshkov"); }
 function ytChan(id) { return YT && YT.channels && YT.channels[id]; }
-/* Подписчики YouTube: число — текущее (Data API), прирост — нетто за день из Analytics
+/* Подписчики YouTube на выбранный день: текущее число минус нетто-прирост следующих дней (Analytics)
    (для выбранного дня, иначе за последний день с данными). У CLASSIC Analytics нет —
    прирост считаем по сохранённой истории, если она есть. */
 function ytFollowersFor(id) {
   const c = ytChan(id);
   if (!c) return null;
   const daily = c.daily || {};
-  let day = selectedDay && daily[selectedDay] ? selectedDay : null;
-  if (!day) { const ks = Object.keys(daily).sort(); day = ks.length ? ks[ks.length - 1] : null; }
-  if (day && (!selectedDay || selectedDay >= day || daily[selectedDay]))
-    return { count: c.subs, delta: daily[day][1], date: day };
+  const ks = Object.keys(daily).sort();
+  const last = ks.length ? ks[ks.length - 1] : null;
+  if (last) {
+    // день без выбора или позже последних данных Analytics — последний доступный день
+    const day = !selectedDay || selectedDay > last ? last : (daily[selectedDay] ? selectedDay : null);
+    if (day) {
+      // число на конец дня = текущее − нетто-прирост всех следующих дней
+      let count = c.subs;
+      ks.forEach(k => { if (k > day) count -= daily[k][1]; });
+      return { count, delta: daily[day][1], date: day };
+    }
+  }
   const h = c.subsHistory || {};
   if (selectedDay && h[selectedDay] != null && h[shiftDay(selectedDay, -1)] != null)
     return { count: h[selectedDay], delta: h[selectedDay] - h[shiftDay(selectedDay, -1)], date: selectedDay };

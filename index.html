@@ -868,7 +868,7 @@ function fmtDur(s) {
 function renderYtDay(panel, vids, dateLabel) {
   let html = `<h3>${dateLabel}</h3>`;
   if (!vids.length) {
-    panel.innerHTML = html + `<div class="empty-day">Нет роликов</div>` + dayNavHtml();
+    panel.innerHTML = html + `<div class="empty-day">${YT ? "Нет роликов" : "Данные YouTube ещё не подключены"}</div>` + dayNavHtml();
     DAY_POSTS = []; return;
   }
   vids.forEach((v, idx) => {

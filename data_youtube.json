@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T02:20:26",
+ "updatedAt": "2026-10-11T15:58:26",
  "timezone": "Europe/Moscow",
  "since": "2026-09-01",
  "channels": {
@@ -10,12 +10,13 @@
    "title": "Peshkov shoes / Оригинальные кроссовки из США",
    "handle": "@peshkovshoesmen",
    "owned": true,
-   "subs": 24700,
-   "views": 13735396,
-   "videoCount": 214,
+   "subs": 26400,
+   "views": 13896415,
+   "videoCount": 215,
    "avatar": "https://yt3.ggpht.com/hTH98rf3hCZwJyiQ-KpxVnvNGaQvO8UzKeFcAn4ubFE2mWLcqpzj-lAIIbxnu2C4sqWU1mviZA=s800-c-k-c0x00ffffff-no-rj",
    "subsHistory": {
-    "2026-10-10": 24700
+    "2026-10-10": 24700,
+    "2026-10-11": 26400
    },
    "daily": {
     "2026-08-01": [
@@ -349,14 +350,19 @@
      536.5
     ],
     "2026-10-06": [
-     63118,
+     63098,
      321,
-     988.8
+     990.1
     ],
     "2026-10-07": [
      80260,
      511,
      1356.0
+    ],
+    "2026-10-08": [
+     88233,
+     541,
+     1506.2
     ]
    }
   },
@@ -367,12 +373,13 @@
    "title": "Peshkov shoes / Оригинальная обувь из США и Европы",
    "handle": "@peshkovshoes",
    "owned": true,
-   "subs": 22200,
-   "views": 38402012,
-   "videoCount": 1183,
+   "subs": 22300,
+   "views": 38448962,
+   "videoCount": 1187,
    "avatar": "https://yt3.ggpht.com/TgDHqyKZjORWEZ3Soo9a5jwJyA5VRpMlOjnz7l4YzSvEapFa3B6k-BmveQSQZ-aHabidMwywMw=s800-c-k-c0x00ffffff-no-rj",
    "subsHistory": {
-    "2026-10-10": 22200
+    "2026-10-10": 22200,
+    "2026-10-11": 22300
    },
    "daily": {
     "2026-08-01": [
@@ -706,7 +713,7 @@
      351.6
     ],
     "2026-10-06": [
-     53344,
+     53323,
      109,
      343.3
     ],
@@ -714,6 +721,11 @@
      42373,
      75,
      257.5
+    ],
+    "2026-10-08": [
+     38933,
+     57,
+     251.2
     ]
    }
   },
@@ -724,12 +736,13 @@
    "title": "SHOPOMANIIA2012 | БРЕНДЫ ИЗ США",
    "handle": "@shopomaniia2012",
    "owned": true,
-   "subs": 28800,
-   "views": 14597730,
-   "videoCount": 1509,
+   "subs": 28900,
+   "views": 14629737,
+   "videoCount": 1513,
    "avatar": "https://yt3.ggpht.com/puVMLgztFFfUiBZ6pMGWwgqOElHD4fPpHt94dblDYIjqoPaXmyZgykiTdrBPJvrO95sEbh-2zw=s800-c-k-c0x00ffffff-no-rj",
    "subsHistory": {
-    "2026-10-10": 28800
+    "2026-10-10": 28800,
+    "2026-10-11": 28900
    },
    "daily": {
     "2026-08-01": [
@@ -1063,14 +1076,19 @@
      211.7
     ],
     "2026-10-06": [
-     22211,
+     22151,
      44,
-     168.1
+     167.8
     ],
     "2026-10-07": [
      25322,
      46,
      211.6
+    ],
+    "2026-10-08": [
+     21884,
+     45,
+     160.0
     ]
    }
   }
@@ -1088,13 +1106,13 @@
    "thumb": "https://i.ytimg.com/vi/_08aArYyh90/maxresdefault.jpg",
    "url": "https://youtu.be/_08aArYyh90",
    "stats": {
-    "views": 59328,
-    "likes": 483,
+    "views": 59550,
+    "likes": 484,
     "comments": 156,
     "follows": 151,
     "avgWatch": 757,
     "viewPct": 24.0,
-    "watchH": 4382.6
+    "watchH": 4388.8
    }
   },
   {
@@ -1109,13 +1127,13 @@
    "thumb": "https://i.ytimg.com/vi/q9wOrwCk_mY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/q9wOrwCk_mY",
    "stats": {
-    "views": 6126,
-    "likes": 32,
+    "views": 6208,
+    "likes": 33,
     "comments": 1,
     "follows": 6,
     "avgWatch": 30,
-    "viewPct": 55.7,
-    "watchH": 27.9
+    "viewPct": 55.6,
+    "watchH": 28.0
    }
   },
   {
@@ -1130,12 +1148,12 @@
    "thumb": "https://i.ytimg.com/vi/io2katSkfGo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/io2katSkfGo",
    "stats": {
-    "views": 4767,
-    "likes": 49,
+    "views": 4860,
+    "likes": 51,
     "comments": 1,
     "follows": 3,
     "avgWatch": 32,
-    "viewPct": 70.2,
+    "viewPct": 70.1,
     "watchH": 20.2
    }
   },
@@ -1151,13 +1169,13 @@
    "thumb": "https://i.ytimg.com/vi/xSgZwto5LHk/maxresdefault.jpg",
    "url": "https://youtu.be/xSgZwto5LHk",
    "stats": {
-    "views": 10140,
-    "likes": 94,
-    "comments": 11,
-    "follows": 29,
+    "views": 10269,
+    "likes": 95,
+    "comments": 12,
+    "follows": 30,
     "avgWatch": 178,
-    "viewPct": 43.2,
-    "watchH": 181.6
+    "viewPct": 43.3,
+    "watchH": 183.0
    }
   },
   {
@@ -1172,13 +1190,13 @@
    "thumb": "https://i.ytimg.com/vi/_PeSgqD4WXA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/_PeSgqD4WXA",
    "stats": {
-    "views": 6680,
+    "views": 6725,
     "likes": 42,
     "comments": 2,
     "follows": 7,
-    "avgWatch": 25,
-    "viewPct": 69.5,
-    "watchH": 25.4
+    "avgWatch": 24,
+    "viewPct": 69.4,
+    "watchH": 25.5
    }
   },
   {
@@ -1193,13 +1211,13 @@
    "thumb": "https://i.ytimg.com/vi/rifdXfin9po/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/rifdXfin9po",
    "stats": {
-    "views": 6353,
+    "views": 6419,
     "likes": 51,
     "comments": 4,
     "follows": 15,
     "avgWatch": 35,
     "viewPct": 69.4,
-    "watchH": 32.0
+    "watchH": 32.1
    }
   },
   {
@@ -1214,13 +1232,13 @@
    "thumb": "https://i.ytimg.com/vi/hrf5KR0wD3o/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/hrf5KR0wD3o",
    "stats": {
-    "views": 9317,
-    "likes": 74,
+    "views": 9381,
+    "likes": 77,
     "comments": 2,
     "follows": 17,
     "avgWatch": 46,
-    "viewPct": 72.7,
-    "watchH": 68.0
+    "viewPct": 72.6,
+    "watchH": 68.2
    }
   },
   {
@@ -1235,13 +1253,13 @@
    "thumb": "https://i.ytimg.com/vi/6F406jXn2Bs/maxresdefault.jpg",
    "url": "https://youtu.be/6F406jXn2Bs",
    "stats": {
-    "views": 47835,
-    "likes": 466,
+    "views": 48381,
+    "likes": 474,
     "comments": 130,
-    "follows": 130,
-    "avgWatch": 590,
-    "viewPct": 23,
-    "watchH": 3397.4
+    "follows": 132,
+    "avgWatch": 591,
+    "viewPct": 23.0,
+    "watchH": 3429.0
    }
   },
   {
@@ -1256,13 +1274,13 @@
    "thumb": "https://i.ytimg.com/vi/DFHcvxT70qU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/DFHcvxT70qU",
    "stats": {
-    "views": 20049,
-    "likes": 113,
+    "views": 20159,
+    "likes": 114,
     "comments": 7,
     "follows": 20,
     "avgWatch": 27,
     "viewPct": 77.5,
-    "watchH": 85.9
+    "watchH": 86.0
    }
   },
   {
@@ -1277,13 +1295,13 @@
    "thumb": "https://i.ytimg.com/vi/d3AL8T7p77s/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/d3AL8T7p77s",
    "stats": {
-    "views": 8524,
-    "likes": 86,
+    "views": 8623,
+    "likes": 87,
     "comments": 7,
     "follows": 12,
     "avgWatch": 34,
     "viewPct": 76.8,
-    "watchH": 45.4
+    "watchH": 45.6
    }
   },
   {
@@ -1298,13 +1316,13 @@
    "thumb": "https://i.ytimg.com/vi/EbECAOP7ego/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/EbECAOP7ego",
    "stats": {
-    "views": 12722,
-    "likes": 143,
+    "views": 12940,
+    "likes": 147,
     "comments": 5,
     "follows": 44,
     "avgWatch": 37,
     "viewPct": 68.1,
-    "watchH": 79.2
+    "watchH": 80.0
    }
   },
   {
@@ -1319,13 +1337,13 @@
    "thumb": "https://i.ytimg.com/vi/0gF8CeKw4LU/maxresdefault.jpg",
    "url": "https://youtu.be/0gF8CeKw4LU",
    "stats": {
-    "views": 67208,
-    "likes": 1670,
-    "comments": 91,
-    "follows": 602,
-    "avgWatch": 241,
-    "viewPct": 40.5,
-    "watchH": 1683.1
+    "views": 109379,
+    "likes": 2406,
+    "comments": 117,
+    "follows": 681,
+    "avgWatch": 239,
+    "viewPct": 40.2,
+    "watchH": 1901.7
    }
   },
   {
@@ -1340,13 +1358,13 @@
    "thumb": "https://i.ytimg.com/vi/qmxnExNA5Qw/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/qmxnExNA5Qw",
    "stats": {
-    "views": 41767,
-    "likes": 647,
+    "views": 42702,
+    "likes": 656,
     "comments": 31,
-    "follows": 92,
+    "follows": 93,
     "avgWatch": 34,
-    "viewPct": 71.3,
-    "watchH": 261.0
+    "viewPct": 71.4,
+    "watchH": 264.5
    }
   },
   {
@@ -1361,13 +1379,13 @@
    "thumb": "https://i.ytimg.com/vi/1HNLmre3YPs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/1HNLmre3YPs",
    "stats": {
-    "views": 357417,
-    "likes": 3721,
-    "comments": 141,
-    "follows": 745,
+    "views": 359486,
+    "likes": 3773,
+    "comments": 144,
+    "follows": 748,
     "avgWatch": 39,
     "viewPct": 73.0,
-    "watchH": 2779.5
+    "watchH": 2792.4
    }
   },
   {
@@ -1382,13 +1400,13 @@
    "thumb": "https://i.ytimg.com/vi/phYlURWYBLU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/phYlURWYBLU",
    "stats": {
-    "views": 1632786,
-    "likes": 38028,
-    "comments": 568,
-    "follows": 9375,
+    "views": 1674300,
+    "likes": 38936,
+    "comments": 576,
+    "follows": 9493,
     "avgWatch": 60,
-    "viewPct": 82.8,
-    "watchH": 14625.4
+    "viewPct": 82.9,
+    "watchH": 14909.8
    }
   },
   {
@@ -1403,20 +1421,20 @@
    "thumb": "https://i.ytimg.com/vi/qzS1VcIZn-Q/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/qzS1VcIZn-Q",
    "stats": {
-    "views": 16180,
-    "likes": 326,
+    "views": 16288,
+    "likes": 329,
     "comments": 2,
-    "follows": 135,
+    "follows": 136,
     "avgWatch": 29,
     "viewPct": 70.9,
-    "watchH": 78.7
+    "watchH": 79.0
    }
   },
   {
    "channel": "yt-man",
    "id": "maAS4eXTWRw",
    "title": "СКОЛЬКО стоит обувь в США? Вас это УДИВИТ! Sneaker Con в Лас-Вегасе",
-   "text": "🖤 Одежда сегмента люкс из США и Европы для мужчин: https://t.me/+ucuNLCP5Le01YWIy\n\nВсем привет! С вами Peshkov.shoes – ведущий байер-сервис оригинальной брендовой обуви из США и Европы. \n\nВ этом видео гуляем по выставке Sneaker Con и показываем изнутри, что происходит на одном из главных сникер-событий. Ходим по рядам, разглядываем редкие и коллекционные пары, следим за тем, как проходят обмены и перепродажи, и ловим саму атмосферу места, где собираются любители кроссовок со всего мира. \n\nЗаглянем к продавцам и коллекционерам, посмотрим на самые дорогие и необычные пары и обсудим, что сейчас в тренде и за чем охотятся люди. Вы увидите, как устроена выставка вживую, чем она цепляет и почему сюда стоит сходить. Оставайтесь до конца, чтобы увидеть пару, которая удивила нас на выставке больше всего.\n\nСтавьте лайк и подписывайтесь на канал, чтобы узнать, где купить оригинальную и комфортную обувь! \n\nКакая пара удивила вас? Напишите в комментариях. \n\n#мужскойстиль #обувь #мужскаямода #кроссовки #sneakercon #найк #мужскаяобувь #каквыглядетьстильно #peshkovshoes\n\n00:00 - Вступление\n00:26 - Факты про выставку\n01:26 - Обнаружили подделку?\n05:05 - Смотрим обувь\n19:43 - Завершение\n\nНаши соцсети: \n◼Дзен - https://dzen.ru/peshkovsh\n◼Рутуб - https://rutube.ru/channel/62248193/\n◼ВК - https://vk.com/peshkovshoes\n\n✔️Подписывайтесь на канал, здесь только оригинальные кроссовки и обувь из США!\n\nПо вопросам о рекламе на YouTube-канале и сотрудничестве - reklama_velizhanin@studio-youtube-nv.ru",
+   "text": "🖤 Одежда сегмента люкс из США и Европы для мужчин: https://t.me/+ucuNLCP5Le01YWIy\n\nВсем привет! С вами Peshkov.shoes – ведущий байер-сервис оригинальной брендовой обуви из США и Европы. \n\nВ этом видео гуляем по выставке Sneaker Con и показываем изнутри, что происходит на одном из главных сникер-событий. Ходим по рядам, разглядываем редкие и коллекционные пары, следим за тем, как проходят обмены и перепродажи, и ловим саму атмосферу места, где собираются любители кроссовок со всего мира. \n\nЗаглянем к продавцам и коллекционерам, посмотрим на самые дорогие и необычные пары и обсудим, что сейчас в тренде и за чем охотятся люди. Вы увидите, как устроена выставка вживую, чем она цепляет и почему сюда стоит сходить. Оставайтесь до конца, чтобы увидеть пару, которая удивила нас на выставке больше всего.\n\nСтавьте лайк и подписывайтесь на канал, чтобы узнать, где купить оригинальную и комфортную обувь! \n\nКакая пара удивила вас? Напишите в комментариях. \n\n#мужскойстиль #обувь #мужскаямода #кроссовки #sneakercon #найк #мужскаяобувь #каквыглядетьстильно #peshkovshoes\n\n00:00 - Вступление\n00:26 - Факты про выставку\n01:26 - Обнаружили подделку?\n05:05 - Смотрим обувь\n19:43 - Завершение\n\nНаши соцсети: \n◼Дзен - https://dzen.ru/peshkovsh\n◼Рутуб - https://rutube.ru/channel/62248193/\n◼ВК - https://vk.com/peshkovshoes\n\n✔️Подписывайтесь на канал, здесь только оригинальные кроссовки и обувь из США!\n\nПо вопросам о рекламе на YouTube-канале и сотрудничестве - reklama_velizhanin@studio-youtube-nv.ru\n\nExtreme Sport Trap Music | PISTA by Alex-Productions | https://onsound.eu/\nMusic promoted by https://www.chosic.com/free-music/all/\nCreative Commons CC BY 3.0\nhttps://creativecommons.org/licenses/by/3.0/",
    "date": "2026-09-23T19:33:37",
    "status": "public",
    "short": false,
@@ -1424,13 +1442,13 @@
    "thumb": "https://i.ytimg.com/vi/maAS4eXTWRw/maxresdefault.jpg",
    "url": "https://youtu.be/maAS4eXTWRw",
    "stats": {
-    "views": 12826,
-    "likes": 123,
+    "views": 12879,
+    "likes": 124,
     "comments": 21,
     "follows": 17,
-    "avgWatch": 323,
-    "viewPct": 27.4,
-    "watchH": 450.3
+    "avgWatch": 324,
+    "viewPct": 27.5,
+    "watchH": 453.4
    }
   },
   {
@@ -1445,13 +1463,13 @@
    "thumb": "https://i.ytimg.com/vi/qE-jXG00U-o/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/qE-jXG00U-o",
    "stats": {
-    "views": 168233,
-    "likes": 2626,
-    "comments": 67,
-    "follows": 671,
+    "views": 170190,
+    "likes": 2660,
+    "comments": 70,
+    "follows": 683,
     "avgWatch": 58,
     "viewPct": 71.2,
-    "watchH": 1503.0
+    "watchH": 1522.6
    }
   },
   {
@@ -1466,13 +1484,13 @@
    "thumb": "https://i.ytimg.com/vi/_kyqVq5IjEU/maxresdefault.jpg",
    "url": "https://youtu.be/_kyqVq5IjEU",
    "stats": {
-    "views": 11085,
-    "likes": 137,
+    "views": 11238,
+    "likes": 141,
     "comments": 22,
     "follows": 15,
-    "avgWatch": 727,
+    "avgWatch": 728,
     "viewPct": 19.0,
-    "watchH": 968.6
+    "watchH": 980.1
    }
   },
   {
@@ -1487,13 +1505,13 @@
    "thumb": "https://i.ytimg.com/vi/nHZRyvA6qA4/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/nHZRyvA6qA4",
    "stats": {
-    "views": 182688,
-    "likes": 3218,
+    "views": 186445,
+    "likes": 3287,
     "comments": 50,
-    "follows": 651,
+    "follows": 660,
     "avgWatch": 45,
-    "viewPct": 81.4,
-    "watchH": 1296.7
+    "viewPct": 81.3,
+    "watchH": 1317.7
    }
   },
   {
@@ -1508,13 +1526,13 @@
    "thumb": "https://i.ytimg.com/vi/pWMBQp3k_w0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/pWMBQp3k_w0",
    "stats": {
-    "views": 18690,
-    "likes": 310,
+    "views": 18976,
+    "likes": 318,
     "comments": 5,
     "follows": 40,
-    "avgWatch": 42,
-    "viewPct": 63.2,
-    "watchH": 130.0
+    "avgWatch": 43,
+    "viewPct": 63.8,
+    "watchH": 132.5
    }
   },
   {
@@ -1529,13 +1547,13 @@
    "thumb": "https://i.ytimg.com/vi/WdHHY6KTdqE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/WdHHY6KTdqE",
    "stats": {
-    "views": 4059,
-    "likes": 65,
+    "views": 4154,
+    "likes": 66,
     "comments": 5,
     "follows": 10,
     "avgWatch": 38,
-    "viewPct": 50.9,
-    "watchH": 25.4
+    "viewPct": 51.0,
+    "watchH": 25.9
    }
   },
   {
@@ -1550,13 +1568,13 @@
    "thumb": "https://i.ytimg.com/vi/Uxg7E_wQEZ0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/Uxg7E_wQEZ0",
    "stats": {
-    "views": 5229,
-    "likes": 89,
+    "views": 5346,
+    "likes": 91,
     "comments": 5,
     "follows": 7,
     "avgWatch": 37,
-    "viewPct": 89.6,
-    "watchH": 30.3
+    "viewPct": 90,
+    "watchH": 30.9
    }
   },
   {
@@ -1571,13 +1589,13 @@
    "thumb": "https://i.ytimg.com/vi/fjFxz0Bki_o/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/fjFxz0Bki_o",
    "stats": {
-    "views": 17959,
-    "likes": 123,
-    "comments": 7,
-    "follows": 15,
+    "views": 19348,
+    "likes": 130,
+    "comments": 12,
+    "follows": 16,
     "avgWatch": 40,
-    "viewPct": 78.1,
-    "watchH": 100.2
+    "viewPct": 77.9,
+    "watchH": 107.8
    }
   },
   {
@@ -1592,13 +1610,13 @@
    "thumb": "https://i.ytimg.com/vi/Nxjmwwau7jg/maxresdefault.jpg",
    "url": "https://youtu.be/Nxjmwwau7jg",
    "stats": {
-    "views": 1302,
-    "likes": 13,
+    "views": 1350,
+    "likes": 14,
     "comments": 3,
-    "follows": 1,
-    "avgWatch": 224,
-    "viewPct": 24.4,
-    "watchH": 16.6
+    "follows": 2,
+    "avgWatch": 232,
+    "viewPct": 25.2,
+    "watchH": 18.2
    }
   },
   {
@@ -1613,13 +1631,13 @@
    "thumb": "https://i.ytimg.com/vi/Pvh_ImcsjSs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/Pvh_ImcsjSs",
    "stats": {
-    "views": 10665,
-    "likes": 90,
-    "comments": 3,
-    "follows": 4,
+    "views": 11355,
+    "likes": 95,
+    "comments": 4,
+    "follows": 5,
     "avgWatch": 44,
-    "viewPct": 66.2,
-    "watchH": 75.8
+    "viewPct": 66.3,
+    "watchH": 80.0
    }
   },
   {
@@ -1634,13 +1652,13 @@
    "thumb": "https://i.ytimg.com/vi/_ZizNHLH_HA/maxresdefault.jpg",
    "url": "https://youtu.be/_ZizNHLH_HA",
    "stats": {
-    "views": 8184,
-    "likes": 67,
-    "comments": 18,
-    "follows": 7,
-    "avgWatch": 581,
-    "viewPct": 21.3,
-    "watchH": 340.4
+    "views": 8845,
+    "likes": 72,
+    "comments": 21,
+    "follows": 9,
+    "avgWatch": 577,
+    "viewPct": 21.2,
+    "watchH": 400.1
    }
   },
   {
@@ -1655,13 +1673,13 @@
    "thumb": "https://i.ytimg.com/vi/U15ZIDLFJtM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/U15ZIDLFJtM",
    "stats": {
-    "views": 2677,
-    "likes": 13,
+    "views": 2860,
+    "likes": 15,
     "comments": 1,
     "follows": 2,
     "avgWatch": 23,
-    "viewPct": 67.2,
-    "watchH": 9.3
+    "viewPct": 67.9,
+    "watchH": 10.4
    }
   },
   {
@@ -1676,13 +1694,13 @@
    "thumb": "https://i.ytimg.com/vi/helZlb7rWDo/maxresdefault.jpg",
    "url": "https://youtu.be/helZlb7rWDo",
    "stats": {
-    "views": 109131,
-    "likes": 1770,
-    "comments": 93,
-    "follows": 280,
-    "avgWatch": 235,
-    "viewPct": 44.9,
-    "watchH": 1135.2
+    "views": 198147,
+    "likes": 3110,
+    "comments": 165,
+    "follows": 530,
+    "avgWatch": 225,
+    "viewPct": 43.0,
+    "watchH": 1810.2
    }
   },
   {
@@ -1697,13 +1715,13 @@
    "thumb": "https://i.ytimg.com/vi/f7EWIBLbCtA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/f7EWIBLbCtA",
    "stats": {
-    "views": 2337,
-    "likes": 35,
+    "views": 2657,
+    "likes": 42,
     "comments": 1,
-    "follows": 2,
+    "follows": 4,
     "avgWatch": 27,
-    "viewPct": 66.5,
-    "watchH": 9.6
+    "viewPct": 65.8,
+    "watchH": 11.2
    }
   },
   {
@@ -1718,9 +1736,13 @@
    "thumb": "https://i.ytimg.com/vi/o8bq4WuW610/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/o8bq4WuW610",
    "stats": {
-    "views": 3265,
-    "likes": 41,
-    "comments": 1
+    "views": 4138,
+    "likes": 53,
+    "comments": 4,
+    "follows": 3,
+    "avgWatch": 38,
+    "viewPct": 70.8,
+    "watchH": 16.6
    }
   },
   {
@@ -1735,9 +1757,26 @@
    "thumb": "https://i.ytimg.com/vi/KAdDDYEIzS8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KAdDDYEIzS8",
    "stats": {
-    "views": 2227,
-    "likes": 39,
-    "comments": 2
+    "views": 4011,
+    "likes": 53,
+    "comments": 3
+   }
+  },
+  {
+   "channel": "yt-man",
+   "id": "qLzbc0AI7BQ",
+   "title": "Как NIKE создает ЛЕГЕНДЫ? / История кроссовок Jordan!",
+   "text": "🖤 Одежда сегмента люкс из США и Европы для мужчин: https://t.me/+IrrXfcYzEn1jNDYy\n\nВсем привет! С вами Peshkov.shoes – ведущий байер-сервис оригинальной брендовой обуви из США и Европы. \n\nВ этом видео разберем историю кроссовок Nike и то, как бренд превращал спортивную обувь в вещи, за которыми люди стоят в очередях. Одни модели годами остаются в продаже и не теряют спроса, а другие исчезают через сезон, хотя на старте выглядели не хуже.\n\nВы поймете, от чего зависит популярность кроссовок, как появилась технология Nike Air и почему история Джордана так сильно повлияла на весь рынок. Расскажу, какие модели выстреливали и что между ними было общего. Оставайтесь до конца, чтобы увидеть один из самых необычных гибридов Nike и понять, как бренд создает модели, которые потом становятся легендами.\n\nСтавьте лайк и подписывайтесь на канал, чтобы узнать, где купить оригинальную и комфортную обувь! \n\nКакая модель Nike у вас любимая и почему? Напишите в комментариях. \n\n#nike #найк #джордан #обувь #мужскаямода #кроссовки #мужскаяобувь #каквыглядетьстильно #peshkovshoes\n\n00:00 - Вступление\n00:48 - Что определяет популярность кроссовок?\n06:05 - Как использовали ключевые модели?\n07:34 - Про технологию Nike Air\n13:28 - История Джордана\n16:33 - Какие модели выстреливали?\n21:25 - Очень интересный гибрид\n23:17 - Завершение\n\nНаши соцсети: \n◼Дзен - https://dzen.ru/peshkovsh\n◼Рутуб - https://rutube.ru/channel/62248193/\n◼ВК - https://vk.com/peshkovshoes\n\n✔️Подписывайтесь на канал, здесь только оригинальные кроссовки и обувь из США!\n\nПо вопросам о рекламе на YouTube-канале и сотрудничестве - reklama_velizhanin@studio-youtube-nv.ru",
+   "date": "2026-10-10T10:16:28",
+   "status": "public",
+   "short": false,
+   "duration": 1404,
+   "thumb": "https://i.ytimg.com/vi/qLzbc0AI7BQ/maxresdefault.jpg",
+   "url": "https://youtu.be/qLzbc0AI7BQ",
+   "stats": {
+    "views": 2568,
+    "likes": 34,
+    "comments": 13
    }
   },
   {
@@ -1752,7 +1791,7 @@
    "thumb": "https://i.ytimg.com/vi/2Pm8nTk0Yak/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/2Pm8nTk0Yak",
    "stats": {
-    "views": 1949,
+    "views": 1950,
     "likes": 17,
     "comments": 1,
     "follows": 0,
@@ -1794,7 +1833,7 @@
    "thumb": "https://i.ytimg.com/vi/0VUyvygbGlA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/0VUyvygbGlA",
    "stats": {
-    "views": 1389,
+    "views": 1390,
     "likes": 13,
     "comments": 2,
     "follows": 1,
@@ -1832,7 +1871,7 @@
    "thumb": "https://i.ytimg.com/vi/ahTyeVWaTEA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ahTyeVWaTEA",
    "stats": {
-    "views": 1031,
+    "views": 1032,
     "likes": 8,
     "comments": 0,
     "follows": 1,
@@ -1988,7 +2027,7 @@
    "thumb": "https://i.ytimg.com/vi/E7XgGEeewXY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/E7XgGEeewXY",
    "stats": {
-    "views": 1227,
+    "views": 1228,
     "likes": 26,
     "comments": 0,
     "follows": 0,
@@ -2009,7 +2048,7 @@
    "thumb": "https://i.ytimg.com/vi/KE4_bVdSwJQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KE4_bVdSwJQ",
    "stats": {
-    "views": 1046,
+    "views": 1049,
     "likes": 10,
     "comments": 0,
     "follows": 4,
@@ -2030,7 +2069,7 @@
    "thumb": "https://i.ytimg.com/vi/WriV31SHakk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/WriV31SHakk",
    "stats": {
-    "views": 1550,
+    "views": 1552,
     "likes": 21,
     "comments": 1,
     "follows": 2,
@@ -2051,7 +2090,7 @@
    "thumb": "https://i.ytimg.com/vi/UXjzplrqgk0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/UXjzplrqgk0",
    "stats": {
-    "views": 2640,
+    "views": 2641,
     "likes": 24,
     "comments": 0,
     "follows": 2,
@@ -2072,7 +2111,7 @@
    "thumb": "https://i.ytimg.com/vi/TSGUst7uFWs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/TSGUst7uFWs",
    "stats": {
-    "views": 209,
+    "views": 210,
     "likes": 4,
     "comments": 0,
     "follows": 0,
@@ -2093,13 +2132,13 @@
    "thumb": "https://i.ytimg.com/vi/gJeTpGTFSu8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/gJeTpGTFSu8",
    "stats": {
-    "views": 149992,
-    "likes": 2626,
+    "views": 153548,
+    "likes": 2685,
     "comments": 26,
-    "follows": 861,
+    "follows": 874,
     "avgWatch": 33,
     "viewPct": 66.6,
-    "watchH": 764.6
+    "watchH": 776.0
    }
   },
   {
@@ -2156,7 +2195,7 @@
    "thumb": "https://i.ytimg.com/vi/84CbCvdHuyw/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/84CbCvdHuyw",
    "stats": {
-    "views": 1070,
+    "views": 1071,
     "likes": 3,
     "comments": 0,
     "follows": 0,
@@ -2177,13 +2216,13 @@
    "thumb": "https://i.ytimg.com/vi/S3ZGEfSj4BM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/S3ZGEfSj4BM",
    "stats": {
-    "views": 1105,
+    "views": 1106,
     "likes": 6,
     "comments": 0,
     "follows": 3,
     "avgWatch": 18,
     "viewPct": 38.7,
-    "watchH": 3.7
+    "watchH": 3.8
    }
   },
   {
@@ -2198,7 +2237,7 @@
    "thumb": "https://i.ytimg.com/vi/c9Asv8RGyAU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/c9Asv8RGyAU",
    "stats": {
-    "views": 3731,
+    "views": 3735,
     "likes": 41,
     "comments": 0,
     "follows": 5,
@@ -2219,7 +2258,7 @@
    "thumb": "https://i.ytimg.com/vi/9-7uGa7JpFc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/9-7uGa7JpFc",
    "stats": {
-    "views": 1578,
+    "views": 1580,
     "likes": 14,
     "comments": 0,
     "follows": 0,
@@ -2240,7 +2279,7 @@
    "thumb": "https://i.ytimg.com/vi/M70C9KA0VJs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/M70C9KA0VJs",
    "stats": {
-    "views": 1935,
+    "views": 1938,
     "likes": 12,
     "comments": 2,
     "follows": 0,
@@ -2261,8 +2300,8 @@
    "thumb": "https://i.ytimg.com/vi/nwRfqJQ2xvA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/nwRfqJQ2xvA",
    "stats": {
-    "views": 3327,
-    "likes": 43,
+    "views": 3339,
+    "likes": 44,
     "comments": 0,
     "follows": 6,
     "avgWatch": 23,
@@ -2282,7 +2321,7 @@
    "thumb": "https://i.ytimg.com/vi/_iBDakOLNgg/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/_iBDakOLNgg",
    "stats": {
-    "views": 1032,
+    "views": 1034,
     "likes": 6,
     "comments": 0,
     "follows": 0,
@@ -2303,7 +2342,7 @@
    "thumb": "https://i.ytimg.com/vi/8zOCIWWlUaE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/8zOCIWWlUaE",
    "stats": {
-    "views": 2356,
+    "views": 2359,
     "likes": 15,
     "comments": 0,
     "follows": 1,
@@ -2324,7 +2363,7 @@
    "thumb": "https://i.ytimg.com/vi/v3zdO5r4rTI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/v3zdO5r4rTI",
    "stats": {
-    "views": 1153,
+    "views": 1155,
     "likes": 8,
     "comments": 0,
     "follows": 0,
@@ -2345,7 +2384,7 @@
    "thumb": "https://i.ytimg.com/vi/6_dtVHzFsgs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/6_dtVHzFsgs",
    "stats": {
-    "views": 2789,
+    "views": 2791,
     "likes": 22,
     "comments": 0,
     "follows": 1,
@@ -2366,7 +2405,7 @@
    "thumb": "https://i.ytimg.com/vi/Cae-6nDTIME/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/Cae-6nDTIME",
    "stats": {
-    "views": 1521,
+    "views": 1523,
     "likes": 25,
     "comments": 2,
     "follows": 2,
@@ -2387,7 +2426,7 @@
    "thumb": "https://i.ytimg.com/vi/VtisFu-OkGs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/VtisFu-OkGs",
    "stats": {
-    "views": 1131,
+    "views": 1134,
     "likes": 10,
     "comments": 0,
     "follows": 0,
@@ -2408,7 +2447,7 @@
    "thumb": "https://i.ytimg.com/vi/fE9l3YcF95Y/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/fE9l3YcF95Y",
    "stats": {
-    "views": 1225,
+    "views": 1228,
     "likes": 9,
     "comments": 0,
     "follows": 2,
@@ -2429,7 +2468,7 @@
    "thumb": "https://i.ytimg.com/vi/ri7n5txBiKg/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ri7n5txBiKg",
    "stats": {
-    "views": 3323,
+    "views": 3325,
     "likes": 6,
     "comments": 2,
     "follows": 0,
@@ -2450,7 +2489,7 @@
    "thumb": "https://i.ytimg.com/vi/8vQiP1wbOxE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/8vQiP1wbOxE",
    "stats": {
-    "views": 1161,
+    "views": 1163,
     "likes": 5,
     "comments": 0,
     "follows": 0,
@@ -2471,7 +2510,7 @@
    "thumb": "https://i.ytimg.com/vi/4r1cmJBblMs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/4r1cmJBblMs",
    "stats": {
-    "views": 1126,
+    "views": 1128,
     "likes": 6,
     "comments": 0,
     "follows": 0,
@@ -2492,7 +2531,7 @@
    "thumb": "https://i.ytimg.com/vi/vaPD_215V3Y/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/vaPD_215V3Y",
    "stats": {
-    "views": 1119,
+    "views": 1121,
     "likes": 5,
     "comments": 0,
     "follows": 1,
@@ -2513,13 +2552,13 @@
    "thumb": "https://i.ytimg.com/vi/BCEgAj052uQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/BCEgAj052uQ",
    "stats": {
-    "views": 106830,
-    "likes": 970,
-    "comments": 55,
-    "follows": 192,
+    "views": 109732,
+    "likes": 1005,
+    "comments": 57,
+    "follows": 194,
     "avgWatch": 38,
-    "viewPct": 84.6,
-    "watchH": 598.3
+    "viewPct": 84.7,
+    "watchH": 610.7
    }
   },
   {
@@ -2534,13 +2573,13 @@
    "thumb": "https://i.ytimg.com/vi/1VgdzYxwDqk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/1VgdzYxwDqk",
    "stats": {
-    "views": 357,
+    "views": 360,
     "likes": 6,
     "comments": 0,
     "follows": 0,
     "avgWatch": 43,
-    "viewPct": 57.9,
-    "watchH": 2.5
+    "viewPct": 58.2,
+    "watchH": 2.6
    }
   },
   {
@@ -2555,7 +2594,7 @@
    "thumb": "https://i.ytimg.com/vi/GCHXGCmfOgE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/GCHXGCmfOgE",
    "stats": {
-    "views": 1320,
+    "views": 1321,
     "likes": 19,
     "comments": 0,
     "follows": 0,
@@ -2576,7 +2615,7 @@
    "thumb": "https://i.ytimg.com/vi/xbL0ZAdYvk8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/xbL0ZAdYvk8",
    "stats": {
-    "views": 1566,
+    "views": 1568,
     "likes": 10,
     "comments": 0,
     "follows": 0,
@@ -2597,7 +2636,7 @@
    "thumb": "https://i.ytimg.com/vi/qFTVUGhMQoU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/qFTVUGhMQoU",
    "stats": {
-    "views": 1924,
+    "views": 1925,
     "likes": 28,
     "comments": 1,
     "follows": 1,
@@ -2618,7 +2657,7 @@
    "thumb": "https://i.ytimg.com/vi/D2c_GQD0YmA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/D2c_GQD0YmA",
    "stats": {
-    "views": 3416,
+    "views": 3420,
     "likes": 39,
     "comments": 2,
     "follows": 2,
@@ -2639,7 +2678,7 @@
    "thumb": "https://i.ytimg.com/vi/t8g9Y4Ci0-g/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/t8g9Y4Ci0-g",
    "stats": {
-    "views": 1045,
+    "views": 1046,
     "likes": 5,
     "comments": 0,
     "follows": 0,
@@ -2660,7 +2699,7 @@
    "thumb": "https://i.ytimg.com/vi/pnCPFNzuQ9o/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/pnCPFNzuQ9o",
    "stats": {
-    "views": 2375,
+    "views": 2376,
     "likes": 16,
     "comments": 0,
     "follows": 0,
@@ -2681,7 +2720,7 @@
    "thumb": "https://i.ytimg.com/vi/ifshBdWKc6I/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ifshBdWKc6I",
    "stats": {
-    "views": 1498,
+    "views": 1499,
     "likes": 11,
     "comments": 0,
     "follows": 0,
@@ -2702,12 +2741,12 @@
    "thumb": "https://i.ytimg.com/vi/EOi29IJvlMc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/EOi29IJvlMc",
    "stats": {
-    "views": 1152,
+    "views": 1153,
     "likes": 10,
     "comments": 0,
     "follows": 0,
     "avgWatch": 13,
-    "viewPct": 72.9,
+    "viewPct": 72.8,
     "watchH": 1.6
    }
   },
@@ -2723,7 +2762,7 @@
    "thumb": "https://i.ytimg.com/vi/TodFWM36cBo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/TodFWM36cBo",
    "stats": {
-    "views": 2035,
+    "views": 2037,
     "likes": 12,
     "comments": 0,
     "follows": 0,
@@ -2744,7 +2783,7 @@
    "thumb": "https://i.ytimg.com/vi/YppKbQpDbQU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/YppKbQpDbQU",
    "stats": {
-    "views": 3021,
+    "views": 3022,
     "likes": 30,
     "comments": 0,
     "follows": 0,
@@ -2765,7 +2804,7 @@
    "thumb": "https://i.ytimg.com/vi/vtH7hPrcBmk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/vtH7hPrcBmk",
    "stats": {
-    "views": 2497,
+    "views": 2500,
     "likes": 31,
     "comments": 3,
     "follows": 0,
@@ -2786,12 +2825,12 @@
    "thumb": "https://i.ytimg.com/vi/P14pMefO_3o/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/P14pMefO_3o",
    "stats": {
-    "views": 1117,
+    "views": 1118,
     "likes": 8,
     "comments": 0,
     "follows": 0,
     "avgWatch": 16,
-    "viewPct": 114.8,
+    "viewPct": 115.5,
     "watchH": 1.6
    }
   },
@@ -2807,7 +2846,7 @@
    "thumb": "https://i.ytimg.com/vi/EnRniZaWPj8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/EnRniZaWPj8",
    "stats": {
-    "views": 1173,
+    "views": 1174,
     "likes": 4,
     "comments": 0,
     "follows": 0,
@@ -2828,12 +2867,12 @@
    "thumb": "https://i.ytimg.com/vi/L80ci7xwTWQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/L80ci7xwTWQ",
    "stats": {
-    "views": 1087,
+    "views": 1089,
     "likes": 7,
     "comments": 0,
     "follows": 0,
     "avgWatch": 15,
-    "viewPct": 54.6,
+    "viewPct": 54.7,
     "watchH": 1.9
    }
   },
@@ -2849,7 +2888,7 @@
    "thumb": "https://i.ytimg.com/vi/V-S450lwpww/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/V-S450lwpww",
    "stats": {
-    "views": 1102,
+    "views": 1103,
     "likes": 5,
     "comments": 0,
     "follows": 0,
@@ -2870,7 +2909,7 @@
    "thumb": "https://i.ytimg.com/vi/Hbet3HFsgVI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/Hbet3HFsgVI",
    "stats": {
-    "views": 1716,
+    "views": 1717,
     "likes": 21,
     "comments": 1,
     "follows": 0,
@@ -2891,12 +2930,12 @@
    "thumb": "https://i.ytimg.com/vi/CJYcnJw_oig/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/CJYcnJw_oig",
    "stats": {
-    "views": 219,
+    "views": 220,
     "likes": 5,
     "comments": 0,
     "follows": 0,
     "avgWatch": 11,
-    "viewPct": 57.4,
+    "viewPct": 57.3,
     "watchH": 0.4
    }
   },
@@ -2912,7 +2951,7 @@
    "thumb": "https://i.ytimg.com/vi/zxNSFyA-DLc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/zxNSFyA-DLc",
    "stats": {
-    "views": 1642,
+    "views": 1643,
     "likes": 11,
     "comments": 0,
     "follows": 0,
@@ -2933,13 +2972,9 @@
    "thumb": "https://i.ytimg.com/vi/UVO3Sx2R8pk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/UVO3Sx2R8pk",
    "stats": {
-    "views": 195,
+    "views": 201,
     "likes": 4,
-    "comments": 0,
-    "follows": 0,
-    "avgWatch": 28,
-    "viewPct": 62.4,
-    "watchH": 0.8
+    "comments": 0
    }
   },
   {
@@ -2954,13 +2989,13 @@
    "thumb": "https://i.ytimg.com/vi/0IrFpfLgH7I/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/0IrFpfLgH7I",
    "stats": {
-    "views": 12653,
+    "views": 12664,
     "likes": 124,
     "comments": 7,
     "follows": 15,
     "avgWatch": 40,
     "viewPct": 72.1,
-    "watchH": 84.3
+    "watchH": 84.4
    }
   },
   {
@@ -2975,7 +3010,7 @@
    "thumb": "https://i.ytimg.com/vi/tCgx5ZjRNlE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/tCgx5ZjRNlE",
    "stats": {
-    "views": 134,
+    "views": 135,
     "likes": 2,
     "comments": 0
    }
@@ -2992,7 +3027,7 @@
    "thumb": "https://i.ytimg.com/vi/5a9pYge57RU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/5a9pYge57RU",
    "stats": {
-    "views": 126,
+    "views": 127,
     "likes": 4,
     "comments": 0
    }
@@ -3009,12 +3044,12 @@
    "thumb": "https://i.ytimg.com/vi/wVhMM4LWNiw/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/wVhMM4LWNiw",
    "stats": {
-    "views": 1290,
+    "views": 1291,
     "likes": 14,
     "comments": 0,
     "follows": 0,
     "avgWatch": 23,
-    "viewPct": 39.4,
+    "viewPct": 39.3,
     "watchH": 5.4
    }
   },
@@ -3030,12 +3065,12 @@
    "thumb": "https://i.ytimg.com/vi/SPWVJiXkxZk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/SPWVJiXkxZk",
    "stats": {
-    "views": 2400,
+    "views": 2403,
     "likes": 16,
     "comments": 1,
     "follows": 2,
     "avgWatch": 14,
-    "viewPct": 96.6,
+    "viewPct": 96.5,
     "watchH": 4.2
    }
   },
@@ -3051,7 +3086,7 @@
    "thumb": "https://i.ytimg.com/vi/nEpeFzhwYHM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/nEpeFzhwYHM",
    "stats": {
-    "views": 2464,
+    "views": 2473,
     "likes": 23,
     "comments": 0,
     "follows": 0,
@@ -3072,7 +3107,7 @@
    "thumb": "https://i.ytimg.com/vi/D_RscXfRyyA/maxresdefault.jpg",
    "url": "https://youtu.be/D_RscXfRyyA",
    "stats": {
-    "views": 10630,
+    "views": 10644,
     "likes": 73,
     "comments": 5,
     "follows": 10,
@@ -3093,12 +3128,12 @@
    "thumb": "https://i.ytimg.com/vi/xTrDj1TnaX0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/xTrDj1TnaX0",
    "stats": {
-    "views": 1141,
+    "views": 1144,
     "likes": 11,
     "comments": 0,
     "follows": 1,
     "avgWatch": 17,
-    "viewPct": 37.7,
+    "viewPct": 37.6,
     "watchH": 3.5
    }
   },
@@ -3114,7 +3149,7 @@
    "thumb": "https://i.ytimg.com/vi/cgoRkjeKHKo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/cgoRkjeKHKo",
    "stats": {
-    "views": 1107,
+    "views": 1108,
     "likes": 6,
     "comments": 1,
     "follows": 3,
@@ -3135,7 +3170,7 @@
    "thumb": "https://i.ytimg.com/vi/OSyJ92AIB3g/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/OSyJ92AIB3g",
    "stats": {
-    "views": 176,
+    "views": 177,
     "likes": 1,
     "comments": 0
    }
@@ -3152,7 +3187,7 @@
    "thumb": "https://i.ytimg.com/vi/d7MP0doTDDE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/d7MP0doTDDE",
    "stats": {
-    "views": 2335,
+    "views": 2336,
     "likes": 21,
     "comments": 0,
     "follows": 1,
@@ -3173,13 +3208,13 @@
    "thumb": "https://i.ytimg.com/vi/HDfXKH5p4O0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/HDfXKH5p4O0",
    "stats": {
-    "views": 11030,
+    "views": 11034,
     "likes": 168,
     "comments": 5,
     "follows": 7,
     "avgWatch": 33,
     "viewPct": 59.5,
-    "watchH": 66.6
+    "watchH": 66.7
    }
   },
   {
@@ -3194,7 +3229,7 @@
    "thumb": "https://i.ytimg.com/vi/omQT29ovIgw/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/omQT29ovIgw",
    "stats": {
-    "views": 2296,
+    "views": 2302,
     "likes": 19,
     "comments": 1,
     "follows": 0,
@@ -3215,13 +3250,13 @@
    "thumb": "https://i.ytimg.com/vi/v8RL52IjfOU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/v8RL52IjfOU",
    "stats": {
-    "views": 1070,
+    "views": 1071,
     "likes": 13,
     "comments": 0,
     "follows": 0,
     "avgWatch": 18,
-    "viewPct": 49.4,
-    "watchH": 2.2
+    "viewPct": 49.3,
+    "watchH": 2.3
    }
   },
   {
@@ -3236,7 +3271,7 @@
    "thumb": "https://i.ytimg.com/vi/nJ-8EmBR85E/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/nJ-8EmBR85E",
    "stats": {
-    "views": 2413,
+    "views": 2415,
     "likes": 13,
     "comments": 0,
     "follows": 1,
@@ -3257,12 +3292,12 @@
    "thumb": "https://i.ytimg.com/vi/c1TiHHnaeoI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/c1TiHHnaeoI",
    "stats": {
-    "views": 1674,
+    "views": 1675,
     "likes": 17,
     "comments": 1,
     "follows": 0,
     "avgWatch": 37,
-    "viewPct": 63.9,
+    "viewPct": 64.0,
     "watchH": 10.2
    }
   },
@@ -3278,7 +3313,7 @@
    "thumb": "https://i.ytimg.com/vi/BgEwYZTruIM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/BgEwYZTruIM",
    "stats": {
-    "views": 1229,
+    "views": 1230,
     "likes": 9,
     "comments": 0,
     "follows": 0,
@@ -3299,12 +3334,12 @@
    "thumb": "https://i.ytimg.com/vi/0MWStJba7CQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/0MWStJba7CQ",
    "stats": {
-    "views": 3085,
+    "views": 3086,
     "likes": 56,
     "comments": 1,
     "follows": 0,
     "avgWatch": 33,
-    "viewPct": 58.5,
+    "viewPct": 58.4,
     "watchH": 19.0
    }
   },
@@ -3320,13 +3355,13 @@
    "thumb": "https://i.ytimg.com/vi/0gHr8noFi_c/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/0gHr8noFi_c",
    "stats": {
-    "views": 5066,
+    "views": 5069,
     "likes": 80,
     "comments": 5,
     "follows": 2,
     "avgWatch": 25,
-    "viewPct": 62.7,
-    "watchH": 22.0
+    "viewPct": 62.9,
+    "watchH": 22.1
    }
   },
   {
@@ -3341,12 +3376,12 @@
    "thumb": "https://i.ytimg.com/vi/vnycSOweE58/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/vnycSOweE58",
    "stats": {
-    "views": 1139,
+    "views": 1141,
     "likes": 3,
     "comments": 0,
     "follows": 0,
     "avgWatch": 10,
-    "viewPct": 80.8,
+    "viewPct": 81.4,
     "watchH": 1.3
    }
   },
@@ -3362,7 +3397,7 @@
    "thumb": "https://i.ytimg.com/vi/vbnAiv6cHMA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/vbnAiv6cHMA",
    "stats": {
-    "views": 1713,
+    "views": 1714,
     "likes": 11,
     "comments": 1,
     "follows": 0,
@@ -3383,13 +3418,13 @@
    "thumb": "https://i.ytimg.com/vi/YWKu_-l4w4s/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/YWKu_-l4w4s",
    "stats": {
-    "views": 1946,
+    "views": 1947,
     "likes": 11,
     "comments": 0,
     "follows": 2,
     "avgWatch": 25,
-    "viewPct": 59.6,
-    "watchH": 8.9
+    "viewPct": 59.7,
+    "watchH": 9.0
    }
   },
   {
@@ -3404,12 +3439,12 @@
    "thumb": "https://i.ytimg.com/vi/KwHjEsVoiSs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KwHjEsVoiSs",
    "stats": {
-    "views": 2454,
+    "views": 2459,
     "likes": 49,
     "comments": 1,
     "follows": 0,
     "avgWatch": 33,
-    "viewPct": 53.8,
+    "viewPct": 53.7,
     "watchH": 13.9
    }
   },
@@ -3425,13 +3460,13 @@
    "thumb": "https://i.ytimg.com/vi/JYAfV4y_wYA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/JYAfV4y_wYA",
    "stats": {
-    "views": 1286,
+    "views": 1293,
     "likes": 13,
     "comments": 1,
     "follows": 1,
     "avgWatch": 29,
     "viewPct": 54.8,
-    "watchH": 5.8
+    "watchH": 5.9
    }
   },
   {
@@ -3446,12 +3481,12 @@
    "thumb": "https://i.ytimg.com/vi/ohmPhHRwV5o/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ohmPhHRwV5o",
    "stats": {
-    "views": 1257,
+    "views": 1261,
     "likes": 9,
     "comments": 0,
     "follows": 0,
     "avgWatch": 11,
-    "viewPct": 80.0,
+    "viewPct": 79.9,
     "watchH": 1.7
    }
   },
@@ -3467,12 +3502,12 @@
    "thumb": "https://i.ytimg.com/vi/5AdYYaZ1eCY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/5AdYYaZ1eCY",
    "stats": {
-    "views": 283,
+    "views": 289,
     "likes": 5,
     "comments": 0,
     "follows": 1,
     "avgWatch": 22,
-    "viewPct": 112.1,
+    "viewPct": 111.9,
     "watchH": 0.7
    }
   },
@@ -3488,12 +3523,12 @@
    "thumb": "https://i.ytimg.com/vi/kp9fHNuXFn4/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/kp9fHNuXFn4",
    "stats": {
-    "views": 1710,
+    "views": 1715,
     "likes": 20,
     "comments": 1,
     "follows": 1,
     "avgWatch": 25,
-    "viewPct": 48.3,
+    "viewPct": 48.5,
     "watchH": 6.5
    }
   },
@@ -3509,7 +3544,7 @@
    "thumb": "https://i.ytimg.com/vi/LlkyP2DSVOU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/LlkyP2DSVOU",
    "stats": {
-    "views": 1607,
+    "views": 1613,
     "likes": 23,
     "comments": 0,
     "follows": 0,
@@ -3530,7 +3565,7 @@
    "thumb": "https://i.ytimg.com/vi/_6fWTbWvb1w/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/_6fWTbWvb1w",
    "stats": {
-    "views": 2710,
+    "views": 2716,
     "likes": 23,
     "comments": 0,
     "follows": 1,
@@ -3551,12 +3586,12 @@
    "thumb": "https://i.ytimg.com/vi/Cf6y67L89Bo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/Cf6y67L89Bo",
    "stats": {
-    "views": 1483,
+    "views": 1489,
     "likes": 8,
     "comments": 0,
     "follows": 1,
     "avgWatch": 24,
-    "viewPct": 53.9,
+    "viewPct": 53.7,
     "watchH": 6.2
    }
   },
@@ -3572,7 +3607,7 @@
    "thumb": "https://i.ytimg.com/vi/ZeOjoNJUWGM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ZeOjoNJUWGM",
    "stats": {
-    "views": 1513,
+    "views": 1520,
     "likes": 11,
     "comments": 1,
     "follows": 2,
@@ -3593,13 +3628,13 @@
    "thumb": "https://i.ytimg.com/vi/7OlPdcwi3ME/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/7OlPdcwi3ME",
    "stats": {
-    "views": 459,
+    "views": 462,
     "likes": 12,
     "comments": 0,
     "follows": 1,
     "avgWatch": 36,
-    "viewPct": 57.6,
-    "watchH": 2.4
+    "viewPct": 58.1,
+    "watchH": 2.5
    }
   },
   {
@@ -3614,12 +3649,12 @@
    "thumb": "https://i.ytimg.com/vi/B5sEkE5jkcs/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/B5sEkE5jkcs",
    "stats": {
-    "views": 1652,
+    "views": 1667,
     "likes": 21,
     "comments": 0,
     "follows": 2,
     "avgWatch": 28,
-    "viewPct": 46,
+    "viewPct": 46.1,
     "watchH": 7.4
    }
   },
@@ -3635,13 +3670,13 @@
    "thumb": "https://i.ytimg.com/vi/stgac8FZOEY/maxresdefault.jpg",
    "url": "https://youtu.be/stgac8FZOEY",
    "stats": {
-    "views": 6910,
+    "views": 6919,
     "likes": 56,
     "comments": 10,
     "follows": 11,
     "avgWatch": 145,
     "viewPct": 48.3,
-    "watchH": 97.6
+    "watchH": 97.7
    }
   },
   {
@@ -3656,13 +3691,13 @@
    "thumb": "https://i.ytimg.com/vi/-xtuwISvqMM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/-xtuwISvqMM",
    "stats": {
-    "views": 4226,
+    "views": 4320,
     "likes": 49,
     "comments": 0,
     "follows": 0,
     "avgWatch": 33,
-    "viewPct": 65.7,
-    "watchH": 19.9
+    "viewPct": 65.4,
+    "watchH": 20.0
    }
   },
   {
@@ -3677,13 +3712,13 @@
    "thumb": "https://i.ytimg.com/vi/bnDYhhgKo_0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/bnDYhhgKo_0",
    "stats": {
-    "views": 434,
+    "views": 442,
     "likes": 3,
     "comments": 1,
     "follows": 2,
     "avgWatch": 28,
-    "viewPct": 25.2,
-    "watchH": 1.5
+    "viewPct": 25.6,
+    "watchH": 1.6
    }
   },
   {
@@ -3698,12 +3733,12 @@
    "thumb": "https://i.ytimg.com/vi/gcR3sspNLt0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/gcR3sspNLt0",
    "stats": {
-    "views": 1070,
+    "views": 1081,
     "likes": 7,
     "comments": 0,
     "follows": 0,
     "avgWatch": 17,
-    "viewPct": 49.7,
+    "viewPct": 49.6,
     "watchH": 2.3
    }
   },
@@ -3719,13 +3754,13 @@
    "thumb": "https://i.ytimg.com/vi/-ngIWqFSAnI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/-ngIWqFSAnI",
    "stats": {
-    "views": 1550,
-    "likes": 16,
+    "views": 1587,
+    "likes": 17,
     "comments": 1,
     "follows": 1,
     "avgWatch": 33,
     "viewPct": 52.6,
-    "watchH": 8.2
+    "watchH": 8.4
    }
   },
   {
@@ -3740,7 +3775,7 @@
    "thumb": "https://i.ytimg.com/vi/LvRtTJR248U/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/LvRtTJR248U",
    "stats": {
-    "views": 9070,
+    "views": 9082,
     "likes": 84,
     "comments": 1,
     "follows": 1,
@@ -3761,13 +3796,13 @@
    "thumb": "https://i.ytimg.com/vi/OyOhOFePAAY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/OyOhOFePAAY",
    "stats": {
-    "views": 9108,
+    "views": 9117,
     "likes": 81,
     "comments": 4,
     "follows": 6,
     "avgWatch": 44,
-    "viewPct": 69.4,
-    "watchH": 63.9
+    "viewPct": 69.3,
+    "watchH": 64.0
    }
   },
   {
@@ -3782,13 +3817,13 @@
    "thumb": "https://i.ytimg.com/vi/X30wb520tpk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/X30wb520tpk",
    "stats": {
-    "views": 1688,
+    "views": 1701,
     "likes": 36,
     "comments": 1,
     "follows": 3,
-    "avgWatch": 42,
-    "viewPct": 71.2,
-    "watchH": 13.8
+    "avgWatch": 41,
+    "viewPct": 71.1,
+    "watchH": 13.9
    }
   },
   {
@@ -3803,13 +3838,13 @@
    "thumb": "https://i.ytimg.com/vi/40Hwmg8SA9o/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/40Hwmg8SA9o",
    "stats": {
-    "views": 1216,
+    "views": 1228,
     "likes": 13,
     "comments": 0,
     "follows": 1,
     "avgWatch": 27,
-    "viewPct": 39.2,
-    "watchH": 4.5
+    "viewPct": 39.4,
+    "watchH": 4.6
    }
   },
   {
@@ -3824,12 +3859,12 @@
    "thumb": "https://i.ytimg.com/vi/G87odlfJMQY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/G87odlfJMQY",
    "stats": {
-    "views": 527,
+    "views": 540,
     "likes": 8,
     "comments": 0,
     "follows": 1,
     "avgWatch": 29,
-    "viewPct": 64.2,
+    "viewPct": 63.9,
     "watchH": 2.4
    }
   },
@@ -3845,7 +3880,7 @@
    "thumb": "https://i.ytimg.com/vi/ekpqSWbSpHc/maxresdefault.jpg",
    "url": "https://youtu.be/ekpqSWbSpHc",
    "stats": {
-    "views": 502,
+    "views": 509,
     "likes": 7,
     "comments": 2,
     "follows": 1,
@@ -3866,13 +3901,13 @@
    "thumb": "https://i.ytimg.com/vi/YdShs7WbUjE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/YdShs7WbUjE",
    "stats": {
-    "views": 8193,
+    "views": 8204,
     "likes": 72,
     "comments": 0,
     "follows": 6,
     "avgWatch": 25,
-    "viewPct": 71.4,
-    "watchH": 34.1
+    "viewPct": 71.5,
+    "watchH": 34.2
    }
   },
   {
@@ -3887,13 +3922,13 @@
    "thumb": "https://i.ytimg.com/vi/HIEooTgTaTA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/HIEooTgTaTA",
    "stats": {
-    "views": 13043,
+    "views": 13068,
     "likes": 175,
     "comments": 3,
     "follows": 11,
     "avgWatch": 58,
     "viewPct": 75.2,
-    "watchH": 146.3
+    "watchH": 146.5
    }
   },
   {
@@ -3908,13 +3943,13 @@
    "thumb": "https://i.ytimg.com/vi/WCzAs9hJi0g/maxresdefault.jpg",
    "url": "https://youtu.be/WCzAs9hJi0g",
    "stats": {
-    "views": 570,
+    "views": 576,
     "likes": 10,
     "comments": 2,
     "follows": 0,
     "avgWatch": 127,
     "viewPct": 24.3,
-    "watchH": 6.1
+    "watchH": 6.2
    }
   },
   {
@@ -3929,13 +3964,13 @@
    "thumb": "https://i.ytimg.com/vi/csH6tu3xXOU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/csH6tu3xXOU",
    "stats": {
-    "views": 1721,
+    "views": 1739,
     "likes": 13,
     "comments": 0,
     "follows": 0,
     "avgWatch": 20,
-    "viewPct": 52.4,
-    "watchH": 5.4
+    "viewPct": 52.5,
+    "watchH": 5.5
    }
   },
   {
@@ -3950,13 +3985,13 @@
    "thumb": "https://i.ytimg.com/vi/udaVdziUuyA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/udaVdziUuyA",
    "stats": {
-    "views": 3981,
+    "views": 4052,
     "likes": 53,
     "comments": 0,
     "follows": 2,
-    "avgWatch": 32,
-    "viewPct": 58.2,
-    "watchH": 21.2
+    "avgWatch": 31,
+    "viewPct": 58.1,
+    "watchH": 21.3
    }
   },
   {
@@ -3971,13 +4006,13 @@
    "thumb": "https://i.ytimg.com/vi/uYtxHWZtOVc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/uYtxHWZtOVc",
    "stats": {
-    "views": 8908,
+    "views": 9019,
     "likes": 186,
     "comments": 4,
     "follows": 17,
     "avgWatch": 49,
-    "viewPct": 60.6,
-    "watchH": 73.6
+    "viewPct": 60.7,
+    "watchH": 74.6
    }
   },
   {
@@ -3992,13 +4027,13 @@
    "thumb": "https://i.ytimg.com/vi/ye5wbQR86zE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ye5wbQR86zE",
    "stats": {
-    "views": 7313,
+    "views": 7339,
     "likes": 111,
     "comments": 4,
     "follows": 5,
     "avgWatch": 29,
-    "viewPct": 54.9,
-    "watchH": 37.5
+    "viewPct": 55.0,
+    "watchH": 37.7
    }
   },
   {
@@ -4013,13 +4048,13 @@
    "thumb": "https://i.ytimg.com/vi/VE20gvsx9ww/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/VE20gvsx9ww",
    "stats": {
-    "views": 171218,
-    "likes": 1661,
-    "comments": 75,
-    "follows": 293,
+    "views": 177331,
+    "likes": 1704,
+    "comments": 80,
+    "follows": 308,
     "avgWatch": 50,
-    "viewPct": 67.6,
-    "watchH": 1320.9
+    "viewPct": 67.5,
+    "watchH": 1371.8
    }
   },
   {
@@ -4034,13 +4069,13 @@
    "thumb": "https://i.ytimg.com/vi/5WccyX2P_PY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/5WccyX2P_PY",
    "stats": {
-    "views": 15012,
-    "likes": 188,
+    "views": 15595,
+    "likes": 192,
     "comments": 6,
     "follows": 8,
     "avgWatch": 34,
-    "viewPct": 68.5,
-    "watchH": 86.0
+    "viewPct": 68.4,
+    "watchH": 88.4
    }
   },
   {
@@ -4055,12 +4090,12 @@
    "thumb": "https://i.ytimg.com/vi/Bt7XMNx9It0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/Bt7XMNx9It0",
    "stats": {
-    "views": 3141,
+    "views": 3159,
     "likes": 18,
     "comments": 1,
     "follows": 1,
     "avgWatch": 9,
-    "viewPct": 120.9,
+    "viewPct": 120.7,
     "watchH": 4.6
    }
   },
@@ -4076,12 +4111,12 @@
    "thumb": "https://i.ytimg.com/vi/7AeklJCB1vQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/7AeklJCB1vQ",
    "stats": {
-    "views": 2371,
+    "views": 2389,
     "likes": 8,
     "comments": 1,
     "follows": 1,
     "avgWatch": 15,
-    "viewPct": 64.3,
+    "viewPct": 64.4,
     "watchH": 4.9
    }
   },
@@ -4097,13 +4132,13 @@
    "thumb": "https://i.ytimg.com/vi/wCxfVj6URpM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/wCxfVj6URpM",
    "stats": {
-    "views": 3141,
+    "views": 3163,
     "likes": 62,
     "comments": 0,
     "follows": 6,
     "avgWatch": 31,
     "viewPct": 58.0,
-    "watchH": 19.4
+    "watchH": 19.5
    }
   },
   {
@@ -4118,13 +4153,13 @@
    "thumb": "https://i.ytimg.com/vi/B4CKnvGHlUE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/B4CKnvGHlUE",
    "stats": {
-    "views": 1523,
+    "views": 1545,
     "likes": 13,
     "comments": 0,
     "follows": 0,
     "avgWatch": 12,
-    "viewPct": 89.7,
-    "watchH": 2.2
+    "viewPct": 89.9,
+    "watchH": 2.3
    }
   },
   {
@@ -4139,12 +4174,12 @@
    "thumb": "https://i.ytimg.com/vi/3Li3XF91QbU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/3Li3XF91QbU",
    "stats": {
-    "views": 867,
+    "views": 883,
     "likes": 8,
     "comments": 0,
     "follows": 0,
     "avgWatch": 13,
-    "viewPct": 75.0,
+    "viewPct": 74.1,
     "watchH": 1.0
    }
   },
@@ -4160,13 +4195,13 @@
    "thumb": "https://i.ytimg.com/vi/8HKg8Gw27Lg/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/8HKg8Gw27Lg",
    "stats": {
-    "views": 5033,
+    "views": 5074,
     "likes": 81,
     "comments": 1,
     "follows": 3,
     "avgWatch": 25,
-    "viewPct": 71.6,
-    "watchH": 22.7
+    "viewPct": 71.5,
+    "watchH": 22.9
    }
   },
   {
@@ -4181,13 +4216,13 @@
    "thumb": "https://i.ytimg.com/vi/7j1Vtb29lA4/maxresdefault.jpg",
    "url": "https://youtu.be/7j1Vtb29lA4",
    "stats": {
-    "views": 893,
-    "likes": 22,
+    "views": 965,
+    "likes": 23,
     "comments": 2,
     "follows": 8,
     "avgWatch": 144,
-    "viewPct": 31.1,
-    "watchH": 14.2
+    "viewPct": 31.0,
+    "watchH": 14.6
    }
   },
   {
@@ -4202,13 +4237,13 @@
    "thumb": "https://i.ytimg.com/vi/-SSy2JlPN0s/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/-SSy2JlPN0s",
    "stats": {
-    "views": 2425,
+    "views": 2468,
     "likes": 42,
     "comments": 3,
     "follows": 3,
     "avgWatch": 31,
-    "viewPct": 58.0,
-    "watchH": 10.4
+    "viewPct": 57.6,
+    "watchH": 10.5
    }
   },
   {
@@ -4223,13 +4258,13 @@
    "thumb": "https://i.ytimg.com/vi/-guzSGT1QAo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/-guzSGT1QAo",
    "stats": {
-    "views": 28459,
-    "likes": 709,
+    "views": 31225,
+    "likes": 760,
     "comments": 11,
-    "follows": 72,
+    "follows": 79,
     "avgWatch": 50,
-    "viewPct": 69.5,
-    "watchH": 201.1
+    "viewPct": 69.4,
+    "watchH": 215.6
    }
   },
   {
@@ -4244,13 +4279,13 @@
    "thumb": "https://i.ytimg.com/vi/ExQYEwUpxH8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ExQYEwUpxH8",
    "stats": {
-    "views": 1543,
+    "views": 1566,
     "likes": 12,
     "comments": 0,
     "follows": 1,
     "avgWatch": 22,
-    "viewPct": 50.4,
-    "watchH": 5.0
+    "viewPct": 50.2,
+    "watchH": 5.1
    }
   },
   {
@@ -4265,13 +4300,13 @@
    "thumb": "https://i.ytimg.com/vi/-SQYHkS7B34/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/-SQYHkS7B34",
    "stats": {
-    "views": 10163,
-    "likes": 131,
+    "views": 11037,
+    "likes": 137,
     "comments": 0,
-    "follows": 5,
+    "follows": 6,
     "avgWatch": 33,
-    "viewPct": 62.8,
-    "watchH": 50.9
+    "viewPct": 62.6,
+    "watchH": 52.4
    }
   },
   {
@@ -4286,13 +4321,13 @@
    "thumb": "https://i.ytimg.com/vi/v83lS2wFVMc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/v83lS2wFVMc",
    "stats": {
-    "views": 3603,
+    "views": 3662,
     "likes": 42,
     "comments": 3,
     "follows": 1,
     "avgWatch": 24,
-    "viewPct": 63.4,
-    "watchH": 15.4
+    "viewPct": 63.2,
+    "watchH": 15.8
    }
   },
   {
@@ -4307,13 +4342,13 @@
    "thumb": "https://i.ytimg.com/vi/d60AhKXUSq0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/d60AhKXUSq0",
    "stats": {
-    "views": 1504,
+    "views": 1522,
     "likes": 13,
     "comments": 0,
     "follows": 2,
     "avgWatch": 15,
-    "viewPct": 38.3,
-    "watchH": 4.4
+    "viewPct": 38.6,
+    "watchH": 4.5
    }
   },
   {
@@ -4328,13 +4363,13 @@
    "thumb": "https://i.ytimg.com/vi/QiO0ozMRm9o/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/QiO0ozMRm9o",
    "stats": {
-    "views": 6509,
-    "likes": 62,
-    "comments": 1,
+    "views": 8534,
+    "likes": 72,
+    "comments": 2,
     "follows": 3,
     "avgWatch": 44,
-    "viewPct": 88.5,
-    "watchH": 19.0
+    "viewPct": 89.3,
+    "watchH": 35.8
    }
   },
   {
@@ -4349,13 +4384,13 @@
    "thumb": "https://i.ytimg.com/vi/ldv0I6SuHTk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ldv0I6SuHTk",
    "stats": {
-    "views": 1419,
-    "likes": 14,
+    "views": 1458,
+    "likes": 15,
     "comments": 0,
     "follows": 1,
     "avgWatch": 19,
-    "viewPct": 43.8,
-    "watchH": 4.5
+    "viewPct": 44.2,
+    "watchH": 4.8
    }
   },
   {
@@ -4370,13 +4405,13 @@
    "thumb": "https://i.ytimg.com/vi/scTZEXSUBY4/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/scTZEXSUBY4",
    "stats": {
-    "views": 1009,
-    "likes": 9,
+    "views": 1055,
+    "likes": 10,
     "comments": 0,
-    "follows": 0,
+    "follows": 1,
     "avgWatch": 12,
-    "viewPct": 58.0,
-    "watchH": 1.3
+    "viewPct": 59.2,
+    "watchH": 1.7
    }
   },
   {
@@ -4391,9 +4426,13 @@
    "thumb": "https://i.ytimg.com/vi/JkexWMFCgz0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/JkexWMFCgz0",
    "stats": {
-    "views": 1446,
-    "likes": 23,
-    "comments": 2
+    "views": 1672,
+    "likes": 29,
+    "comments": 3,
+    "follows": 0,
+    "avgWatch": 21,
+    "viewPct": 49.8,
+    "watchH": 4.8
    }
   },
   {
@@ -4408,9 +4447,13 @@
    "thumb": "https://i.ytimg.com/vi/onGRB1f3NCo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/onGRB1f3NCo",
    "stats": {
-    "views": 10597,
-    "likes": 160,
-    "comments": 5
+    "views": 19806,
+    "likes": 315,
+    "comments": 15,
+    "follows": 2,
+    "avgWatch": 71,
+    "viewPct": 87.7,
+    "watchH": 23.2
    }
   },
   {
@@ -4422,7 +4465,7 @@
    "status": "private",
    "short": true,
    "duration": 26,
-   "thumb": "https://i9.ytimg.com/vi/OHTkm5PF-pw/maxresdefault.jpg?sqp=CKDtpdYG&rs=AOn4CLASmX2N87uQxNKH9jD5ZcZs9XDGFA",
+   "thumb": "https://i9.ytimg.com/vi/OHTkm5PF-pw/maxresdefault.jpg?sqp=CKSOrtYG&rs=AOn4CLAitPZUMVPYIbJCqJHZ79qKQec1Ww",
    "url": "https://youtube.com/shorts/OHTkm5PF-pw",
    "stats": {
     "views": 8,
@@ -4442,8 +4485,8 @@
    "thumb": "https://i.ytimg.com/vi/eEML8YfT2Po/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/eEML8YfT2Po",
    "stats": {
-    "views": 76,
-    "likes": 0,
+    "views": 138,
+    "likes": 1,
     "comments": 0
    }
   },
@@ -4459,9 +4502,9 @@
    "thumb": "https://i.ytimg.com/vi/_Xa2sZw-T1E/maxresdefault.jpg",
    "url": "https://youtu.be/_Xa2sZw-T1E",
    "stats": {
-    "views": 2863,
-    "likes": 37,
-    "comments": 5
+    "views": 7055,
+    "likes": 70,
+    "comments": 11
    }
   },
   {
@@ -4476,8 +4519,76 @@
    "thumb": "https://i.ytimg.com/vi/-hHFny3T4cY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/-hHFny3T4cY",
    "stats": {
-    "views": 1602,
-    "likes": 21,
+    "views": 1957,
+    "likes": 28,
+    "comments": 0
+   }
+  },
+  {
+   "channel": "yt-classic",
+   "id": "ljf42pJP6Sg",
+   "title": "3 вирусных тренда обуви 2027",
+   "text": "3 вирусных тренда обуви 2027\n\nФудклок от Brevi Studios — гигантские зелёные тапки-лапы, которые взорвали тренды после рэпера Кита Кудея. Nike Mind — «нейрообувь» с 22 подвижными узлами в подошве: массирует стопу, и эффект реально ощущается. И коллаба Crocs x Lego — клог-кирпичик с мини-фигуркой в мини-клогах. Какой тренд я забыл? Пишите в комментариях!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США И Европы\n\n#тренды #nike #crocs #кроссовки #peshkovshoes",
+   "date": "2026-10-10T10:05:35",
+   "status": "public",
+   "short": true,
+   "duration": 56,
+   "thumb": "https://i.ytimg.com/vi/ljf42pJP6Sg/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/ljf42pJP6Sg",
+   "stats": {
+    "views": 169,
+    "likes": 8,
+    "comments": 0
+   }
+  },
+  {
+   "channel": "yt-classic",
+   "id": "4QUhBWiVkYg",
+   "title": "Тот самый неожиданный дроп от New Balance, который захватил ленту ⚡️",
+   "text": "Тот самый неожиданный дроп от New Balance, который захватил ленту ⚡️\n\nМодель 204V — это идеальный унисекс low-profile силуэт. Дизайнеры смешали тонкую подошву из 70-х, агрессивный технологичный верх из 2000-х и добавили альпинистский вайб. Больше никакого скучного оверсайза, теперь носим утонченный футуризм.\n\nБольше новинок и обуви в нашем тг канале, ссылка в шапке профиля ❤️",
+   "date": "2026-10-10T16:05:01",
+   "status": "public",
+   "short": true,
+   "duration": 10,
+   "thumb": "https://i.ytimg.com/vi/4QUhBWiVkYg/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/4QUhBWiVkYg",
+   "stats": {
+    "views": 1100,
+    "likes": 4,
+    "comments": 0
+   }
+  },
+  {
+   "channel": "yt-classic",
+   "id": "gGXvH7D_q5o",
+   "title": "Эту обувь считали немодной… пока её не начали носить все 🔥",
+   "text": "тгк PESHKOV.SHOES\nЭту обувь считали немодной… пока её не начали носить все 🔥\n\nSalomon прошли путь от спортивной экипировки до главного тренда среди звёзд и любителей стиля.\n\nКомфорт, необычный дизайн и культовый статус сделали их одной из самых желанных пар.\n\n➡️Все модели — в нашем Telegram-канале, ссылка в шапке профиля.\n\n@peshkov.shoes — байер-сервис и доставка брендов из США и Европы по всему миру 🌍",
+   "date": "2026-10-11T09:04:29",
+   "status": "public",
+   "short": true,
+   "duration": 40,
+   "thumb": "https://i.ytimg.com/vi/gGXvH7D_q5o/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/gGXvH7D_q5o",
+   "stats": {
+    "views": 967,
+    "likes": 9,
+    "comments": 0
+   }
+  },
+  {
+   "channel": "yt-classic",
+   "id": "wPZKyY2yfnc",
+   "title": "Классические Chuck Taylor стоят в производстве полтора доллара.",
+   "text": "Себестоимость Converse — 1,5 доллара! 🤯\n\nКлассические Chuck Taylor стоят в производстве полтора доллара. Дистрибьютор покупал пару за $5.45, а в рознице их продавали по $110–120. Даже с арендой, сотрудниками и обязательными 5–10% на маркетинг маржинальность бизнеса — больше 100%.\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США И Европы\n\n#converse #бизнес #кеды #обувь",
+   "date": "2026-10-11T13:03:57",
+   "status": "public",
+   "short": true,
+   "duration": 64,
+   "thumb": "https://i.ytimg.com/vi/wPZKyY2yfnc/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/wPZKyY2yfnc",
+   "stats": {
+    "views": 3,
+    "likes": 0,
     "comments": 0
    }
   },
@@ -4603,7 +4714,7 @@
     "comments": 0,
     "follows": 1,
     "avgWatch": 80,
-    "viewPct": 48.7,
+    "viewPct": 48.6,
     "watchH": 9.1
    }
   },
@@ -4619,13 +4730,13 @@
    "thumb": "https://i.ytimg.com/vi/ZY3BxQfsQeY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ZY3BxQfsQeY",
    "stats": {
-    "views": 72522,
+    "views": 72675,
     "likes": 615,
     "comments": 173,
-    "follows": 30,
+    "follows": 31,
     "avgWatch": 48,
     "viewPct": 84.5,
-    "watchH": 586.7
+    "watchH": 588.3
    }
   },
   {
@@ -4645,8 +4756,8 @@
     "comments": 0,
     "follows": 0,
     "avgWatch": 31,
-    "viewPct": 43.2,
-    "watchH": 0.5
+    "viewPct": 44.1,
+    "watchH": 0.6
    }
   },
   {
@@ -4661,7 +4772,7 @@
    "thumb": "https://i.ytimg.com/vi/fLi1geNrE6M/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/fLi1geNrE6M",
    "stats": {
-    "views": 2009,
+    "views": 2010,
     "likes": 13,
     "comments": 0,
     "follows": 2,
@@ -4708,7 +4819,7 @@
     "comments": 1,
     "follows": 0,
     "avgWatch": 60,
-    "viewPct": 39.1,
+    "viewPct": 39.0,
     "watchH": 7.7
    }
   },
@@ -4750,7 +4861,7 @@
     "comments": 0,
     "follows": 0,
     "avgWatch": 25,
-    "viewPct": 84.6,
+    "viewPct": 84.5,
     "watchH": 4.8
    }
   },
@@ -4787,9 +4898,9 @@
    "thumb": "https://i.ytimg.com/vi/X0K-QU3g4sk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/X0K-QU3g4sk",
    "stats": {
-    "views": 1001,
+    "views": 1003,
     "likes": 9,
-    "comments": 1,
+    "comments": 2,
     "follows": 1,
     "avgWatch": 14,
     "viewPct": 50.6,
@@ -4808,7 +4919,7 @@
    "thumb": "https://i.ytimg.com/vi/FRzgIx0zE4M/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/FRzgIx0zE4M",
    "stats": {
-    "views": 2501,
+    "views": 2505,
     "likes": 44,
     "comments": 2,
     "follows": 2,
@@ -4829,7 +4940,7 @@
    "thumb": "https://i.ytimg.com/vi/cYV_-GKQde4/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/cYV_-GKQde4",
    "stats": {
-    "views": 75117,
+    "views": 75128,
     "likes": 1881,
     "comments": 46,
     "follows": 33,
@@ -4966,6 +5077,48 @@
   },
   {
    "channel": "yt-shop",
+   "id": "j-PgYYcn_-I",
+   "title": "Женские \"эндорфины\": почему каждая баночка косметики делает нас счастливее",
+   "text": "Женские \"эндорфины\": почему каждая баночка косметики делает нас счастливее\n\nОткройте для себя радость красоты! Мы, девочки, обожаем наши баночки, ведь каждая из них приносит счастье и эндорфины. Мужья, балуйте своих женщин косметикой – они ответят вам вдвойне!\n\nВизажист Юлия Кхара @juliakhara\n\nСмотрите полный подкаст на YouTube-канале SHOPOMANIIA\n@shopomaniia2012 — байер-сервис по доставке одежды из США и Европы\n\n#Косметика #Красота #УходЗаКожей #Счастье #Эндорфины #ЖенскаяРадость #ПодаркиДляНее",
+   "date": "2026-09-04T13:04:03",
+   "status": "public",
+   "short": true,
+   "duration": 26,
+   "thumb": "https://i.ytimg.com/vi/j-PgYYcn_-I/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/j-PgYYcn_-I",
+   "stats": {
+    "views": 1098,
+    "likes": 3,
+    "comments": 0,
+    "follows": 1,
+    "avgWatch": 10,
+    "viewPct": 39.6,
+    "watchH": 1.9
+   }
+  },
+  {
+   "channel": "yt-shop",
+   "id": "JXwEy6Z76cI",
+   "title": "Пять минут и сто долларов: Йога, зал или всё пропустить?",
+   "text": "Пять минут и сто долларов: Йога, зал или всё пропустить?\n\nОбсуждаем, как уложить в плотный график тренировки и личные дела! Узнайте, как планировать йогу и походы в зал, даже когда время ограничено. А еще – делимся мнением о популярных Instagram-брендах: стоит ли их покупать? Присоединяйтесь к нашей беседе о фитнесе и стиле!\n\nВизажист Юлия Кхара @juliakhara\n\nСмотрите полный подкаст на YouTube-канале SHOPOMANIIA\n@shopomaniia2012 — байер-сервис по доставке одежды из США и Европы\n\n#фитнес #йога",
+   "date": "2026-09-05T08:04:13",
+   "status": "public",
+   "short": true,
+   "duration": 42,
+   "thumb": "https://i.ytimg.com/vi/JXwEy6Z76cI/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/JXwEy6Z76cI",
+   "stats": {
+    "views": 1013,
+    "likes": 4,
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 19,
+    "viewPct": 45.7,
+    "watchH": 2.9
+   }
+  },
+  {
+   "channel": "yt-shop",
    "id": "tq-izvLI-_I",
    "title": "СКИДКИ Labor Day в США !",
    "text": "Тгк: SHOPOMANIIA2012\nНи для кого не секрет, что любимые бrенды в эти праздничные дни Labor Day в США предоставляют очень ощутимые s kидки🤩 на всё!\n\n🛍️Наша команда уже подготовила для вас большой kаталог со скиdками от любимых bрендов!\n\nПодробная информация — в нашем Telegram-канале.\n➡️Ссылка на канал в шапке профиля\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
@@ -5008,48 +5161,6 @@
   },
   {
    "channel": "yt-shop",
-   "id": "CWDmIDNP_S0",
-   "title": "Как вызвать шквал комментариев: Секреты вирусного контента",
-   "text": "Как вызвать шквал комментариев: Секреты вирусного контента\n\nМы даем неоднозначные советы, чтобы вызвать споры и получить комментарии! Откройте для себя, как решить проблемы с кожей: профессиональные или временные решения? Смотрите, чтобы узнать, как мы провоцируем обсуждение и даем экспертные советы.\n\nВизажист Юлия Кхара @juliakhara\n\nСмотрите полный подкаст на YouTube-канале SHOPOMANIIA\n@shopomaniia2012 — байер-сервис по доставке одежды из США и Европы\n\n#СпорныеСоветы #Обсуждение #ПроблемыСКожей",
-   "date": "2026-09-05T13:33:23",
-   "status": "public",
-   "short": true,
-   "duration": 33,
-   "thumb": "https://i.ytimg.com/vi/CWDmIDNP_S0/maxresdefault.jpg",
-   "url": "https://youtube.com/shorts/CWDmIDNP_S0",
-   "stats": {
-    "views": 1071,
-    "likes": 2,
-    "comments": 0,
-    "follows": 0,
-    "avgWatch": 11,
-    "viewPct": 34.6,
-    "watchH": 1.4
-   }
-  },
-  {
-   "channel": "yt-shop",
-   "id": "XiRh5DzTE6c",
-   "title": "Почему сумка Tory Burch - это лучшая инвестиция в твой гардероб?",
-   "text": "тгк shopomaniia2012\n\n👜 Почему сумка Tory Burch - это лучшая инвестиция в твой гардероб?\n\nПремиальное качество, доступный люкс и высокая ценность на ресейле! Полный каталог по лучшим предложениям смотри в нашем телеграм канале, ссылка в шапке профиля ❤️\n\nИ да, не забудь подписаться!",
-   "date": "2026-09-05T16:04:33",
-   "status": "public",
-   "short": true,
-   "duration": 34,
-   "thumb": "https://i.ytimg.com/vi/XiRh5DzTE6c/maxresdefault.jpg",
-   "url": "https://youtube.com/shorts/XiRh5DzTE6c",
-   "stats": {
-    "views": 1344,
-    "likes": 12,
-    "comments": 0,
-    "follows": 1,
-    "avgWatch": 16,
-    "viewPct": 47.4,
-    "watchH": 3.0
-   }
-  },
-  {
-   "channel": "yt-shop",
    "id": "ih2tYNLFSNQ",
    "title": "Как распознать подделку кроссовок?",
    "text": "Как распознать подделку кроссовок?\n\nДва ботинка: один оригинал, другой — подделка. Смотрим на шнурки, качество замши и сетку — у оригинала она тонкая и крупная. Подделка всегда экономит на мягких материалах.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#кроссовки #подделка #обувь #стиль",
@@ -5060,13 +5171,13 @@
    "thumb": "https://i.ytimg.com/vi/ih2tYNLFSNQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ih2tYNLFSNQ",
    "stats": {
-    "views": 45337,
-    "likes": 99,
+    "views": 45546,
+    "likes": 100,
     "comments": 17,
     "follows": 14,
     "avgWatch": 32,
-    "viewPct": 90.8,
-    "watchH": 184.4
+    "viewPct": 90.7,
+    "watchH": 185.3
    }
   },
   {
@@ -5081,7 +5192,7 @@
    "thumb": "https://i.ytimg.com/vi/GSB65t2ljCU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/GSB65t2ljCU",
    "stats": {
-    "views": 1396,
+    "views": 1398,
     "likes": 8,
     "comments": 0,
     "follows": 1,
@@ -5102,7 +5213,7 @@
    "thumb": "https://i.ytimg.com/vi/QlFeEm7cuCI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/QlFeEm7cuCI",
    "stats": {
-    "views": 1470,
+    "views": 1469,
     "likes": 20,
     "comments": 0,
     "follows": 1,
@@ -5144,7 +5255,7 @@
    "thumb": "https://i.ytimg.com/vi/0wmqPNI-UJU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/0wmqPNI-UJU",
    "stats": {
-    "views": 1233,
+    "views": 1234,
     "likes": 10,
     "comments": 0,
     "follows": 0,
@@ -5165,7 +5276,7 @@
    "thumb": "https://i.ytimg.com/vi/idrzWjTSp6E/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/idrzWjTSp6E",
    "stats": {
-    "views": 1950,
+    "views": 1949,
     "likes": 10,
     "comments": 0,
     "follows": 3,
@@ -5204,7 +5315,7 @@
    "status": "private",
    "short": true,
    "duration": 50,
-   "thumb": "https://i9.ytimg.com/vi/gSLaz6ynafA/maxresdefault.jpg?sqp=CKDtpdYG&rs=AOn4CLDynxlt2mAl4dTdeqTWjlBddBskxg",
+   "thumb": "https://i9.ytimg.com/vi/gSLaz6ynafA/maxresdefault.jpg?sqp=CKSOrtYG&rs=AOn4CLCEdRAxi7i3IO_9BOROcWcBh733qQ",
    "url": "https://youtube.com/shorts/gSLaz6ynafA",
    "stats": {
     "views": 260569,
@@ -5249,8 +5360,8 @@
    "thumb": "https://i.ytimg.com/vi/p-w0WHDiW5g/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/p-w0WHDiW5g",
    "stats": {
-    "views": 181011,
-    "likes": 530,
+    "views": 181025,
+    "likes": 531,
     "comments": 29,
     "follows": 56,
     "avgWatch": 23,
@@ -5270,7 +5381,7 @@
    "thumb": "https://i.ytimg.com/vi/HEZnkMnBcsI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/HEZnkMnBcsI",
    "stats": {
-    "views": 1077,
+    "views": 1076,
     "likes": 2,
     "comments": 0,
     "follows": 0,
@@ -5291,7 +5402,7 @@
    "thumb": "https://i.ytimg.com/vi/jO69T4PGw9s/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/jO69T4PGw9s",
    "stats": {
-    "views": 6423,
+    "views": 6422,
     "likes": 95,
     "comments": 5,
     "follows": 7,
@@ -5312,7 +5423,7 @@
    "thumb": "https://i.ytimg.com/vi/g89OkI2ID9k/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/g89OkI2ID9k",
    "stats": {
-    "views": 75096,
+    "views": 75099,
     "likes": 152,
     "comments": 2,
     "follows": 14,
@@ -5417,7 +5528,7 @@
    "thumb": "https://i.ytimg.com/vi/p8U0vkzwnks/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/p8U0vkzwnks",
    "stats": {
-    "views": 1250,
+    "views": 1249,
     "likes": 8,
     "comments": 0,
     "follows": 0,
@@ -5438,7 +5549,7 @@
    "thumb": "https://i.ytimg.com/vi/wVSnGe1T32k/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/wVSnGe1T32k",
    "stats": {
-    "views": 1105,
+    "views": 1106,
     "likes": 8,
     "comments": 0,
     "follows": 0,
@@ -5501,13 +5612,13 @@
    "thumb": "https://i.ytimg.com/vi/hZiboyUsIiI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/hZiboyUsIiI",
    "stats": {
-    "views": 240902,
-    "likes": 645,
+    "views": 250207,
+    "likes": 701,
     "comments": 33,
-    "follows": 27,
+    "follows": 28,
     "avgWatch": 18,
     "viewPct": 95.5,
-    "watchH": 608.4
+    "watchH": 618.6
    }
   },
   {
@@ -5522,7 +5633,7 @@
    "thumb": "https://i.ytimg.com/vi/qG3TJQuD75k/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/qG3TJQuD75k",
    "stats": {
-    "views": 1855,
+    "views": 1856,
     "likes": 18,
     "comments": 1,
     "follows": 3,
@@ -5543,7 +5654,7 @@
    "thumb": "https://i.ytimg.com/vi/hhEzds_mGaY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/hhEzds_mGaY",
    "stats": {
-    "views": 135123,
+    "views": 135133,
     "likes": 939,
     "comments": 31,
     "follows": 60,
@@ -5606,7 +5717,7 @@
    "thumb": "https://i.ytimg.com/vi/WFYGEBsjQC4/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/WFYGEBsjQC4",
    "stats": {
-    "views": 29337,
+    "views": 29342,
     "likes": 392,
     "comments": 25,
     "follows": 10,
@@ -5648,13 +5759,13 @@
    "thumb": "https://i.ytimg.com/vi/MtItaaY39cQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/MtItaaY39cQ",
    "stats": {
-    "views": 63973,
-    "likes": 291,
+    "views": 64260,
+    "likes": 292,
     "comments": 16,
     "follows": 17,
     "avgWatch": 28,
     "viewPct": 90.4,
-    "watchH": 314.3
+    "watchH": 314.8
    }
   },
   {
@@ -5716,7 +5827,7 @@
     "comments": 1,
     "follows": 0,
     "avgWatch": 17,
-    "viewPct": 44.9,
+    "viewPct": 44.8,
     "watchH": 2.7
    }
   },
@@ -5732,7 +5843,7 @@
    "thumb": "https://i.ytimg.com/vi/36urtKRV9lc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/36urtKRV9lc",
    "stats": {
-    "views": 1122,
+    "views": 1124,
     "likes": 3,
     "comments": 0,
     "follows": 0,
@@ -5753,13 +5864,13 @@
    "thumb": "https://i.ytimg.com/vi/a_-ZVG0piAY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/a_-ZVG0piAY",
    "stats": {
-    "views": 27762,
+    "views": 27767,
     "likes": 163,
     "comments": 27,
     "follows": 5,
     "avgWatch": 34,
     "viewPct": 80.3,
-    "watchH": 169.9
+    "watchH": 170.0
    }
   },
   {
@@ -5774,7 +5885,7 @@
    "thumb": "https://i.ytimg.com/vi/7ZJERX3uYc8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/7ZJERX3uYc8",
    "stats": {
-    "views": 2393,
+    "views": 2394,
     "likes": 8,
     "comments": 1,
     "follows": 1,
@@ -5795,13 +5906,13 @@
    "thumb": "https://i.ytimg.com/vi/M2Oh9YKroYM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/M2Oh9YKroYM",
    "stats": {
-    "views": 200861,
-    "likes": 797,
+    "views": 202687,
+    "likes": 805,
     "comments": 42,
     "follows": 59,
     "avgWatch": 24,
-    "viewPct": 80.3,
-    "watchH": 795.1
+    "viewPct": 80.2,
+    "watchH": 799.9
    }
   },
   {
@@ -5821,7 +5932,7 @@
     "comments": 0,
     "follows": 0,
     "avgWatch": 25,
-    "viewPct": 50.2,
+    "viewPct": 50.1,
     "watchH": 5.4
    }
   },
@@ -5858,7 +5969,7 @@
    "thumb": "https://i.ytimg.com/vi/nK82c43QLXo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/nK82c43QLXo",
    "stats": {
-    "views": 1805,
+    "views": 1804,
     "likes": 17,
     "comments": 0,
     "follows": 0,
@@ -5879,7 +5990,7 @@
    "thumb": "https://i.ytimg.com/vi/KSx5Jp-sGB8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KSx5Jp-sGB8",
    "stats": {
-    "views": 1374,
+    "views": 1377,
     "likes": 7,
     "comments": 0,
     "follows": 1,
@@ -5900,7 +6011,7 @@
    "thumb": "https://i.ytimg.com/vi/iNwA5pAK4Xw/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/iNwA5pAK4Xw",
    "stats": {
-    "views": 1784,
+    "views": 1785,
     "likes": 43,
     "comments": 0,
     "follows": 4,
@@ -5921,7 +6032,7 @@
    "thumb": "https://i.ytimg.com/vi/-OYKcmJhFgA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/-OYKcmJhFgA",
    "stats": {
-    "views": 2298,
+    "views": 2296,
     "likes": 10,
     "comments": 0,
     "follows": 0,
@@ -5963,7 +6074,7 @@
    "thumb": "https://i.ytimg.com/vi/sCCjliNbAPI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/sCCjliNbAPI",
    "stats": {
-    "views": 53331,
+    "views": 53383,
     "likes": 382,
     "comments": 11,
     "follows": 40,
@@ -5984,7 +6095,7 @@
    "thumb": "https://i.ytimg.com/vi/2_Kf1L68Mc8/maxresdefault.jpg",
    "url": "https://youtu.be/2_Kf1L68Mc8",
    "stats": {
-    "views": 2204,
+    "views": 2206,
     "likes": 18,
     "comments": 2,
     "follows": 3,
@@ -6005,7 +6116,7 @@
    "thumb": "https://i.ytimg.com/vi/2_Kf1L68Mc8/maxresdefault.jpg",
    "url": "https://youtu.be/2_Kf1L68Mc8",
    "stats": {
-    "views": 2204,
+    "views": 2206,
     "likes": 18,
     "comments": 2,
     "follows": 3,
@@ -6026,13 +6137,34 @@
    "thumb": "https://i.ytimg.com/vi/DV62KWSRb8I/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/DV62KWSRb8I",
    "stats": {
-    "views": 730290,
-    "likes": 6385,
-    "comments": 755,
-    "follows": 1831,
+    "views": 734031,
+    "likes": 6430,
+    "comments": 758,
+    "follows": 1843,
     "avgWatch": 54,
     "viewPct": 71.2,
-    "watchH": 6962.6
+    "watchH": 7004.3
+   }
+  },
+  {
+   "channel": "yt-shop",
+   "id": "b5YI9fWrdOg",
+   "title": "Самая странная просьба от Хабенского!",
+   "text": "Самая странная просьба от Хабенского!\n\n«Девочки, мне нужна сумка» — а на площадке её не было ни у кого. Вся съёмочная группа ждала, пока команда бежала в магазин. Зато сумку потом зафактурили.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#хабенский #съемки #кино #закулисье",
+   "date": "2026-09-10T18:09:11",
+   "status": "public",
+   "short": true,
+   "duration": 37,
+   "thumb": "https://i.ytimg.com/vi/b5YI9fWrdOg/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/b5YI9fWrdOg",
+   "stats": {
+    "views": 11689,
+    "likes": 44,
+    "comments": 0,
+    "follows": 3,
+    "avgWatch": 27,
+    "viewPct": 74,
+    "watchH": 56.1
    }
   },
   {
@@ -6047,7 +6179,7 @@
    "thumb": "https://i.ytimg.com/vi/j8jGDdnf3wo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/j8jGDdnf3wo",
    "stats": {
-    "views": 1141,
+    "views": 1140,
     "likes": 6,
     "comments": 1,
     "follows": 1,
@@ -6068,7 +6200,7 @@
    "thumb": "https://i.ytimg.com/vi/lu_zE-vgNNE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/lu_zE-vgNNE",
    "stats": {
-    "views": 1074,
+    "views": 1073,
     "likes": 2,
     "comments": 0,
     "follows": 1,
@@ -6089,34 +6221,13 @@
    "thumb": "https://i.ytimg.com/vi/WrwQuPr_5og/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/WrwQuPr_5og",
    "stats": {
-    "views": 1204,
+    "views": 1203,
     "likes": 4,
     "comments": 0,
     "follows": 0,
     "avgWatch": 18,
     "viewPct": 46.1,
     "watchH": 3.4
-   }
-  },
-  {
-   "channel": "yt-shop",
-   "id": "NEMh3OAUxp4",
-   "title": "Самые колхозные летние вещи — срочно выбросите!",
-   "text": "Самые колхозные летние вещи — срочно выбросите!\n\nМайки на тонких бретельках давно в модном отпуске, рубашки в облипку и со стойкой уступают место свободным моделям с классическим воротом. Чем больше свободы — тем актуальнее.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#антитренды #стиль #одежда #лето",
-   "date": "2026-09-11T12:04:34",
-   "status": "public",
-   "short": true,
-   "duration": 28,
-   "thumb": "https://i.ytimg.com/vi/NEMh3OAUxp4/maxresdefault.jpg",
-   "url": "https://youtube.com/shorts/NEMh3OAUxp4",
-   "stats": {
-    "views": 9061,
-    "likes": 41,
-    "comments": 11,
-    "follows": 1,
-    "avgWatch": 24,
-    "viewPct": 88.0,
-    "watchH": 32.5
    }
   },
   {
@@ -6131,7 +6242,7 @@
    "thumb": "https://i.ytimg.com/vi/ogWLZYygptc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/ogWLZYygptc",
    "stats": {
-    "views": 10969,
+    "views": 10972,
     "likes": 39,
     "comments": 11,
     "follows": 4,
@@ -6152,7 +6263,7 @@
    "thumb": "https://i.ytimg.com/vi/OuDKMFyWe8A/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/OuDKMFyWe8A",
    "stats": {
-    "views": 1241,
+    "views": 1240,
     "likes": 4,
     "comments": 0,
     "follows": 0,
@@ -6173,13 +6284,13 @@
    "thumb": "https://i.ytimg.com/vi/tZiquoi4PiE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/tZiquoi4PiE",
    "stats": {
-    "views": 1102,
+    "views": 1101,
     "likes": 7,
     "comments": 0,
     "follows": 0,
     "avgWatch": 17,
     "viewPct": 31.7,
-    "watchH": 2.6
+    "watchH": 2.5
    }
   },
   {
@@ -6278,7 +6389,7 @@
    "thumb": "https://i.ytimg.com/vi/6V8ft1QwC8M/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/6V8ft1QwC8M",
    "stats": {
-    "views": 1499,
+    "views": 1498,
     "likes": 12,
     "comments": 0,
     "follows": 2,
@@ -6299,7 +6410,7 @@
    "thumb": "https://i.ytimg.com/vi/lqUzdlltIJM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/lqUzdlltIJM",
    "stats": {
-    "views": 23083,
+    "views": 23091,
     "likes": 146,
     "comments": 4,
     "follows": 15,
@@ -6362,13 +6473,13 @@
    "thumb": "https://i.ytimg.com/vi/jfpg_iWY79c/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/jfpg_iWY79c",
    "stats": {
-    "views": 46620,
+    "views": 46700,
     "likes": 188,
     "comments": 13,
     "follows": 10,
     "avgWatch": 20,
     "viewPct": 99.9,
-    "watchH": 152.6
+    "watchH": 152.7
    }
   },
   {
@@ -6383,7 +6494,7 @@
    "thumb": "https://i.ytimg.com/vi/j-DwK4qTPb0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/j-DwK4qTPb0",
    "stats": {
-    "views": 16038,
+    "views": 16039,
     "likes": 279,
     "comments": 10,
     "follows": 45,
@@ -6425,7 +6536,7 @@
    "thumb": "https://i.ytimg.com/vi/F-PPYR5L4q0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/F-PPYR5L4q0",
    "stats": {
-    "views": 1230,
+    "views": 1229,
     "likes": 4,
     "comments": 0,
     "follows": 1,
@@ -6472,7 +6583,7 @@
     "comments": 2,
     "follows": 3,
     "avgWatch": 25,
-    "viewPct": 49.9,
+    "viewPct": 49.8,
     "watchH": 6.2
    }
   },
@@ -6488,7 +6599,7 @@
    "thumb": "https://i.ytimg.com/vi/2o6i3eTRXVI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/2o6i3eTRXVI",
    "stats": {
-    "views": 1671,
+    "views": 1670,
     "likes": 11,
     "comments": 0,
     "follows": 1,
@@ -6509,7 +6620,7 @@
    "thumb": "https://i.ytimg.com/vi/u9jFKmKitqo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/u9jFKmKitqo",
    "stats": {
-    "views": 1133,
+    "views": 1132,
     "likes": 6,
     "comments": 0,
     "follows": 3,
@@ -6530,13 +6641,13 @@
    "thumb": "https://i.ytimg.com/vi/KAvj7Ed9FBA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KAvj7Ed9FBA",
    "stats": {
-    "views": 5084,
+    "views": 5090,
     "likes": 83,
     "comments": 7,
     "follows": 8,
     "avgWatch": 42,
     "viewPct": 67.8,
-    "watchH": 37.9
+    "watchH": 38.0
    }
   },
   {
@@ -6551,7 +6662,7 @@
    "thumb": "https://i.ytimg.com/vi/OXG_dVF1-ZM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/OXG_dVF1-ZM",
    "stats": {
-    "views": 1381,
+    "views": 1380,
     "likes": 9,
     "comments": 0,
     "follows": 1,
@@ -6598,7 +6709,7 @@
     "comments": 0,
     "follows": 3,
     "avgWatch": 24,
-    "viewPct": 46.3,
+    "viewPct": 46.2,
     "watchH": 6.8
    }
   },
@@ -6614,7 +6725,7 @@
    "thumb": "https://i.ytimg.com/vi/5YLi_kTmfcw/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/5YLi_kTmfcw",
    "stats": {
-    "views": 1930,
+    "views": 1931,
     "likes": 11,
     "comments": 1,
     "follows": 6,
@@ -6635,7 +6746,7 @@
    "thumb": "https://i.ytimg.com/vi/z3iZdqH5ZfI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/z3iZdqH5ZfI",
    "stats": {
-    "views": 96176,
+    "views": 96180,
     "likes": 1505,
     "comments": 135,
     "follows": 86,
@@ -6656,7 +6767,7 @@
    "thumb": "https://i.ytimg.com/vi/IyjIqfMWA6U/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/IyjIqfMWA6U",
    "stats": {
-    "views": 1850,
+    "views": 1854,
     "likes": 13,
     "comments": 1,
     "follows": 6,
@@ -6698,13 +6809,13 @@
    "thumb": "https://i.ytimg.com/vi/n_sH6Sm0nwQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/n_sH6Sm0nwQ",
    "stats": {
-    "views": 329534,
-    "likes": 4769,
+    "views": 329592,
+    "likes": 4768,
     "comments": 586,
     "follows": 347,
     "avgWatch": 50,
     "viewPct": 83.6,
-    "watchH": 2661.3
+    "watchH": 2661.6
    }
   },
   {
@@ -6719,12 +6830,12 @@
    "thumb": "https://i.ytimg.com/vi/LCli8OSRtcU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/LCli8OSRtcU",
    "stats": {
-    "views": 1461,
+    "views": 1463,
     "likes": 11,
     "comments": 1,
     "follows": 0,
     "avgWatch": 15,
-    "viewPct": 36.5,
+    "viewPct": 36.6,
     "watchH": 4.1
    }
   },
@@ -6740,7 +6851,7 @@
    "thumb": "https://i.ytimg.com/vi/BPADdjYHGb8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/BPADdjYHGb8",
    "stats": {
-    "views": 2258,
+    "views": 2259,
     "likes": 18,
     "comments": 1,
     "follows": 7,
@@ -6761,7 +6872,7 @@
    "thumb": "https://i.ytimg.com/vi/2CMzHsDIlR0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/2CMzHsDIlR0",
    "stats": {
-    "views": 1466,
+    "views": 1467,
     "likes": 5,
     "comments": 0,
     "follows": 0,
@@ -6782,7 +6893,7 @@
    "thumb": "https://i.ytimg.com/vi/DWOH_JvRzlw/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/DWOH_JvRzlw",
    "stats": {
-    "views": 3823,
+    "views": 3825,
     "likes": 33,
     "comments": 0,
     "follows": 9,
@@ -6803,7 +6914,7 @@
    "thumb": "https://i.ytimg.com/vi/XoF8-A5tTb8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/XoF8-A5tTb8",
    "stats": {
-    "views": 2248,
+    "views": 2260,
     "likes": 29,
     "comments": 0,
     "follows": 6,
@@ -6829,7 +6940,7 @@
     "comments": 2,
     "follows": 12,
     "avgWatch": 29,
-    "viewPct": 58.1,
+    "viewPct": 58.0,
     "watchH": 16.0
    }
   },
@@ -6845,13 +6956,13 @@
    "thumb": "https://i.ytimg.com/vi/NtG3abVAmLw/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/NtG3abVAmLw",
    "stats": {
-    "views": 4023,
+    "views": 4025,
     "likes": 47,
     "comments": 6,
     "follows": 7,
     "avgWatch": 41,
     "viewPct": 60.1,
-    "watchH": 29.1
+    "watchH": 29.2
    }
   },
   {
@@ -6866,12 +6977,12 @@
    "thumb": "https://i.ytimg.com/vi/vBEZkp5ggdY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/vBEZkp5ggdY",
    "stats": {
-    "views": 298,
+    "views": 300,
     "likes": 5,
     "comments": 0,
     "follows": 0,
     "avgWatch": 24,
-    "viewPct": 69.7,
+    "viewPct": 69.9,
     "watchH": 1.2
    }
   },
@@ -6887,7 +6998,7 @@
    "thumb": "https://i.ytimg.com/vi/04Am-aM2F4c/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/04Am-aM2F4c",
    "stats": {
-    "views": 1080,
+    "views": 1079,
     "likes": 9,
     "comments": 0,
     "follows": 0,
@@ -6908,13 +7019,13 @@
    "thumb": "https://i.ytimg.com/vi/uG6nFRACjQo/maxresdefault.jpg",
    "url": "https://youtu.be/uG6nFRACjQo",
    "stats": {
-    "views": 3447,
+    "views": 3453,
     "likes": 46,
     "comments": 4,
     "follows": 6,
     "avgWatch": 113,
     "viewPct": 42.0,
-    "watchH": 39.2
+    "watchH": 39.4
    }
   },
   {
@@ -6929,13 +7040,13 @@
    "thumb": "https://i.ytimg.com/vi/uG6nFRACjQo/maxresdefault.jpg",
    "url": "https://youtu.be/uG6nFRACjQo",
    "stats": {
-    "views": 3447,
+    "views": 3453,
     "likes": 46,
     "comments": 4,
     "follows": 6,
     "avgWatch": 113,
     "viewPct": 42.0,
-    "watchH": 39.2
+    "watchH": 39.4
    }
   },
   {
@@ -6950,12 +7061,12 @@
    "thumb": "https://i.ytimg.com/vi/zOyI5nX2dLo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/zOyI5nX2dLo",
    "stats": {
-    "views": 399,
+    "views": 401,
     "likes": 8,
     "comments": 0,
     "follows": 1,
     "avgWatch": 18,
-    "viewPct": 65.4,
+    "viewPct": 65.0,
     "watchH": 1.2
    }
   },
@@ -6971,7 +7082,7 @@
    "thumb": "https://i.ytimg.com/vi/KiZ5fmgJ5zA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KiZ5fmgJ5zA",
    "stats": {
-    "views": 480,
+    "views": 483,
     "likes": 22,
     "comments": 1,
     "follows": 1,
@@ -6992,12 +7103,12 @@
    "thumb": "https://i.ytimg.com/vi/c-XbIhg5FPw/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/c-XbIhg5FPw",
    "stats": {
-    "views": 321,
+    "views": 325,
     "likes": 8,
     "comments": 0,
     "follows": 1,
     "avgWatch": 34,
-    "viewPct": 84.1,
+    "viewPct": 83.8,
     "watchH": 1.8
    }
   },
@@ -7013,12 +7124,12 @@
    "thumb": "https://i.ytimg.com/vi/nTEiHO9janM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/nTEiHO9janM",
    "stats": {
-    "views": 297,
+    "views": 298,
     "likes": 4,
     "comments": 0,
     "follows": 1,
-    "avgWatch": 54,
-    "viewPct": 120.2,
+    "avgWatch": 53,
+    "viewPct": 119.0,
     "watchH": 2.6
    }
   },
@@ -7034,12 +7145,12 @@
    "thumb": "https://i.ytimg.com/vi/q2bxagW_ySo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/q2bxagW_ySo",
    "stats": {
-    "views": 291,
+    "views": 294,
     "likes": 8,
     "comments": 0,
     "follows": 3,
     "avgWatch": 45,
-    "viewPct": 94.5,
+    "viewPct": 94.6,
     "watchH": 2.0
    }
   },
@@ -7055,12 +7166,12 @@
    "thumb": "https://i.ytimg.com/vi/03Mo03B30iU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/03Mo03B30iU",
    "stats": {
-    "views": 304,
+    "views": 305,
     "likes": 0,
     "comments": 0,
     "follows": 0,
     "avgWatch": 41,
-    "viewPct": 90.2,
+    "viewPct": 90.0,
     "watchH": 1.9
    }
   },
@@ -7076,12 +7187,12 @@
    "thumb": "https://i.ytimg.com/vi/8WXIvmFU6x8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/8WXIvmFU6x8",
    "stats": {
-    "views": 6510,
+    "views": 6514,
     "likes": 87,
     "comments": 6,
     "follows": 4,
     "avgWatch": 35,
-    "viewPct": 64.9,
+    "viewPct": 64.8,
     "watchH": 35.4
    }
   },
@@ -7097,12 +7208,12 @@
    "thumb": "https://i.ytimg.com/vi/G0NvbrRPWKc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/G0NvbrRPWKc",
    "stats": {
-    "views": 283,
+    "views": 285,
     "likes": 3,
     "comments": 0,
     "follows": 0,
     "avgWatch": 32,
-    "viewPct": 67.7,
+    "viewPct": 67.9,
     "watchH": 1.3
    }
   },
@@ -7118,12 +7229,12 @@
    "thumb": "https://i.ytimg.com/vi/9u_kIdQxD-Y/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/9u_kIdQxD-Y",
    "stats": {
-    "views": 271,
+    "views": 274,
     "likes": 3,
     "comments": 0,
     "follows": 3,
     "avgWatch": 24,
-    "viewPct": 70.8,
+    "viewPct": 71.0,
     "watchH": 1.1
    }
   },
@@ -7144,7 +7255,7 @@
     "comments": 1,
     "follows": 1,
     "avgWatch": 35,
-    "viewPct": 85.6,
+    "viewPct": 85.5,
     "watchH": 2.4
    }
   },
@@ -7160,8 +7271,8 @@
    "thumb": "https://i.ytimg.com/vi/hst6j0FlJGg/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/hst6j0FlJGg",
    "stats": {
-    "views": 4324,
-    "likes": 58,
+    "views": 4330,
+    "likes": 59,
     "comments": 1,
     "follows": 2,
     "avgWatch": 25,
@@ -7181,12 +7292,12 @@
    "thumb": "https://i.ytimg.com/vi/TGGHX3spXBg/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/TGGHX3spXBg",
    "stats": {
-    "views": 280,
+    "views": 284,
     "likes": 1,
     "comments": 0,
     "follows": 0,
     "avgWatch": 32,
-    "viewPct": 81.3,
+    "viewPct": 81.2,
     "watchH": 1.6
    }
   },
@@ -7202,12 +7313,12 @@
    "thumb": "https://i.ytimg.com/vi/a1DDOE2X6nU/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/a1DDOE2X6nU",
    "stats": {
-    "views": 1340,
+    "views": 1342,
     "likes": 7,
     "comments": 0,
     "follows": 1,
     "avgWatch": 23,
-    "viewPct": 39.2,
+    "viewPct": 39.4,
     "watchH": 4.9
    }
   },
@@ -7223,12 +7334,12 @@
    "thumb": "https://i.ytimg.com/vi/NLZe3UBBlwA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/NLZe3UBBlwA",
    "stats": {
-    "views": 219,
+    "views": 220,
     "likes": 3,
     "comments": 0,
     "follows": 0,
     "avgWatch": 25,
-    "viewPct": 66.6,
+    "viewPct": 66.1,
     "watchH": 0.8
    }
   },
@@ -7244,13 +7355,13 @@
    "thumb": "https://i.ytimg.com/vi/1kes2Gl1Wa4/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/1kes2Gl1Wa4",
    "stats": {
-    "views": 279,
+    "views": 283,
     "likes": 5,
     "comments": 0,
     "follows": 0,
     "avgWatch": 26,
-    "viewPct": 70.5,
-    "watchH": 1.2
+    "viewPct": 70.3,
+    "watchH": 1.3
    }
   },
   {
@@ -7265,13 +7376,13 @@
    "thumb": "https://i.ytimg.com/vi/q94VC2mJFaQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/q94VC2mJFaQ",
    "stats": {
-    "views": 2107,
+    "views": 2110,
     "likes": 37,
     "comments": 1,
     "follows": 4,
     "avgWatch": 21,
     "viewPct": 61.0,
-    "watchH": 9.1
+    "watchH": 9.2
    }
   },
   {
@@ -7286,12 +7397,12 @@
    "thumb": "https://i.ytimg.com/vi/SyPoiV_ukcQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/SyPoiV_ukcQ",
    "stats": {
-    "views": 180,
+    "views": 181,
     "likes": 4,
     "comments": 1,
     "follows": 1,
     "avgWatch": 24,
-    "viewPct": 59.2,
+    "viewPct": 58.2,
     "watchH": 0.7
    }
   },
@@ -7307,12 +7418,12 @@
    "thumb": "https://i.ytimg.com/vi/kC0O68s4mZc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/kC0O68s4mZc",
    "stats": {
-    "views": 176,
+    "views": 178,
     "likes": 3,
     "comments": 0,
     "follows": 0,
     "avgWatch": 22,
-    "viewPct": 51.4,
+    "viewPct": 50.5,
     "watchH": 0.6
    }
   },
@@ -7333,7 +7444,7 @@
     "comments": 0,
     "follows": 1,
     "avgWatch": 19,
-    "viewPct": 43.7,
+    "viewPct": 44.0,
     "watchH": 0.5
    }
   },
@@ -7349,13 +7460,13 @@
    "thumb": "https://i.ytimg.com/vi/R-dbe2eh3U8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/R-dbe2eh3U8",
    "stats": {
-    "views": 225,
+    "views": 228,
     "likes": 3,
     "comments": 0,
     "follows": 1,
     "avgWatch": 32,
-    "viewPct": 67.0,
-    "watchH": 1.0
+    "viewPct": 67.5,
+    "watchH": 1.1
    }
   },
   {
@@ -7370,12 +7481,12 @@
    "thumb": "https://i.ytimg.com/vi/UWNFa1oMN_k/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/UWNFa1oMN_k",
    "stats": {
-    "views": 243,
+    "views": 246,
     "likes": 12,
     "comments": 0,
     "follows": 1,
     "avgWatch": 65,
-    "viewPct": 85.5,
+    "viewPct": 84.7,
     "watchH": 1.9
    }
   },
@@ -7391,7 +7502,7 @@
    "thumb": "https://i.ytimg.com/vi/tiosC2EpKhk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/tiosC2EpKhk",
    "stats": {
-    "views": 1120,
+    "views": 1123,
     "likes": 8,
     "comments": 0,
     "follows": 2,
@@ -7412,13 +7523,13 @@
    "thumb": "https://i.ytimg.com/vi/sv0-72sYH0k/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/sv0-72sYH0k",
    "stats": {
-    "views": 233,
+    "views": 241,
     "likes": 4,
     "comments": 0,
     "follows": 0,
     "avgWatch": 28,
-    "viewPct": 75.7,
-    "watchH": 1.0
+    "viewPct": 74.9,
+    "watchH": 1.1
    }
   },
   {
@@ -7433,13 +7544,13 @@
    "thumb": "https://i.ytimg.com/vi/nEepOIir7F4/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/nEepOIir7F4",
    "stats": {
-    "views": 257,
+    "views": 261,
     "likes": 2,
     "comments": 0,
     "follows": 0,
     "avgWatch": 52,
-    "viewPct": 117.6,
-    "watchH": 2.1
+    "viewPct": 116.8,
+    "watchH": 2.2
    }
   },
   {
@@ -7454,13 +7565,13 @@
    "thumb": "https://i.ytimg.com/vi/QE8ia2f0giY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/QE8ia2f0giY",
    "stats": {
-    "views": 283,
+    "views": 288,
     "likes": 4,
     "comments": 0,
     "follows": 2,
     "avgWatch": 43,
-    "viewPct": 76.9,
-    "watchH": 1.7
+    "viewPct": 76.0,
+    "watchH": 1.8
    }
   },
   {
@@ -7475,12 +7586,12 @@
    "thumb": "https://i.ytimg.com/vi/vh33vaOKRtQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/vh33vaOKRtQ",
    "stats": {
-    "views": 273,
+    "views": 276,
     "likes": 6,
     "comments": 0,
     "follows": 1,
-    "avgWatch": 41,
-    "viewPct": 85.4,
+    "avgWatch": 40,
+    "viewPct": 84.6,
     "watchH": 1.8
    }
   },
@@ -7496,7 +7607,7 @@
    "thumb": "https://i.ytimg.com/vi/C2x8KaVvzBE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/C2x8KaVvzBE",
    "stats": {
-    "views": 1284,
+    "views": 1286,
     "likes": 15,
     "comments": 1,
     "follows": 0,
@@ -7517,7 +7628,7 @@
    "thumb": "https://i.ytimg.com/vi/UHlNIRcip-0/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/UHlNIRcip-0",
    "stats": {
-    "views": 4610,
+    "views": 4615,
     "likes": 67,
     "comments": 11,
     "follows": 4,
@@ -7538,13 +7649,13 @@
    "thumb": "https://i.ytimg.com/vi/qG9fw5aglEw/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/qG9fw5aglEw",
    "stats": {
-    "views": 178,
+    "views": 184,
     "likes": 2,
     "comments": 0,
     "follows": 1,
     "avgWatch": 26,
-    "viewPct": 81.0,
-    "watchH": 0.6
+    "viewPct": 79.7,
+    "watchH": 0.7
    }
   },
   {
@@ -7559,13 +7670,13 @@
    "thumb": "https://i.ytimg.com/vi/JO91gQ4qFXc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/JO91gQ4qFXc",
    "stats": {
-    "views": 171,
+    "views": 178,
     "likes": 5,
     "comments": 0,
     "follows": 3,
     "avgWatch": 34,
-    "viewPct": 75.0,
-    "watchH": 0.9
+    "viewPct": 76.1,
+    "watchH": 1.0
    }
   },
   {
@@ -7580,7 +7691,7 @@
    "thumb": "https://i.ytimg.com/vi/6tjNgTs9xqY/maxresdefault.jpg",
    "url": "https://youtu.be/6tjNgTs9xqY",
    "stats": {
-    "views": 291,
+    "views": 294,
     "likes": 7,
     "comments": 2,
     "follows": 0,
@@ -7601,13 +7712,13 @@
    "thumb": "https://i.ytimg.com/vi/yc6mou0CM6g/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/yc6mou0CM6g",
    "stats": {
-    "views": 2255,
+    "views": 2260,
     "likes": 24,
     "comments": 1,
     "follows": 2,
     "avgWatch": 29,
-    "viewPct": 54.1,
-    "watchH": 11.5
+    "viewPct": 54.0,
+    "watchH": 11.6
    }
   },
   {
@@ -7622,7 +7733,7 @@
    "thumb": "https://i.ytimg.com/vi/Al7lExsObFM/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/Al7lExsObFM",
    "stats": {
-    "views": 708,
+    "views": 715,
     "likes": 7,
     "comments": 1,
     "follows": 1,
@@ -7643,12 +7754,12 @@
    "thumb": "https://i.ytimg.com/vi/sD56YRxX2YY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/sD56YRxX2YY",
    "stats": {
-    "views": 1287,
-    "likes": 25,
+    "views": 1292,
+    "likes": 26,
     "comments": 2,
     "follows": 2,
     "avgWatch": 30,
-    "viewPct": 42.8,
+    "viewPct": 42.7,
     "watchH": 6.1
    }
   },
@@ -7664,12 +7775,12 @@
    "thumb": "https://i.ytimg.com/vi/QKc829_kruI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/QKc829_kruI",
    "stats": {
-    "views": 3454,
+    "views": 3461,
     "likes": 13,
     "comments": 0,
     "follows": 0,
     "avgWatch": 10,
-    "viewPct": 97.4,
+    "viewPct": 97.3,
     "watchH": 6.0
    }
   },
@@ -7685,7 +7796,7 @@
    "thumb": "https://i.ytimg.com/vi/a57vyqTgRKY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/a57vyqTgRKY",
    "stats": {
-    "views": 1164,
+    "views": 1170,
     "likes": 10,
     "comments": 0,
     "follows": 1,
@@ -7706,13 +7817,13 @@
    "thumb": "https://i.ytimg.com/vi/mjhenoE1Al8/maxresdefault.jpg",
    "url": "https://youtu.be/mjhenoE1Al8",
    "stats": {
-    "views": 390,
-    "likes": 12,
-    "comments": 2,
-    "follows": 1,
-    "avgWatch": 181,
-    "viewPct": 37.8,
-    "watchH": 10.1
+    "views": 399,
+    "likes": 13,
+    "comments": 3,
+    "follows": 3,
+    "avgWatch": 185,
+    "viewPct": 38.7,
+    "watchH": 10.9
    }
   },
   {
@@ -7727,12 +7838,12 @@
    "thumb": "https://i.ytimg.com/vi/msr_xZZ23yI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/msr_xZZ23yI",
    "stats": {
-    "views": 1729,
-    "likes": 19,
+    "views": 1735,
+    "likes": 20,
     "comments": 1,
     "follows": 1,
     "avgWatch": 21,
-    "viewPct": 52.1,
+    "viewPct": 52.0,
     "watchH": 5.9
    }
   },
@@ -7748,13 +7859,13 @@
    "thumb": "https://i.ytimg.com/vi/KQXEgaMJpr8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KQXEgaMJpr8",
    "stats": {
-    "views": 12027,
-    "likes": 139,
+    "views": 12046,
+    "likes": 140,
     "comments": 9,
     "follows": 4,
     "avgWatch": 21,
     "viewPct": 67.5,
-    "watchH": 48.4
+    "watchH": 48.5
    }
   },
   {
@@ -7769,8 +7880,8 @@
    "thumb": "https://i.ytimg.com/vi/QF5MHL-h2qk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/QF5MHL-h2qk",
    "stats": {
-    "views": 1210,
-    "likes": 10,
+    "views": 1219,
+    "likes": 11,
     "comments": 0,
     "follows": 0,
     "avgWatch": 23,
@@ -7790,7 +7901,7 @@
    "thumb": "https://i.ytimg.com/vi/wKUbRIZDQmE/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/wKUbRIZDQmE",
    "stats": {
-    "views": 584,
+    "views": 590,
     "likes": 5,
     "comments": 0,
     "follows": 0,
@@ -7811,13 +7922,13 @@
    "thumb": "https://i.ytimg.com/vi/RckCv8moY7w/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/RckCv8moY7w",
    "stats": {
-    "views": 1878,
-    "likes": 33,
+    "views": 1886,
+    "likes": 34,
     "comments": 0,
     "follows": 1,
     "avgWatch": 20,
-    "viewPct": 36.7,
-    "watchH": 6.4
+    "viewPct": 36.8,
+    "watchH": 6.5
    }
   },
   {
@@ -7832,7 +7943,7 @@
    "thumb": "https://i.ytimg.com/vi/vC0rI6qGe_A/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/vC0rI6qGe_A",
    "stats": {
-    "views": 1393,
+    "views": 1402,
     "likes": 9,
     "comments": 0,
     "follows": 0,
@@ -7853,7 +7964,7 @@
    "thumb": "https://i.ytimg.com/vi/GrxH6YhCXlA/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/GrxH6YhCXlA",
    "stats": {
-    "views": 983,
+    "views": 989,
     "likes": 14,
     "comments": 0,
     "follows": 2,
@@ -7874,13 +7985,13 @@
    "thumb": "https://i.ytimg.com/vi/FYjRuXxkDnY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/FYjRuXxkDnY",
    "stats": {
-    "views": 12891,
-    "likes": 142,
+    "views": 13979,
+    "likes": 152,
     "comments": 3,
     "follows": 32,
     "avgWatch": 29,
-    "viewPct": 87.3,
-    "watchH": 53.8
+    "viewPct": 86.7,
+    "watchH": 56.6
    }
   },
   {
@@ -7895,12 +8006,12 @@
    "thumb": "https://i.ytimg.com/vi/5m-wHrXVrvQ/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/5m-wHrXVrvQ",
    "stats": {
-    "views": 377,
-    "likes": 4,
+    "views": 385,
+    "likes": 5,
     "comments": 0,
     "follows": 0,
     "avgWatch": 11,
-    "viewPct": 96.7,
+    "viewPct": 96.0,
     "watchH": 0.4
    }
   },
@@ -7916,13 +8027,13 @@
    "thumb": "https://i.ytimg.com/vi/KmYx8U1SmWc/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/KmYx8U1SmWc",
    "stats": {
-    "views": 442,
+    "views": 453,
     "likes": 6,
     "comments": 0,
     "follows": 0,
     "avgWatch": 19,
-    "viewPct": 50.2,
-    "watchH": 0.6
+    "viewPct": 50.9,
+    "watchH": 0.7
    }
   },
   {
@@ -7937,13 +8048,13 @@
    "thumb": "https://i.ytimg.com/vi/Rs-Yk_EHJDw/maxresdefault.jpg",
    "url": "https://youtu.be/Rs-Yk_EHJDw",
    "stats": {
-    "views": 15479,
-    "likes": 189,
-    "comments": 15,
-    "follows": 58,
+    "views": 16604,
+    "likes": 210,
+    "comments": 18,
+    "follows": 75,
     "avgWatch": 183,
-    "viewPct": 32.2,
-    "watchH": 226.2
+    "viewPct": 32.3,
+    "watchH": 250.3
    }
   },
   {
@@ -7958,12 +8069,12 @@
    "thumb": "https://i.ytimg.com/vi/CZs6a9F8weY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/CZs6a9F8weY",
    "stats": {
-    "views": 1125,
+    "views": 1137,
     "likes": 27,
     "comments": 0,
     "follows": 0,
     "avgWatch": 14,
-    "viewPct": 36.5,
+    "viewPct": 36.9,
     "watchH": 2.8
    }
   },
@@ -7979,13 +8090,13 @@
    "thumb": "https://i.ytimg.com/vi/htT6W4n3whk/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/htT6W4n3whk",
    "stats": {
-    "views": 26269,
-    "likes": 515,
+    "views": 28245,
+    "likes": 551,
     "comments": 4,
-    "follows": 58,
+    "follows": 64,
     "avgWatch": 42,
-    "viewPct": 79.3,
-    "watchH": 162.5
+    "viewPct": 79.4,
+    "watchH": 176.9
    }
   },
   {
@@ -8000,13 +8111,13 @@
    "thumb": "https://i.ytimg.com/vi/TnPT2nErgGg/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/TnPT2nErgGg",
    "stats": {
-    "views": 1823,
-    "likes": 22,
+    "views": 1844,
+    "likes": 24,
     "comments": 0,
     "follows": 0,
     "avgWatch": 41,
-    "viewPct": 63.5,
-    "watchH": 13.5
+    "viewPct": 63.3,
+    "watchH": 13.7
    }
   },
   {
@@ -8021,13 +8132,13 @@
    "thumb": "https://i.ytimg.com/vi/kG0MdGgV93M/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/kG0MdGgV93M",
    "stats": {
-    "views": 2637,
+    "views": 2661,
     "likes": 7,
     "comments": 0,
     "follows": 0,
     "avgWatch": 10,
-    "viewPct": 148.0,
-    "watchH": 2.9
+    "viewPct": 147.0,
+    "watchH": 3.2
    }
   },
   {
@@ -8042,13 +8153,13 @@
    "thumb": "https://i.ytimg.com/vi/5_nn1qiZ4yI/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/5_nn1qiZ4yI",
    "stats": {
-    "views": 1169,
-    "likes": 13,
+    "views": 1181,
+    "likes": 14,
     "comments": 0,
     "follows": 0,
     "avgWatch": 21,
-    "viewPct": 56.1,
-    "watchH": 2.9
+    "viewPct": 55.6,
+    "watchH": 3.1
    }
   },
   {
@@ -8063,13 +8174,13 @@
    "thumb": "https://i.ytimg.com/vi/9o8OiEFJNY8/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/9o8OiEFJNY8",
    "stats": {
-    "views": 1084,
+    "views": 1108,
     "likes": 10,
     "comments": 1,
     "follows": 0,
     "avgWatch": 31,
-    "viewPct": 54.9,
-    "watchH": 5.0
+    "viewPct": 55.1,
+    "watchH": 5.3
    }
   },
   {
@@ -8084,13 +8195,13 @@
    "thumb": "https://i.ytimg.com/vi/jKl-8bpdGZo/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/jKl-8bpdGZo",
    "stats": {
-    "views": 11980,
-    "likes": 204,
-    "comments": 14,
-    "follows": 2,
-    "avgWatch": 54,
-    "viewPct": 85.9,
-    "watchH": 55.3
+    "views": 16317,
+    "likes": 267,
+    "comments": 20,
+    "follows": 5,
+    "avgWatch": 51,
+    "viewPct": 81.2,
+    "watchH": 97.0
    }
   },
   {
@@ -8105,13 +8216,13 @@
    "thumb": "https://i.ytimg.com/vi/VpucsVhQO7w/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/VpucsVhQO7w",
    "stats": {
-    "views": 2116,
-    "likes": 43,
+    "views": 2936,
+    "likes": 52,
     "comments": 1,
     "follows": 1,
-    "avgWatch": 41,
-    "viewPct": 69.6,
-    "watchH": 8.1
+    "avgWatch": 42,
+    "viewPct": 71.5,
+    "watchH": 11.8
    }
   },
   {
@@ -8126,9 +8237,13 @@
    "thumb": "https://i.ytimg.com/vi/gSSDkOTYV38/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/gSSDkOTYV38",
    "stats": {
-    "views": 198,
+    "views": 257,
     "likes": 1,
-    "comments": 0
+    "comments": 0,
+    "follows": 0,
+    "avgWatch": 15,
+    "viewPct": 27.3,
+    "watchH": 0.3
    }
   },
   {
@@ -8143,9 +8258,9 @@
    "thumb": "https://i.ytimg.com/vi/i1xVPVTMbHY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/i1xVPVTMbHY",
    "stats": {
-    "views": 1669,
-    "likes": 38,
-    "comments": 0
+    "views": 3514,
+    "likes": 80,
+    "comments": 1
    }
   },
   {
@@ -8160,9 +8275,77 @@
    "thumb": "https://i.ytimg.com/vi/uG3zU7ppXSY/maxresdefault.jpg",
    "url": "https://youtube.com/shorts/uG3zU7ppXSY",
    "stats": {
-    "views": 1018,
-    "likes": 6,
+    "views": 1071,
+    "likes": 8,
     "comments": 0
+   }
+  },
+  {
+   "channel": "yt-shop",
+   "id": "uhJHiV0qV2k",
+   "title": "Почему кольцо Cartier Trinity десятилетиями носят политики и звёзды? 💍 Ответ знают немногие",
+   "text": "Почему кольцо Cartier Trinity десятилетиями носят политики и звёзды? 💍 Ответ знают немногие\n\nЕго выбирают люди, которые могут позволить себе любое украшение в мире. Но годами возвращаются именно к нему 👀\n\nДело не только в бренде. У этого кольца есть секрет, о котором не пишут на витрине 🤫 Досмотри до конца и узнаешь, почему его называют больше чем украшением\n\nА вы бы носили Trinity? Пишите «да» 💍 или «не моё» 🙅‍♀️\n\n✨ Где найти оригинальные бренды и ювелирные украшения из США и Европы, рассказали в Telegram-канале, ссылка в шапке профиля!\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍",
+   "date": "2026-10-10T10:05:49",
+   "status": "public",
+   "short": true,
+   "duration": 48,
+   "thumb": "https://i.ytimg.com/vi/uhJHiV0qV2k/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/uhJHiV0qV2k",
+   "stats": {
+    "views": 1694,
+    "likes": 50,
+    "comments": 1
+   }
+  },
+  {
+   "channel": "yt-shop",
+   "id": "hEHwjrnRd-c",
+   "title": "Шикарное лимитированное предложение от Estee Lauder🤩😍",
+   "text": "Тгк- @shopomaniia2012\nШикарное лимитированное предложение от Estee Lauder🤩😍\nШикарное наполнение 🤌🏻\n🎁Идеально на подарок.\nДоступная zена и уверенность в 100% оригинальности 🔥\n➡️Вся информация в нашем тг-канале!\n📎Ссылка на канал в шапке профиля!\n✅ Подписывайтесь, чтобы первыми узнавать о новинках и скидках любимых брендов 😍\n\nС уважением ♥️  \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
+   "date": "2026-10-10T14:05:39",
+   "status": "public",
+   "short": true,
+   "duration": 54,
+   "thumb": "https://i.ytimg.com/vi/hEHwjrnRd-c/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/hEHwjrnRd-c",
+   "stats": {
+    "views": 143,
+    "likes": 2,
+    "comments": 0
+   }
+  },
+  {
+   "channel": "yt-shop",
+   "id": "zHHgnnMYlqI",
+   "title": "Главна русская модель Ирина Шейк снова доказала, кто тут главная 🤌🏻",
+   "text": "тгк: shopomaniia2012\nГлавна русская модель Ирина Шейк снова доказала, кто тут главная 🤌🏻\nИрина Шейк закрыла показ Messika в Париже!\n\nНа Неделе моды супермодель вышла на подиум в украшениях ювелирного дома: чёрный жакет, прозрачная юбка и бриллиантовые украшения бренда. \n\n😍Подписывайтесь, чтобы быть в курсе всех главных модных событий, трендов и самых громких показов мира.\n\nС уважением ♥️  \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
+   "date": "2026-10-11T09:04:11",
+   "status": "public",
+   "short": true,
+   "duration": 52,
+   "thumb": "https://i.ytimg.com/vi/zHHgnnMYlqI/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/zHHgnnMYlqI",
+   "stats": {
+    "views": 1244,
+    "likes": 37,
+    "comments": 5
+   }
+  },
+  {
+   "channel": "yt-shop",
+   "id": "19gKuOMt_8g",
+   "title": "7 Брендов Одежды: Качество и Стиль по Доступной Цене",
+   "text": "7 Брендов Одежды: Качество и Стиль по Доступной Цене\n\nОткрываем 7 недооцененных брендов одежды, предлагающих высокое качество, богатую историю и идеальную посадку по ценам, которые вас удивят. Узнайте, как найти стиль без переплат.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#НедооцененныеБренды #СтильнаяОдежда #КачественнаяОдежда #Мода #БюджетныйСтиль",
+   "date": "2026-10-11T12:04:55",
+   "status": "public",
+   "short": true,
+   "duration": 59,
+   "thumb": "https://i.ytimg.com/vi/19gKuOMt_8g/maxresdefault.jpg",
+   "url": "https://youtube.com/shorts/19gKuOMt_8g",
+   "stats": {
+    "views": 473,
+    "likes": 6,
+    "comments": 1
    }
   }
  ]

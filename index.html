@@ -286,6 +286,10 @@
   .badge.rts { background: var(--rts); color: #6b5a14; }
   .badge.rtl { background: var(--rtl); color: #3d2f00; box-shadow: inset 0 0 0 1.5px #000; }
   .badge.vkp { background: var(--vkp); color: #3e4a5a; }
+  .badge.br-pesh { background: #cfe5fb; color: #1b4e86; }
+  .badge.br-shop { background: #f8cfe2; color: #8a2a5a; }
+  body.dark .badge.br-pesh { background: #1e3a58; color: #a9d2fa; }
+  body.dark .badge.br-shop { background: #4e2238; color: #f6b8d4; }
   .chip.sched { opacity: .45; }
   .thumb.yt { cursor: pointer; }
   .thumb.yt .dur {
@@ -940,6 +944,7 @@ function renderVkrtDay(panel, items, dateLabel) {
         <div class="post-body">
           <div class="post-top">
             <span class="time">${v.date.slice(11, 16)}</span>
+            <span class="badge ${v.brand === "shopomania" ? "br-shop" : "br-pesh"}">${v.brand === "shopomania" ? "ШОПОМАНИЯ" : "PESHKOV SHOES"}</span>
             <span class="badge ${cls}">${VKRT_LABEL[cls]}</span>
             ${st}
           </div>

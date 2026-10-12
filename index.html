@@ -25,6 +25,11 @@
     --yshort: #2fa866;
     --ylong: #e5484d;
     --ylong-ink: #ffffff;
+    --vks: #9ccff5;   /* ВК шортс — светло-голубой */
+    --vkl: #1d4f9c;   /* ВК выпуск — тёмно-синий + окантовка */
+    --rts: #f3e6b0;   /* Rutube шортс — блёклый жёлтый */
+    --rtl: #f2bf2a;   /* Rutube выпуск — жёлтый + окантовка */
+    --vkp: #d5dbe3;   /* ВК пост с картинкой */
   }
   body[data-brand="shopomaniia"] {
     --brand: #edaecd;
@@ -271,6 +276,16 @@
   body.dark .badge.priv { background: #26303d; color: #aab8c9; }
   .chip.yshort, .counters .sq.yshort { background: var(--yshort); }
   .chip.ylong, .counters .sq.ylong { background: var(--ylong); }
+  .chip.vks, .counters .sq.vks { background: var(--vks); }
+  .chip.vkl, .counters .sq.vkl { background: var(--vkl); box-shadow: inset 0 0 0 1.5px #000; }
+  .chip.rts, .counters .sq.rts { background: var(--rts); }
+  .chip.rtl, .counters .sq.rtl { background: var(--rtl); box-shadow: inset 0 0 0 1.5px #000; }
+  .chip.vkp, .counters .sq.vkp { background: var(--vkp); }
+  .badge.vks { background: var(--vks); color: #12385e; }
+  .badge.vkl { background: var(--vkl); color: #fff; box-shadow: inset 0 0 0 1.5px #000; }
+  .badge.rts { background: var(--rts); color: #6b5a14; }
+  .badge.rtl { background: var(--rtl); color: #3d2f00; box-shadow: inset 0 0 0 1.5px #000; }
+  .badge.vkp { background: var(--vkp); color: #3e4a5a; }
   .chip.sched { opacity: .45; }
   .thumb.yt { cursor: pointer; }
   .thumb.yt .dur {
@@ -334,6 +349,8 @@
     .thumb.yt { align-self: stretch; flex-basis: auto; }
     .channel-toggle { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 8px; }
     .channel-toggle button { padding: 8px 6px; font-size: 11.5px; }
+    .platform-tabs { gap: 6px; }
+    .platform-tabs button { white-space: nowrap; padding-left: 12px; padding-right: 12px; font-size: 12px; }
   }
 </style>
 </head>
@@ -343,7 +360,7 @@
 <div id="lock">
   <div class="lock-card">
     <h1>Календарь публикаций</h1>
-    <p>Контент-план Instagram и YouTube. Введите пароль.</p>
+    <p>Контент-план Instagram, YouTube, ВК и Rutube. Введите пароль.</p>
     <input id="pwd" type="password" inputmode="numeric" autocomplete="off" placeholder="••••">
     <button id="unlock-btn">Войти</button>
     <div id="lock-err"></div>
@@ -362,6 +379,7 @@
     <div class="platform-tabs" id="platform-tabs">
       <button data-platform="instagram" class="active">INSTAGRAM</button>
       <button data-platform="youtube">YOUTUBE</button>
+      <button data-platform="vkrt">ВК / RUTUBE</button>
     </div>
 
     <div class="channel-toggle" id="channel-toggle"></div>
@@ -400,7 +418,8 @@ const MONTHS = ["Январь","Февраль","Март","Апрель","Ма�
 const DOWS = ["Пн","Вт","Ср","Чт","Пт","Сб","Вс"];
 
 let DATA = null;
-let YT = null;                    // data_youtube.json
+let YT = null;
+let VKRT = null;                  // data_vkrt.json (ВК через PostMyPost + Rutube)                    // data_youtube.json
 /* Триал-рилсы с автопереходом в ленту (по заметкам из чата): brand|час триала -> дата выхода в ленту */
 let FEED_MAP = {};
 let platform = "instagram";       // instagram | youtube
@@ -440,6 +459,7 @@ async function boot() {
   const res = await fetch("data.json?ts=" + Date.now());
   DATA = await res.json();
   try { YT = await (await fetch("data_youtube.json?ts=" + Date.now())).json(); } catch (e) { YT = null; }
+  try { VKRT = await (await fetch("data_vkrt.json?ts=" + Date.now())).json(); } catch (e) { VKRT = null; }
   FEED_MAP = {};
   (DATA.trialNotes || []).forEach(n => {
     FEED_MAP[n.brand + "|" + (n.trialAt || "").slice(0, 13)] = n.feedAt;
@@ -464,7 +484,8 @@ const YT_CHANNELS = [
 function buildChannelToggle() {
   const el = document.getElementById("channel-toggle");
   el.innerHTML = "";
-  const list = platform === "instagram" ? DATA.brands : YT_CHANNELS;
+  const list = platform === "instagram" ? DATA.brands : platform === "youtube" ? YT_CHANNELS
+    : ((VKRT && VKRT.brands) || [{ id: "peshkov", name: "PESHKOV SHOES" }, { id: "shopomania", name: "SHOPOMANIIA" }]);
   const isIg = platform === "instagram";
   list.forEach(b => {
     const wrap = document.createElement("div");
@@ -479,7 +500,7 @@ function buildChannelToggle() {
       render();
     };
     wrap.appendChild(btn);
-    const f = isIg ? followersFor(b.id) : ytFollowersFor(b.id);
+    const f = isIg ? followersFor(b.id) : platform === "youtube" ? ytFollowersFor(b.id) : null;
     if (isIg && !f && selectedDay) {
       const nd = document.createElement("div");
       nd.className = "fol nodata"; nd.textContent = "нет данных";
@@ -525,7 +546,11 @@ function followersFor(id) {
 
 /* ---------- YouTube ---------- */
 const YT_THEME = { "yt-man": "peshkov", "yt-classic": "peshkov", "yt-shop": "shopomaniia" };
-function brandTheme() { return platform === "instagram" ? channel : (YT_THEME[channel] || "peshkov"); }
+function brandTheme() {
+  if (platform === "instagram") return channel;
+  if (platform === "vkrt") return channel === "shopomania" ? "shopomaniia" : "peshkov";
+  return YT_THEME[channel] || "peshkov";
+}
 function ytChan(id) { return YT && YT.channels && YT.channels[id]; }
 /* Подписчики YouTube на выбранный день: текущее число минус нетто-прирост следующих дней (Analytics)
    (для выбранного дня, иначе за последний день с данными). У CLASSIC Analytics нет —
@@ -556,6 +581,14 @@ const isYtSched = v => v.status === "scheduled";
 /* ---------- Календарь ---------- */
 function postsByDay() {
   const map = {};
+  if (platform === "vkrt") {
+    (VKRT ? VKRT.items : []).filter(v => v.brand === channel).forEach(v => {
+      const k = v.date.slice(0, 10);
+      (map[k] = map[k] || []).push(v);
+    });
+    Object.values(map).forEach(list => list.sort((a, b) => a.date.localeCompare(b.date)));
+    return map;
+  }
   if (platform !== "instagram") {
     (YT ? YT.videos : []).filter(v => v.channel === channel).forEach(v => {
       const k = v.date.slice(0, 10);
@@ -574,8 +607,7 @@ function postsByDay() {
 
 /* ---------- Вкладки INSTAGRAM / YOUTUBE ---------- */
 function updatePlatformUI() {
-  const yt = platform === "youtube";
-  document.querySelector(".botw").style.display = yt ? "none" : "";
+  document.querySelector(".botw").style.display = platform === "instagram" ? "" : "none";
   document.querySelectorAll("#platform-tabs button").forEach(b =>
     b.classList.toggle("active", b.dataset.platform === platform));
 }
@@ -583,7 +615,7 @@ document.querySelectorAll("#platform-tabs button").forEach(b => {
   b.addEventListener("click", () => {
     if (platform === b.dataset.platform) return;
     platform = b.dataset.platform;
-    channel = platform === "instagram" ? "peshkov" : "yt-man";
+    channel = platform === "youtube" ? "yt-man" : "peshkov";
     document.body.dataset.brand = brandTheme();
     selectedDay = null;
     updatePlatformUI();
@@ -628,7 +660,8 @@ function render() {
       chips.className = "chips";
       posts.slice(0, 6).forEach(p => {
         const c = document.createElement("div");
-        c.className = "chip " + (platform === "youtube"
+        c.className = "chip " + (platform === "vkrt" ? vkrtCls(p)
+          : platform === "youtube"
           ? (p.short ? "yshort" : "ylong") + (isYtSched(p) ? " sched" : "")
           : (p.manual || isImgPost(p)) ? "post" : p.trial ? "trial" : "reel");
         c.title = p.title;
@@ -654,6 +687,17 @@ function render() {
 function renderCounters() {
   const el = document.getElementById("counters");
   const ym = `${viewYear}-${pad(viewMonth + 1)}`;
+  if (platform === "vkrt") {
+    const n = { vks: 0, vkl: 0, rts: 0, rtl: 0, vkp: 0 };
+    (VKRT ? VKRT.items : []).forEach(v => {
+      if (v.brand === channel && v.date.slice(0, 7) === ym) n[vkrtCls(v)]++;
+    });
+    const cell = (k, label) => `<span class="cnt"><i class="sq ${k}"></i><b>${n[k]}</b><span class="lbl">${label}</span></span>`;
+    el.innerHTML = cell("vks", "ВК шортс") + cell("vkl", "ВК выпуск") +
+      (channel === "peshkov" ? cell("rts", "Rutube шортс") + cell("rtl", "Rutube выпуск") : "") +
+      (n.vkp ? cell("vkp", "ВК пост") : "");
+    return;
+  }
   if (platform !== "instagram") {
     let sh = 0, lg = 0;
     (YT ? YT.videos : []).forEach(v => {
@@ -763,6 +807,7 @@ function renderYtMonthSummary(el) {
 function renderMonthSummary() {
   const el = document.getElementById("month-sum");
   if (platform === "youtube") { renderYtMonthSummary(el); return; }
+  if (platform === "vkrt") { el.innerHTML = ""; return; }
   const daily = platform === "instagram" && DATA.daily && DATA.daily[channel];
   if (!daily) { el.innerHTML = ""; return; }
   const cur = monthAgg(daily, viewYear, viewMonth, 31);
@@ -809,6 +854,7 @@ function renderDay() {
   const dateLabel = dateObj.toLocaleDateString("ru-RU", { weekday: "long", day: "numeric", month: "long" });
 
   if (platform === "youtube") { renderYtDay(panel, posts, dateLabel); return; }
+  if (platform === "vkrt") { renderVkrtDay(panel, posts, dateLabel); return; }
 
   let html = `<h3>${dateLabel}</h3>`;
   if (!posts.length) {
@@ -865,6 +911,54 @@ function fmtDur(s) {
   const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), sec = s % 60;
   return (h ? h + ":" + pad(m) : m) + ":" + pad(sec);
 }
+/* ---------- ВК / RUTUBE ---------- */
+function vkrtCls(v) {
+  if (v.platform === "rutube") return v.kind === "short" ? "rts" : "rtl";
+  return v.kind === "short" ? "vks" : v.kind === "long" ? "vkl" : "vkp";
+}
+const VKRT_LABEL = { vks: "ВК · Шортс", vkl: "ВК · Выпуск", rts: "Rutube · Шортс", rtl: "Rutube · Выпуск", vkp: "ВК · Пост" };
+function renderVkrtDay(panel, items, dateLabel) {
+  let html = `<h3>${dateLabel}</h3>`;
+  if (!items.length) {
+    panel.innerHTML = html + `<div class="empty-day">${VKRT ? "Нет публикаций" : "Данные ВК / Rutube ещё не подключены"}</div>` + dayNavHtml();
+    DAY_POSTS = []; return;
+  }
+  items.forEach((v, idx) => {
+    const cls = vkrtCls(v);
+    const st = v.status === "scheduled" ? `<span class="badge sched">Запланировано</span>`
+      : v.status === "published" ? `<span class="badge pub">Опубликовано</span>`
+      : `<span class="badge priv">${v.status === "error" ? "Ошибка публикации" : esc(v.status)}</span>`;
+    const media = v.thumb
+      ? `<div class="thumb${v.kind === "long" ? " wide" : ""}"><img src="${esc(v.thumb)}" alt="" loading="lazy">${v.duration ? `<span class="dur" style="position:absolute;right:6px;bottom:6px;background:rgba(0,0,0,.75);color:#fff;font-size:11px;font-weight:700;padding:2px 6px;border-radius:6px">${fmtDur(v.duration)}</span>` : ""}</div>`
+      : mediaHtml(v.media);
+    const body = bodyText(v);
+    const open = v.url ? `<a class="ig-btn" href="${esc(v.url)}" target="_blank" rel="noopener">${v.platform === "vk" ? "Открыть во ВКонтакте" : "Открыть на Rutube"}</a>
+            <button class="copy-btn" onclick="copyLink(${idx}, this)">Скопировать ссылку на публикацию</button>` : "";
+    html += `
+      <div class="post-card">
+        ${media}
+        <div class="post-body">
+          <div class="post-top">
+            <span class="time">${v.date.slice(11, 16)}</span>
+            <span class="badge ${cls}">${VKRT_LABEL[cls]}</span>
+            ${st}
+          </div>
+          <div class="post-title">${esc(v.title || "")}</div>
+          ${statsHtml(v.stats)}
+          ${body ? `<div class="post-text clamped" id="txt-${idx}">${esc(body)}</div>
+          <button class="toggle-text" onclick="toggleText(${idx}, this)">Показать текст полностью</button>` : ""}
+          <div class="post-actions">
+            ${open}
+            <button class="copy-btn" onclick="copyText(${idx}, this)">Скопировать текст поста</button>
+          </div>
+        </div>
+      </div>`;
+  });
+  panel.innerHTML = html + dayNavHtml();
+  DAY_POSTS = items;
+  initVideos();
+}
+
 function renderYtDay(panel, vids, dateLabel) {
   let html = `<h3>${dateLabel}</h3>`;
   if (!vids.length) {

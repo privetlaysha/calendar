@@ -30,6 +30,10 @@
     --rts: #f3e6b0;   /* Rutube шортс — блёклый жёлтый */
     --rtl: #f2bf2a;   /* Rutube выпуск — жёлтый + окантовка */
     --vkp: #d5dbe3;   /* ВК пост с картинкой */
+    --drop: #cfeadb;      /* ДРОПЫ — пастельная мята */
+    --drop-deep: #5fae8a;
+    --drop-ink: #22604a;
+    --drop-our: #f6d36b;  /* наш бренд — золотая отметка */
   }
   body[data-brand="shopomaniia"] {
     --brand: #edaecd;
@@ -291,6 +295,23 @@
   body.dark .badge.br-pesh { background: #1e3a58; color: #a9d2fa; }
   body.dark .badge.br-shop { background: #4e2238; color: #f6b8d4; }
   .chip.sched { opacity: .45; }
+  /* ДРОПЫ */
+  .platform-tabs button[data-platform="drops"] { background: var(--drop); border-color: var(--drop); color: var(--drop-ink); }
+  .platform-tabs button[data-platform="drops"].active { background: var(--drop-deep); border-color: var(--drop-deep); color: #fff; }
+  body.dark .platform-tabs button[data-platform="drops"] { background: #243d33; border-color: #243d33; color: #a9dcc3; }
+  body.dark .platform-tabs button[data-platform="drops"].active { background: var(--drop-deep); border-color: var(--drop-deep); color: #fff; }
+  .chip.drop, .counters .sq.drop { background: var(--drop); }
+  .chip.drop.our, .counters .sq.drop.our { background: var(--drop); box-shadow: inset 0 0 0 2px var(--drop-our); }
+  .badge.drop { background: var(--drop); color: var(--drop-ink); }
+  .badge.our { background: var(--drop-our); color: #5a4300; }
+  .badge.cat { background: #eef1f6; color: #55677f; }
+  body.dark .badge.cat { background: #26303d; color: #aab8c9; }
+  .drop-price { font-weight: 800; font-size: 15px; margin: 4px 0 2px; }
+  .drop-brand { font-size: 12px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--drop-ink); margin-bottom: 2px; }
+  body.dark .drop-brand { color: #a9dcc3; }
+  .drop-src { font-size: 12px; color: #7b8a9c; margin-top: 6px; }
+  .drop-src a { color: inherit; }
+  .ig-btn.buy { background: var(--drop-deep); border-color: var(--drop-deep); color: #fff; }
   .thumb.yt { cursor: pointer; }
   .thumb.yt .dur {
     position: absolute; right: 6px; bottom: 6px; background: rgba(0,0,0,.75); color: #fff;
@@ -381,6 +402,7 @@
     </header>
 
     <div class="platform-tabs" id="platform-tabs">
+      <button data-platform="drops">ДРОПЫ</button>
       <button data-platform="instagram" class="active">INSTAGRAM</button>
       <button data-platform="youtube">YOUTUBE</button>
       <button data-platform="vkrt">ВК / RUTUBE</button>
@@ -423,7 +445,8 @@ const DOWS = ["Пн","Вт","Ср","Чт","Пт","Сб","Вс"];
 
 let DATA = null;
 let YT = null;
-let VKRT = null;                  // data_vkrt.json (ВК через PostMyPost + Rutube)                    // data_youtube.json
+let VKRT = null;                  // data_vkrt.json (ВК через PostMyPost + Rutube)
+let DROPS = null;                 // data_drops.json (дропы брендов: релизы, коллабы, рестоки)
 /* Триал-рилсы с автопереходом в ленту (по заметкам из чата): brand|час триала -> дата выхода в ленту */
 let FEED_MAP = {};
 let platform = "instagram";       // instagram | youtube
@@ -464,6 +487,7 @@ async function boot() {
   DATA = await res.json();
   try { YT = await (await fetch("data_youtube.json?ts=" + Date.now())).json(); } catch (e) { YT = null; }
   try { VKRT = await (await fetch("data_vkrt.json?ts=" + Date.now())).json(); } catch (e) { VKRT = null; }
+  try { DROPS = await (await fetch("data_drops.json?ts=" + Date.now())).json(); } catch (e) { DROPS = null; }
   FEED_MAP = {};
   (DATA.trialNotes || []).forEach(n => {
     FEED_MAP[n.brand + "|" + (n.trialAt || "").slice(0, 13)] = n.feedAt;
@@ -479,6 +503,14 @@ async function boot() {
 }
 
 /* ---------- Переключатель каналов (под вкладками платформ) ---------- */
+const DROP_FILTERS = [
+  { id: "all", name: "ВСЕ ДРОПЫ" },
+  { id: "our", name: "НАШИ БРЕНДЫ" },
+  { id: "shoes", name: "ОБУВЬ" },
+  { id: "clothes", name: "ОДЕЖДА" },
+  { id: "beauty", name: "БЬЮТИ" },
+  { id: "mass", name: "МАСС-МАРКЕТ" },
+];
 const YT_CHANNELS = [
   { id: "yt-man", name: "PESHKOV SHOES MAN" },
   { id: "yt-classic", name: "PESHKOV SHOES CLASSIC" },
@@ -489,6 +521,7 @@ function buildChannelToggle() {
   const el = document.getElementById("channel-toggle");
   el.innerHTML = "";
   const list = platform === "instagram" ? DATA.brands : platform === "youtube" ? YT_CHANNELS
+    : platform === "drops" ? DROP_FILTERS
     : ((VKRT && VKRT.brands) || [{ id: "peshkov", name: "PESHKOV SHOES" }, { id: "shopomania", name: "SHOPOMANIIA" }]);
   const isIg = platform === "instagram";
   list.forEach(b => {
@@ -552,6 +585,7 @@ function followersFor(id) {
 const YT_THEME = { "yt-man": "peshkov", "yt-classic": "peshkov", "yt-shop": "shopomaniia" };
 function brandTheme() {
   if (platform === "instagram") return channel;
+  if (platform === "drops") return "peshkov";
   if (platform === "vkrt") return channel === "shopomania" ? "shopomaniia" : "peshkov";
   return YT_THEME[channel] || "peshkov";
 }
@@ -585,6 +619,11 @@ const isYtSched = v => v.status === "scheduled";
 /* ---------- Календарь ---------- */
 function postsByDay() {
   const map = {};
+  if (platform === "drops") {
+    dropItems().forEach(v => { (map[v.date] = map[v.date] || []).push(v); });
+    Object.values(map).forEach(list => list.sort((a, b) => (b.our ? 1 : 0) - (a.our ? 1 : 0) || a.title.localeCompare(b.title, "ru")));
+    return map;
+  }
   if (platform === "vkrt") {
     (VKRT ? VKRT.items : []).filter(v => v.brand === channel).forEach(v => {
       const k = v.date.slice(0, 10);
@@ -619,7 +658,7 @@ document.querySelectorAll("#platform-tabs button").forEach(b => {
   b.addEventListener("click", () => {
     if (platform === b.dataset.platform) return;
     platform = b.dataset.platform;
-    channel = platform === "youtube" ? "yt-man" : "peshkov";
+    channel = platform === "youtube" ? "yt-man" : platform === "drops" ? "all" : "peshkov";
     document.body.dataset.brand = brandTheme();
     selectedDay = null;
     updatePlatformUI();
@@ -664,7 +703,8 @@ function render() {
       chips.className = "chips";
       posts.slice(0, 6).forEach(p => {
         const c = document.createElement("div");
-        c.className = "chip " + (platform === "vkrt" ? vkrtCls(p)
+        c.className = "chip " + (platform === "drops" ? "drop" + (p.our ? " our" : "")
+          : platform === "vkrt" ? vkrtCls(p)
           : platform === "youtube"
           ? (p.short ? "yshort" : "ylong") + (isYtSched(p) ? " sched" : "")
           : (p.manual || isImgPost(p)) ? "post" : p.trial ? "trial" : "reel");
@@ -691,6 +731,14 @@ function render() {
 function renderCounters() {
   const el = document.getElementById("counters");
   const ym = `${viewYear}-${pad(viewMonth + 1)}`;
+  if (platform === "drops") {
+    let all = 0, our = 0;
+    dropItems().forEach(v => { if (v.date.slice(0, 7) === ym) { all++; if (v.our) our++; } });
+    el.innerHTML = `
+    <span class="cnt"><i class="sq drop"></i><b>${all}</b><span class="lbl">Дропов</span></span>
+    <span class="cnt"><i class="sq drop our"></i><b>${our}</b><span class="lbl">Наши бренды</span></span>`;
+    return;
+  }
   if (platform === "vkrt") {
     const n = { vks: 0, vkl: 0, rts: 0, rtl: 0, vkp: 0 };
     (VKRT ? VKRT.items : []).forEach(v => {
@@ -811,7 +859,7 @@ function renderYtMonthSummary(el) {
 function renderMonthSummary() {
   const el = document.getElementById("month-sum");
   if (platform === "youtube") { renderYtMonthSummary(el); return; }
-  if (platform === "vkrt") { el.innerHTML = ""; return; }
+  if (platform === "vkrt" || platform === "drops") { el.innerHTML = ""; return; }
   const daily = platform === "instagram" && DATA.daily && DATA.daily[channel];
   if (!daily) { el.innerHTML = ""; return; }
   const cur = monthAgg(daily, viewYear, viewMonth, 31);
@@ -859,6 +907,7 @@ function renderDay() {
 
   if (platform === "youtube") { renderYtDay(panel, posts, dateLabel); return; }
   if (platform === "vkrt") { renderVkrtDay(panel, posts, dateLabel); return; }
+  if (platform === "drops") { renderDropsDay(panel, posts, dateLabel); return; }
 
   let html = `<h3>${dateLabel}</h3>`;
   if (!posts.length) {
@@ -915,6 +964,53 @@ function fmtDur(s) {
   const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), sec = s % 60;
   return (h ? h + ":" + pad(m) : m) + ":" + pad(sec);
 }
+/* ---------- ДРОПЫ ---------- */
+function dropItems() {
+  const items = DROPS ? DROPS.items : [];
+  if (channel === "all") return items;
+  if (channel === "our") return items.filter(v => v.our);
+  return items.filter(v => v.cat === channel);
+}
+function renderDropsDay(panel, items, dateLabel) {
+  let html = `<h3>${dateLabel}</h3>`;
+  if (!items.length) {
+    panel.innerHTML = html + `<div class="empty-day">${DROPS ? "Дропов на этот день нет" : "Данные по дропам ещё не собраны"}</div>` + dayNavHtml();
+    DAY_POSTS = []; return;
+  }
+  const cats = (DROPS && DROPS.categories) || {};
+  items.forEach((v, idx) => {
+    const media = v.image ? `<div class="thumb wide"><img src="${esc(v.image)}" alt="" loading="lazy"></div>` : "";
+    const when = v.date === todayStr ? `<span class="badge pub">Вышло сегодня</span>`
+      : v.date > todayStr ? `<span class="badge sched">${v.dateApprox ? esc(v.dateApprox) : "Скоро"}</span>`
+      : `<span class="badge priv">${v.dateApprox ? esc(v.dateApprox) : "Уже в продаже"}</span>`;
+    const buy = v.buy ? `<a class="ig-btn buy" href="${esc(v.buy)}" target="_blank" rel="noopener">Где купить</a>` : "";
+    const src = v.src && v.src !== v.buy ? `<div class="drop-src">Источник: <a href="${esc(v.src)}" target="_blank" rel="noopener">${esc(v.src.replace(/^https?:\/\/(www\.)?/, "").split("/")[0])}</a></div>` : "";
+    html += `
+      <div class="post-card">
+        ${media}
+        <div class="post-body">
+          <div class="post-top">
+            ${v.our ? `<span class="badge our">★ Наш бренд</span>` : ""}
+            <span class="badge drop">Дроп</span>
+            <span class="badge cat">${esc(cats[v.cat] || v.cat || "")}</span>
+            ${when}
+          </div>
+          <div class="drop-brand">${esc(v.brand || "")}</div>
+          <div class="post-title">${esc(v.title)}</div>
+          ${v.price ? `<div class="drop-price">${esc(v.price)}</div>` : ""}
+          ${v.text ? `<div class="post-text" id="txt-${idx}">${esc(v.text)}</div>` : ""}
+          <div class="post-actions">
+            ${buy}
+            <button class="copy-btn" onclick="copyText(${idx}, this)">Скопировать текст</button>
+          </div>
+          ${src}
+        </div>
+      </div>`;
+  });
+  panel.innerHTML = html + dayNavHtml();
+  DAY_POSTS = items;
+}
+
 /* ---------- ВК / RUTUBE ---------- */
 function vkrtCls(v) {
   if (v.platform === "rutube") return v.kind === "short" ? "rts" : "rtl";

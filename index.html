@@ -486,6 +486,7 @@ async function boot() {
   const res = await fetch("data.json?ts=" + Date.now());
   DATA = await res.json();
   try { YT = await (await fetch("data_youtube.json?ts=" + Date.now())).json(); } catch (e) { YT = null; }
+  try { mergeYtMc(await (await fetch("data_yt_mc.json?ts=" + Date.now())).json()); } catch (e) {}
   try { VKRT = await (await fetch("data_vkrt.json?ts=" + Date.now())).json(); } catch (e) { VKRT = null; }
   try { DROPS = await (await fetch("data_drops.json?ts=" + Date.now())).json(); } catch (e) { DROPS = null; }
   FEED_MAP = {};
@@ -615,6 +616,19 @@ function ytFollowersFor(id) {
   return { count: c.subs, delta: null, date: todayStr };
 }
 const isYtSched = v => v.status === "scheduled";
+/* Запланированные в Metricool YouTube-ролики: в YouTube API их не видно, пока Metricool не выложит */
+function mergeYtMc(mc) {
+  if (!mc || !Array.isArray(mc.items)) return;
+  if (!YT) YT = { channels: {}, videos: [] };
+  const have = new Set((YT.videos || []).map(v => v.id));
+  mc.items.forEach(m => {
+    if (m.ytId && have.has(m.ytId)) return;           // уже вышел — есть из YouTube API
+    if (m.status === "public" && !m.ytId) return;
+    YT.videos.push({ channel: m.channel, id: "mc-" + m.mcId, title: m.title, text: m.text, date: m.date,
+      status: m.status === "public" ? "public" : m.status === "error" ? "error" : "scheduled",
+      short: m.short, thumb: "", url: m.url || "", video: m.video || "", mc: true });
+  });
+}
 
 /* ---------- Календарь ---------- */
 function postsByDay() {
@@ -1068,18 +1082,19 @@ function renderYtDay(panel, vids, dateLabel) {
   }
   vids.forEach((v, idx) => {
     const badge = v.short ? `<span class="badge yshort">Shorts</span>` : `<span class="badge ylong">Видео</span>`;
-    const st = isYtSched(v) ? `<span class="badge sched">Запланировано</span>`
+    const st = v.status === "error" ? `<span class="badge priv">Ошибка публикации</span>`
+      : isYtSched(v) ? `<span class="badge sched">Запланировано${v.mc ? " в Metricool" : ""}</span>`
       : v.status === "unlisted" ? `<span class="badge priv">Доступ по ссылке</span>`
       : v.status === "private" ? `<span class="badge priv">Приватное</span>`
       : `<span class="badge pub">Опубликовано</span>`;
     const body = bodyText(v);
     html += `
       <div class="post-card">
-        <div class="thumb yt${v.short ? "" : " wide"}" id="yth-${idx}" onclick="playYt(${idx})">
+        ${v.mc ? mediaHtml(v.video) : `<div class="thumb yt${v.short ? "" : " wide"}" id="yth-${idx}" onclick="playYt(${idx})">
           <img src="${esc(v.thumb)}" alt="" loading="lazy">
           <div class="play-overlay"><div class="pbtn"><svg viewBox="0 0 24 24" width="22" height="22"><path d="M8 5v14l11-7z" fill="#24344a"/></svg></div></div>
           ${v.duration ? `<span class="dur">${fmtDur(v.duration)}</span>` : ""}
-        </div>
+        </div>`}
         <div class="post-body">
           <div class="post-top">
             <span class="time">${v.date.slice(11, 16)}</span>
@@ -1091,8 +1106,8 @@ function renderYtDay(panel, vids, dateLabel) {
           ${body ? `<div class="post-text clamped" id="txt-${idx}">${esc(body)}</div>
           <button class="toggle-text" onclick="toggleText(${idx}, this)">Показать текст полностью</button>` : ""}
           <div class="post-actions">
-            <a class="ig-btn" href="${esc(v.url)}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.6 7.2a2.5 2.5 0 0 0-1.8-1.8C18.2 5 12 5 12 5s-6.2 0-7.8.4A2.5 2.5 0 0 0 2.4 7.2 26 26 0 0 0 2 12a26 26 0 0 0 .4 4.8 2.5 2.5 0 0 0 1.8 1.8c1.6.4 7.8.4 7.8.4s6.2 0 7.8-.4a2.5 2.5 0 0 0 1.8-1.8A26 26 0 0 0 22 12a26 26 0 0 0-.4-4.8zM10 15V9l5.2 3L10 15z"/></svg>Открыть на YouTube</a>
-            <button class="copy-btn" onclick="copyLink(${idx}, this)">Скопировать ссылку на публикацию</button>
+            ${v.url ? `<a class="ig-btn" href="${esc(v.url)}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.6 7.2a2.5 2.5 0 0 0-1.8-1.8C18.2 5 12 5 12 5s-6.2 0-7.8.4A2.5 2.5 0 0 0 2.4 7.2 26 26 0 0 0 2 12a26 26 0 0 0 .4 4.8 2.5 2.5 0 0 0 1.8 1.8c1.6.4 7.8.4 7.8.4s6.2 0 7.8-.4a2.5 2.5 0 0 0 1.8-1.8A26 26 0 0 0 22 12a26 26 0 0 0-.4-4.8zM10 15V9l5.2 3L10 15z"/></svg>Открыть на YouTube</a>
+            <button class="copy-btn" onclick="copyLink(${idx}, this)">Скопировать ссылку на публикацию</button>` : ""}
             <button class="copy-btn" onclick="copyYtText(${idx}, this)">Скопировать текст поста</button>
           </div>
         </div>
@@ -1100,6 +1115,7 @@ function renderYtDay(panel, vids, dateLabel) {
   });
   panel.innerHTML = html + dayNavHtml();
   DAY_POSTS = vids;
+  if (vids.some(v => v.mc)) initVideos();
 }
 /* Клик по превью — встроенный плеер YouTube прямо в карточке */
 window.playYt = idx => {

@@ -993,10 +993,13 @@ function renderDropsDay(panel, items, dateLabel) {
   }
   const cats = (DROPS && DROPS.categories) || {};
   items.forEach((v, idx) => {
-    const media = v.image ? `<div class="thumb wide"><img src="${esc(v.image)}" alt="" loading="lazy"></div>` : "";
-    const when = v.date === todayStr ? `<span class="badge pub">Вышло сегодня</span>`
-      : v.date > todayStr ? `<span class="badge sched">${v.dateApprox ? esc(v.dateApprox) : "Скоро"}</span>`
-      : `<span class="badge priv">${v.dateApprox ? esc(v.dateApprox) : "Уже в продаже"}</span>`;
+    const img = (window.DROP_IMG && window.DROP_IMG[v.id]) || v.image || "";
+    const media = img ? `<div class="thumb wide"><img src="${esc(img)}" alt="" loading="lazy"></div>` : "";
+    const approx = v.dateApprox ? (typeof v.dateApprox === "string" ? v.dateApprox : "дата уточняется") : "";
+    const when = approx ? `<span class="badge sched">${esc(approx)}</span>`
+      : v.date === todayStr ? `<span class="badge pub">Вышло сегодня</span>`
+      : v.date > todayStr ? `<span class="badge sched">Скоро</span>`
+      : `<span class="badge priv">Уже в продаже</span>`;
     const buy = v.buy ? `<a class="ig-btn buy" href="${esc(v.buy)}" target="_blank" rel="noopener">Где купить</a>` : "";
     const src = v.src && v.src !== v.buy ? `<div class="drop-src">Источник: <a href="${esc(v.src)}" target="_blank" rel="noopener">${esc(v.src.replace(/^https?:\/\/(www\.)?/, "").split("/")[0])}</a></div>` : "";
     html += `

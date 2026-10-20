@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T11:14:38",
+ "updatedAt": "2026-10-20T05:38:38",
  "timezone": "Europe/Moscow",
  "since": "2026-09-01",
  "brands": [
@@ -26,7 +26,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-02/49/47/494746b3da688d4c1bea28773c8b39bf.jpg",
    "duration": 3153,
    "stats": {
-    "views": 15
+    "views": 16
    }
   },
   {
@@ -74,7 +74,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-04/c3/bf/c3bf7c8872f5ff1cde81fbe5078600e2.jpg",
    "duration": 413,
    "stats": {
-    "views": 29
+    "views": 38
    }
   },
   {
@@ -138,7 +138,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-09/81/31/81314d490b226138b6cd4b3bed266405.jpg",
    "duration": 2569,
    "stats": {
-    "views": 17
+    "views": 18
    }
   },
   {
@@ -598,7 +598,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-17/38/ab/38ab45f0946b1283921aaf9e605bd0bb.jpg",
    "duration": 594,
    "stats": {
-    "views": 15
+    "views": 17
    }
   },
   {
@@ -1006,7 +1006,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-26/be/40/be40dca0e117222c1f6583c949b41238.jpg",
    "duration": 3828,
    "stats": {
-    "views": 7
+    "views": 8
    }
   },
   {
@@ -2770,7 +2770,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-02/3b/64/3b64818f8cc1cd36af471f821f063508.jpg",
    "duration": 33,
    "stats": {
-    "views": 105
+    "views": 106
    }
   },
   {
@@ -3346,7 +3346,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-09/84/87/8487dc8d702fc2d614fd434635bf17fa.jpg",
    "duration": 54,
    "stats": {
-    "views": 7
+    "views": 16
    }
   },
   {
@@ -3418,7 +3418,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-02/12/dd/12ddc30af9735bbee06710f0f4e66adb.jpg",
    "duration": 16,
    "stats": {
-    "views": 1
+    "views": 2
    }
   },
   {
@@ -3566,7 +3566,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-02/c5/9a/c59a14aa922f3d26eefead72149b35a0.jpg",
    "duration": 20,
    "stats": {
-    "views": 0
+    "views": 73
    }
   },
   {
@@ -3582,7 +3582,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-02/b8/bc/b8bcb82efba14f6621d165c0a5c95315.jpg",
    "duration": 39,
    "stats": {
-    "views": 3
+    "views": 5
    }
   },
   {
@@ -3622,7 +3622,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-06/20/90/2090905dce272c3c07a3c9a48d071856.jpg",
    "duration": 15,
    "stats": {
-    "views": 0
+    "views": 48
    }
   },
   {
@@ -3638,7 +3638,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-06/b5/aa/b5aab2e554ebb246a777438eeb767b3f.jpg",
    "duration": 34,
    "stats": {
-    "views": 3
+    "views": 5
    }
   },
   {
@@ -4090,7 +4090,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-12/54/70/5470c510b2eb9936eae3597ee3b1bafd.jpg",
    "duration": 41,
    "stats": {
-    "views": 2
+    "views": 6
    }
   },
   {
@@ -4318,7 +4318,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-13/57/bc/57bc4165fe6bfed02ea7325db8697594.jpg",
    "duration": 65,
    "stats": {
-    "views": 1
+    "views": 80
    }
   },
   {
@@ -4346,7 +4346,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-13/dc/71/dc7129083a93a990998d92920157c354.jpg",
    "duration": 1698,
    "stats": {
-    "views": 5
+    "views": 6
    }
   },
   {
@@ -4438,7 +4438,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-06/a5/4a/a54a107cc5fbab7f45b555902cc34b01.jpg",
    "duration": 24,
    "stats": {
-    "views": 2
+    "views": 5
    }
   },
   {
@@ -4600,6 +4600,22 @@
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
    "url": "",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/c56/176/53063212.mov"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "published",
+   "date": "2026-10-15T16:46:23",
+   "id": "c038fda3df26783bd25e3c091646f4b4",
+   "title": "4 ПРИЗНАКА паленых кроссовок! #мужскаяобувь #обувь #кроссовки",
+   "text": "Всем привет! С вами Peshkov.shoes - ведущий байер-сервис оригинальной брендовой обуви из США и Европы.\n\nВ этом видео разберем 4 признака, по которым можно отличить поддельные кроссовки от оригинала. Вы узнаете, на какие детали стоит посмотреть в первую очередь, почему современные подделки так сложно распознать по фото на маркетплейсе или в объявлении и как быстро проверить пару.\n\n✔️Подписывайтесь на канал и узнайте, где купить оригинальные и комфортные кроссовки!\n\n#кроссовки #обувь #кроссы #мужскойстиль #спортивнаяобувь #мужскаяобувь #peshkovshoes \n\n🔹 Наш телеграм: https://t.me/+MeYg_DfAYKBhYmU6\n🖤 Наш телеграм с брендами сегмента люкс из США и Европы: https://t.me/shopomaniia_lux\n👉 Аутлет-каталог: https://t.me/shopomaniia_outlet\n\n\nДзен - https://dzen.ru/peshkovsh\nРутуб - https://rutube.ru/channel/62248193/\nВК - https://vk.com/peshkovshoes\nЮтуб - https://www.youtube.com/channel/UC4uiPRVoiWxtR65K_aYUgSg",
+   "url": "https://rutube.ru/video/c038fda3df26783bd25e3c091646f4b4/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-15/7a/f0/7af086d2a88e142a9a2e07f95f68b79f.jpg",
+   "duration": 62,
+   "stats": {
+    "views": 112
+   }
   },
   {
    "brand": "peshkov",
@@ -4795,6 +4811,22 @@
   },
   {
    "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "published",
+   "date": "2026-10-17T14:30:11",
+   "id": "a1b6b35a97ff72b722a6a06b6411fa52",
+   "title": "Ради ЭТИХ кроссовок Nike шли на преступления! #nike #обувь #кроссовки",
+   "text": "Всем привет! С вами Peshkov.shoes - ведущий байер-сервис оригинальной брендовой обуви из США и Европы.\n\nВ этом видео разберем историю Air Jordan 5 и то, почему в начале 90-х эти кроссовки стали не просто модной обувью, а настоящей мечтой, ради которой люди шли на преступления. Вы узнаете, чем эта модель так отличалась от всего, что продавалось тогда в магазинах, как вокруг нее разгорелся громкий скандал и почему Nike обвиняли в том, что ажиотаж вокруг кроссовок вышел из-под контроля.\n\n✔️Подписывайтесь на канал и узнайте, где купить оригинальные и комфортные кроссовки!\n\n#кроссовки #nike #обувь #кроссы #мужскойстиль #спортивнаяобувь #мужскаяобувь #peshkovshoes\n\n🔹 Наш телеграм: https://t.me/+MeYg_DfAYKBhYmU6\n🖤 Наш телеграм с брендами сегмента люкс из США и Европы: https://t.me/shopomaniia_lux\n👉 Аутлет-каталог: https://t.me/shopomaniia_outlet\n\n\nДзен - https://dzen.ru/peshkovsh\nРутуб - https://rutube.ru/channel/62248193/\nВК - https://vk.com/peshkovshoes\nЮтуб - https://www.youtube.com/channel/UC4uiPRVoiWxtR65K_aYUgSg",
+   "url": "https://rutube.ru/video/a1b6b35a97ff72b722a6a06b6411fa52/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-16/5e/5c/5e5cc230f9fe6531212bd7586e421b88.jpg",
+   "duration": 32,
+   "stats": {
+    "views": 75
+   }
+  },
+  {
+   "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
    "status": "scheduled",
@@ -4843,6 +4875,22 @@
   },
   {
    "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "long",
+   "status": "published",
+   "date": "2026-10-17T20:00:21",
+   "id": "ec0513872dd329b8c2b6194d719f46df",
+   "title": "ОНИ делали Угги 50 лет. Теперь ИМ запретили использовать это слово. История бренда UGG",
+   "text": "Оригинальные Golden Goose — любую модель, цвет и размер — мы привозим напрямую из США. Ссылки для заказа — ниже ⬇️\n\n🔹 Женская обувь из США и Европы со скидками: https://t.me/+5xchOBoDYV42M2Uy\n🏷 Мужская обувь из США и Европы со скидками : https://t.me/+ue4gK6M4jLA5Mjky\n👉 Брендовая одежда из США и Европы со скидками:https://t.me/+nmN2m7QEmHVlYWE6\n\nУгги, которые мы привыкли считать австралийскими, уже почти 30 лет — американский бренд. Разбираю, как австралийский сёрфер привёз их в Калифорнию, почему права на название ушли в США и из-за чего между производителями шли настоящие суды. И главное — какой из брендов угг реально лучше. \n\n0:00 — Вступление \n0:44 — Как появился бренд UGG?\n1:29 — Суды и кому на самом деле принадлежит компания \n2:59 — Какой из брендов УГГ действительно ЛУЧШЕ?\n6:27 — Какой из брендов UGG НЕ СТОИТ ПОКУПАТЬ?\n6:57 — Завершение\n\n👍 Как вам угги? Но́сите их или считаете переоценёнными? Напишите в комментариях, какие модели у вас были и что в них нравится. И подписывайтесь на канал, чтобы не пропустить разборы брендов!\n\n📱 Мы в соцсетях:\n▪ Дзен — https://dzen.ru/peshkovsh\n▪ Rutube — https://rutube.ru/channel/62248193/\n▪ ВК — https://vk.com/peshkovshoes\n\n#угги #историябренда #обувь #зимняяобувь #осенняяобувь #разборбренда #стиль #мода #uggs  #кроссовки #мужскойстиль",
+   "url": "https://rutube.ru/video/ec0513872dd329b8c2b6194d719f46df/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-13/6b/1d/6b1df7c1e23447d99d1564bda2f8b015.jpg",
+   "duration": 465,
+   "stats": {
+    "views": 5
+   }
+  },
+  {
+   "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
    "status": "scheduled",
@@ -4869,192 +4917,220 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-18T09:00:00",
    "id": "32223856",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243098",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/69e/3af/53061712.mp4"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-18T09:00:00",
    "id": "32224804",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252438",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/d07/b52/53063284.mov"
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-18T13:00:00",
    "id": "32223859",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243103",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/ac4/9b8/53061715.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-18T13:00:00",
    "id": "32224810",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252455",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/d3e/414/53063289.mp4"
   },
   {
    "brand": "peshkov",
    "platform": "vk",
+   "kind": "post",
+   "status": "published",
+   "date": "2026-10-18T13:54:04",
+   "id": "32870739",
+   "title": "Бренд puma дал двойную временную скидку ! Смотри каталог бренда puma по ультра низким ценам ТУТ (https://t.me/peshkovshoes/252539)",
+   "text": "Бренд puma дал двойную временную скидку ! Смотри каталог бренда puma по ультра низким ценам ТУТ (https://t.me/peshkovshoes/252539)",
+   "url": "https://vk.ru/wall-230330243_6103",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/72b/6be/54106536.jpg"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-18T17:00:00",
    "id": "32223861",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243107",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/8e9/c49/53061720.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-18T17:00:00",
    "id": "32224815",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252466",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/0d0/f65/53063293.mov"
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-18T21:00:00",
    "id": "32223862",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243108",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/ddc/c3c/53061725.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-18T21:00:00",
    "id": "32224823",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252477",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/d6f/2c6/53063305.mp4"
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-19T09:00:00",
    "id": "32223866",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243111",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/ef7/dc0/53061730.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-19T09:00:00",
    "id": "32224826",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252510",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/70b/e5c/53063319.mp4"
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-19T13:00:00",
    "id": "32223870",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243116",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/bcd/846/53061738.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-19T13:00:00",
    "id": "32224831",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252597",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/ee9/aa3/53063328.mp4"
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-19T17:00:00",
    "id": "32223872",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243122",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/491/2ab/53061743.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-19T17:00:00",
    "id": "32224839",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252602",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/847/250/53063331.mov"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "published",
+   "date": "2026-10-19T18:00:46",
+   "id": "e35176e025ef42addd9ac5ca7a869b41",
+   "title": "ВОТ как узнать кроссовки без логотипа! #кроссы #обувь #кроссовки",
+   "text": "Всем привет! С вами Peshkov.shoes - ведущий байер-сервис оригинальной брендовой обуви из США и Европы.\n\nВ этом видео разберем подошвы популярных кроссовок и проверим, получится ли у вас угадать бренд без логотипа и названия модели. Вы узнаете, по каким деталям рисунка и формы подошвы сникерхеды определяют производителя и почему некоторые пары можно узнать буквально за секунду.\n\n✔️Подписывайтесь на канал и узнайте, где купить оригинальные и комфортные кроссовки!\n\n#кроссовки #обувь #кроссы #мужскойстиль #спортивнаяобувь #мужскаяобувь #peshkovshoes\n\n🔹 Наш телеграм: https://t.me/+MeYg_DfAYKBhYmU6\n🖤 Наш телеграм с брендами сегмента люкс из США и Европы: https://t.me/shopomaniia_lux\n👉 Аутлет-каталог: https://t.me/shopomaniia_outlet\n\n\nДзен - https://dzen.ru/peshkovsh\nРутуб - https://rutube.ru/channel/62248193/\nВК - https://vk.com/peshkovshoes\nЮтуб - https://www.youtube.com/channel/UC4uiPRVoiWxtR65K_aYUgSg",
+   "url": "https://rutube.ru/video/e35176e025ef42addd9ac5ca7a869b41/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-19/b2/0b/b20b3088c36e20cf82b373de69756428.jpg",
+   "duration": 57,
+   "stats": {
+    "views": 1
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-19T21:00:00",
    "id": "32223875",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243133",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/a44/d99/53061748.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-19T21:00:00",
    "id": "32224844",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252604",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/31d/b8c/53063336.mov"
   },
   {

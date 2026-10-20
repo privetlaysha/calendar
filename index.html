@@ -760,7 +760,7 @@ function renderCounters() {
     });
     const cell = (k, label) => `<span class="cnt"><i class="sq ${k}"></i><b>${n[k]}</b><span class="lbl">${label}</span></span>`;
     el.innerHTML = cell("vks", "ВК шортс") + cell("vkl", "ВК выпуск") +
-      (channel === "peshkov" ? cell("rts", "Rutube шортс") + cell("rtl", "Rutube выпуск") : "") +
+      cell("rts", "Rutube шортс") + cell("rtl", "Rutube выпуск") +
       (n.vkp ? cell("vkp", "ВК пост") : "");
     return;
   }

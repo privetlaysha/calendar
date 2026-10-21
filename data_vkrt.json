@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T09:00:41",
+ "updatedAt": "2026-10-21T13:26:21",
  "timezone": "Europe/Moscow",
  "since": "2026-09-01",
  "brands": [
@@ -74,7 +74,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-04/c3/bf/c3bf7c8872f5ff1cde81fbe5078600e2.jpg",
    "duration": 413,
    "stats": {
-    "views": 38
+    "views": 43
    }
   },
   {
@@ -490,7 +490,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-15/4b/85/4b8562b23b0e1564865115a5c18ecdef.jpg",
    "duration": 55,
    "stats": {
-    "views": 207
+    "views": 208
    }
   },
   {
@@ -506,7 +506,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-15/07/dc/07dc724911ded6473b33e7e897b7c4c2.jpg",
    "duration": 185,
    "stats": {
-    "views": 7
+    "views": 9
    }
   },
   {
@@ -926,7 +926,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-21/a2/6c/a26cae8a25b843673db5ef331a37c178.jpg",
    "duration": 72,
    "stats": {
-    "views": 80
+    "views": 82
    }
   },
   {
@@ -3834,7 +3834,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-06/70/b6/70b6eff3b8dcd734b96b55b9d24b53fc.jpg",
    "duration": 32,
    "stats": {
-    "views": 0
+    "views": 2
    }
   },
   {
@@ -4058,7 +4058,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-06/f5/e0/f5e052afb77d8d2817296c951a44a502.jpg",
    "duration": 33,
    "stats": {
-    "views": 1
+    "views": 2
    }
   },
   {
@@ -4286,7 +4286,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-06/a6/04/a6044d1a63ae6a59449adc342b2797c4.jpg",
    "duration": 52,
    "stats": {
-    "views": 1
+    "views": 2
    }
   },
   {
@@ -4342,7 +4342,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-06/c3/31/c331dda31f91a500b1f31768688fb83d.jpg",
    "duration": 67,
    "stats": {
-    "views": 0
+    "views": 2
    }
   },
   {
@@ -4502,7 +4502,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-06/a5/4a/a54a107cc5fbab7f45b555902cc34b01.jpg",
    "duration": 24,
    "stats": {
-    "views": 5
+    "views": 6
    }
   },
   {
@@ -4566,7 +4566,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-14/09/b9/09b95f594b8a4e1372a3111547f605f0.jpg",
    "duration": 350,
    "stats": {
-    "views": 3
+    "views": 4
    }
   },
   {
@@ -5170,7 +5170,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-19/b2/0b/b20b3088c36e20cf82b373de69756428.jpg",
    "duration": 57,
    "stats": {
-    "views": 1
+    "views": 85
    }
   },
   {
@@ -5201,222 +5201,256 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-20T09:00:00",
    "id": "32223877",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243137",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/508/337/53061752.mp4"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-20T09:00:00",
    "id": "32224851",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252610",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/38a/6c5/53063345.mov"
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-20T12:00:00",
+   "status": "published",
+   "date": "2026-10-20T12:00:26",
    "id": "8d8a14087aa800672f138d26234ccec1",
    "title": "Осенние тренды: главные находки и что дальше? Подписывайся!",
    "text": "Осенние тренды: главные находки и что дальше? Подписывайся!\n\nПогрузитесь в нашу новую осеннюю серию видео! Мы расскажем о главных трендах, основах гардероба, сочетаниях и разберем конкретные вещи. Не забудьте подписаться, чтобы не пропустить новые выпуски!\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#ОсенниеТренды #МодаОсени #Гардероб #Стиль #ВидеоКонтент",
    "url": "https://rutube.ru/video/8d8a14087aa800672f138d26234ccec1/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-20/49/9f/499fa177c8b3cd0bb54a92538f98d452.jpg",
+   "duration": 21,
+   "stats": {
+    "views": 73
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-20T13:00:00",
    "id": "32223880",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243148",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/80a/386/53061761.mp4"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-20T13:00:00",
    "id": "32224854",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252663",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/ea5/822/53063349.mov"
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-20T13:30:00",
+   "status": "published",
+   "date": "2026-10-20T13:30:14",
    "id": "d6647657d3128635231b867988d15601",
    "title": "Распаковка Chanel",
    "text": "Распаковка Chanel: помада Le Rouge Duo Ultra Tenue 💄\nЛюбую косметику Chanel привезём из США — пишите менеджеру, ссылка в шапке профиля\n\nПодписывайтесь на @shopomaniia2012\n\n#chanel #распаковка #косметика #бьюти #шопомания",
    "url": "https://rutube.ru/video/d6647657d3128635231b867988d15601/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-20/55/20/55209313a6dc5a280a60fa622d55ee44.jpg",
+   "duration": 16,
+   "stats": {
+    "views": 83
+   }
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-20T15:00:00",
+   "status": "published",
+   "date": "2026-10-20T15:00:12",
    "id": "26fcfe194b7983c91dd807cc6bc89adb",
    "title": "Самый скандальный и очень хайповый показ получился в этом году 🤩",
    "text": "Показ бренда Victoria’s Secret 2026 прошёл 18 октября😍\nСамый скандальный и очень хайповый показ получился в этом году 🤩\n\nА Весь каталог новой коллекции с ценами мы собрали в нашем тг-канале \n➡️Ссылка на тг- канал в шапке профиля!\n\nС уважением ♥️  \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
    "url": "https://rutube.ru/video/26fcfe194b7983c91dd807cc6bc89adb/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-20/43/d2/43d231a22edc33cc24ab6dfbb50848a1.jpg",
+   "duration": 67,
+   "stats": {
+    "views": 59
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-20T17:00:00",
    "id": "32223884",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243162",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/07b/295/53061768.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-20T17:00:00",
    "id": "32224859",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252711",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/d8c/631/53063353.mov"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "published",
+   "date": "2026-10-20T19:00:30",
+   "id": "a889986579656accf1ced9688b020b7d",
+   "title": "Как ПРАВИЛЬНО постирать кроссовки? #кроссы #обувь #кроссовки",
+   "text": "Всем привет! С вами Peshkov.shoes - ведущий байер-сервис оригинальной брендовой обуви из США и Европы.\n\nВ этом видео разберем, как стирать кроссовки в стиральной машине, чтобы после стирки они выглядели как новые, а не разваливались через неделю. Вы узнаете, какие пары вообще можно отправлять в машинку, какой режим и температуру выбрать и что сделать после стирки, чтобы подошва не отклеилась, а форма осталась прежней.\n\n✔️Подписывайтесь на канал и узнайте, где купить оригинальные и комфортные кроссовки!\n\n#кроссовки #обувь #кроссы #мужскойстиль #спортивнаяобувь #мужскаяобувь #peshkovshoes \n\n🔹 Наш телеграм: https://t.me/+MeYg_DfAYKBhYmU6\n🖤 Наш телеграм с брендами сегмента люкс из США и Европы: https://t.me/shopomaniia_lux\n👉 Аутлет-каталог: https://t.me/shopomaniia_outlet\n\nДзен - https://dzen.ru/peshkovsh\nРутуб - https://rutube.ru/channel/62248193/\nВК - https://vk.com/peshkovshoes\nЮтуб - https://www.youtube.com/channel/UC4uiPRVoiWxtR65K_aYUgSg",
+   "url": "https://rutube.ru/video/a889986579656accf1ced9688b020b7d/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-20/79/10/791006e37d8e9c53781aacf1066d5df2.jpg",
+   "duration": 52,
+   "stats": {
+    "views": 61
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-20T21:00:00",
    "id": "32223886",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243164",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/b61/ddf/53061778.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-20T21:00:00",
    "id": "32224863",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252720",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/f87/863/53063367.mov"
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-21T09:00:00",
    "id": "32223890",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243168",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/418/ebf/53061781.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-21T09:00:00",
    "id": "32224870",
    "title": "Kiko 2",
    "text": "Kiko 2\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252746",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/ae0/d7f/53063382.mov"
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-21T09:00:00",
+   "status": "published",
+   "date": "2026-10-21T09:00:15",
    "id": "450085bffff2f09121d7c2221b99e131",
    "title": "Шоппинг в США и Европе: Как заказывать бренды?",
    "text": "Шоппинг в США и Европе: Как заказывать бренды?\n\nИщете бренды, которые официально не поставляются в Россию? Шопомания привезет одежду, обувь, косметику и сумки напрямую из США и Европы. Гарантия оригинальности и выгодные цены.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#шоппинг #бренды #доставкаизсша #доставкаизевропы #одежда",
    "url": "https://rutube.ru/video/450085bffff2f09121d7c2221b99e131/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-20/15/e4/15e4f32848acff28f180e6e020d653b8.jpg",
+   "duration": 23,
+   "stats": {
+    "views": 53
+   }
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-21T10:30:00",
+   "status": "published",
+   "date": "2026-10-21T10:30:09",
    "id": "02708ac7dd79764191102eb8db5ae1d5",
    "title": "Бомберы: стильно в любой ситуации",
    "text": "Бомберы: стильно в любой ситуации\n\nОткройте для себя универсальность верхней одежды! Мы покажем, как бомберы и стильные шарфы идеально дополняют любой образ, от уличного шика до уютной спальни. Узнайте, как сочетать классику и кэжуал!\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#стильныешарфы #бомберы #верхняяодежда #мода #стиль",
    "url": "https://rutube.ru/video/02708ac7dd79764191102eb8db5ae1d5/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-20/1c/32/1c325414c8d0cdb513712cd991bc4912.jpg",
+   "duration": 21,
+   "stats": {
+    "views": 1
+   }
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-21T12:00:00",
+   "status": "published",
+   "date": "2026-10-21T12:00:46",
    "id": "e502d27a44c4c65023eb2adb77a0300b",
    "title": "Люксовая косметика в 3 раза дешевле — но только сейчас 💄",
    "text": "Люксовая косметика в 3 раза дешевле — но только сейчас 💄\n\nСтартовал сезон адвент-календарей. Коробка стоит в три раза меньше, чем косметика внутри по отдельности, а запаса хватает на весь год.\n\nВ ролике — три самых выгодных адвента этого сезона 👀\n\n📦 Как заказать из США: напишите нашему менеджеру в Telegram — подберём адвент и посчитаем доставку. Ссылка на канал с zенами в шапке профиля!\n\nКакой бы взяли? Пишите 👇\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍\n\n#адвенткалендарь #адвент2026 #люксоваякосметика #косметикаизсша #бьюти #charlottetilbury #benefit #шопомания",
    "url": "https://rutube.ru/video/e502d27a44c4c65023eb2adb77a0300b/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-20/43/a0/43a0c0cc1545091340d47d0478e3ab56.jpg",
+   "duration": 65,
+   "stats": {
+    "views": 1
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-21T13:00:00",
    "id": "32223894",
    "title": "Находка дня ✨",
    "text": "Находка дня ✨\n\nПодписывайтесь на нас — каждый день новые находки из США и Европы!\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#обувь #кроссовки #байер #сша",
-   "url": "",
+   "url": "https://vk.ru/clip-230330243_456243178",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/328/378/53061786.mov"
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "published",
    "date": "2026-10-21T13:00:00",
    "id": "32224875",
    "title": "Rhode",
    "text": "Rhode\n\nПодписывайтесь на нас — каждый день показываем новые находки!\n\nВаша Шопомания 🛍\nПривозим бренды из США и Европы — ссылка в шапке профиля\n\n#находки #сша #шопинг #бренды",
-   "url": "",
+   "url": "https://vk.ru/clip-212592964_456252820",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/492/9f1/53063393.mov"
   },
   {

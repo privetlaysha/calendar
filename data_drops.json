@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T03:30:39",
+ "updatedAt": "2026-10-21T14:01:24",
  "timezone": "Europe/Moscow",
  "categories": {
   "shoes": "Обувь",
@@ -568,6 +568,140 @@
    "price": "",
    "buy": "https://www.nike.com",
    "src": "https://sneakerbardetroit.com/nocturnal-nike-sb-air-force-1-low-iv6099-003/",
+   "image": ""
+  },
+  {
+   "id": "gap-victoria-beckham-2",
+   "date": "2026-10-23",
+   "our": false,
+   "cat": "clothes",
+   "brand": "Gap",
+   "title": "Gap x Victoria Beckham: вторая коллекция",
+   "text": "37 вещей: трикотаж, пальто, многослойные образы. Цены от $28 до $368. Старт 23 октября в 9 утра (США) на gap.com. Первая коллекция разлетелась за день.",
+   "price": "$28–368",
+   "buy": "https://www.gap.com",
+   "src": "https://fashionista.com/2026/10/gap-victoria-beckham-second-drop",
+   "image": "drops_img/gap-victoria-beckham-2.jpg"
+  },
+  {
+   "id": "stussy-holiday-26",
+   "date": "2026-10-23",
+   "our": false,
+   "cat": "clothes",
+   "brand": "Stüssy",
+   "title": "Stüssy Holiday '26",
+   "text": "Праздничная коллекция: яркие зелёные пуховики, кожаные куртки, бомберы, пальто. Мировой релиз 23 октября онлайн и в магазинах Stüssy.",
+   "price": "",
+   "buy": "https://www.stussy.com",
+   "src": "https://hypebeast.com/2026/10/stussy-holiday-2026-lookbook-collection-release-info",
+   "image": "drops_img/stussy-holiday-26.jpg"
+  },
+  {
+   "id": "champion-saturdays-nyc",
+   "date": "2026-10-24",
+   "our": false,
+   "cat": "clothes",
+   "brand": "Champion",
+   "title": "Champion x Saturdays NYC: первая совместная коллекция",
+   "text": "Эксклюзивная коллекция худи и свитшотов. 24 октября в магазинах и на сайте Saturdays NYC.",
+   "price": "",
+   "buy": "https://www.saturdaysnyc.com",
+   "src": "https://hypebeast.com/2026/10/champion-saturdays-nyc-exclusive-collection-release-info",
+   "image": "drops_img/champion-saturdays-nyc.jpg"
+  },
+  {
+   "id": "uniqlo-f-risso-26",
+   "date": "2026-10-29",
+   "our": false,
+   "cat": "clothes",
+   "brand": "UNIQLO",
+   "title": "UNIQLO x Francesco Risso: трикотаж",
+   "text": "Бывший креативный директор Marni делает трикотаж для UNIQLO: двухцветные свитеры бесшовной 3D-вязки. Релиз 29 октября на uniqlo.com.",
+   "price": "",
+   "buy": "https://www.uniqlo.com",
+   "src": "https://hypebeast.com/2026/10/uniqlo-f-risso-collection-collaboration-2026-knitwear-info",
+   "image": "drops_img/uniqlo-f-risso-26.jpg"
+  },
+  {
+   "id": "hm-elie-saab",
+   "date": "2026-10-21",
+   "our": false,
+   "cat": "clothes",
+   "brand": "H&M",
+   "dateApprox": "дата уточняется",
+   "title": "H&M x Elie Saab",
+   "text": "H&M показал кампейн коллаборации с Elie Saab: вечерние платья и праздничные образы. Дата старта продаж уточняется, такие коллабы H&M разбирают в первые часы.",
+   "price": "",
+   "buy": "https://www2.hm.com",
+   "src": "https://t.me/make_your_style/25495",
+   "tg": [
+    "make_your_style/25495"
+   ],
+   "image": "drops_img/hm-elie-saab.jpg"
+  },
+  {
+   "id": "tatcha-advent-26",
+   "date": "2026-10-20",
+   "our": false,
+   "cat": "beauty",
+   "brand": "Tatcha",
+   "title": "Tatcha адвент-календарь «12 Ways To Love Your Skin»",
+   "text": "12 бестселлеров Tatcha в мини-формате: The Dewy Skin Cream, The Water Cream, Indigo Overnight Repair и другие. Уже в Sephora.",
+   "price": "$280",
+   "buy": "https://www.sephora.com",
+   "src": "https://hellosubscription.com/2026-tatcha-beauty-advent-calendar-12-ways-to-love-your-skin-uk/",
+   "image": "drops_img/tatcha-advent-26.jpg"
+  },
+  {
+   "id": "macys-luxury-advent-26",
+   "date": "2026-10-20",
+   "our": false,
+   "cat": "beauty",
+   "brand": "Macy's",
+   "title": "Macy's 12 Days of Luxury Beauty: адвент-календарь",
+   "text": "12 люксовых средств по уходу и макияжу, стоимость содержимого $250. Уже в продаже на macys.com.",
+   "price": "$120",
+   "buy": "https://www.macys.com",
+   "src": "https://hellosubscription.com/2026-macys-beauty-12-days-of-luxury-beauty-advent-calendar-12-prestige-skincare-and-makeup-essentials/",
+   "image": "drops_img/macys-luxury-advent-26.jpg"
+  },
+  {
+   "id": "acqua-di-parma-holiday-26",
+   "date": "2026-10-20",
+   "our": false,
+   "cat": "beauty",
+   "brand": "Acqua di Parma",
+   "title": "Acqua di Parma: праздничная коллекция 2026",
+   "text": "Ароматы и подарочные наборы в праздничном оформлении «Grand Hotel». Цены от $65 до $1022. Уже в продаже.",
+   "price": "$65–1022",
+   "buy": "https://www.acquadiparma.com",
+   "src": "https://hypebeast.com/2026/10/acqua-di-parma-2026-holiday-season-grand-hotel-sprezzatura-collection-campaign-info",
+   "image": "drops_img/acqua-di-parma-holiday-26.jpg"
+  },
+  {
+   "id": "olive-june-advent-26",
+   "date": "2026-10-20",
+   "our": false,
+   "cat": "beauty",
+   "brand": "Olive & June",
+   "title": "Olive & June: адвент-календари для маникюра",
+   "text": "Три календаря: 12 Days of Mani Magic ($60), Pressies на 12 дней с накладными ногтями ($50), календарь на Хануку ($50). Предзаказ открыт.",
+   "price": "$50–60",
+   "buy": "https://oliveandjune.com",
+   "src": "https://hellosubscription.com/2026-olive-june-advent-calendars-countdown-to-mani-magic/",
+   "image": "drops_img/olive-june-advent-26.png"
+  },
+  {
+   "id": "lisa-playstation-dualsense",
+   "date": "2026-10-20",
+   "our": false,
+   "cat": "mass",
+   "brand": "PlayStation",
+   "title": "LISA x PlayStation: лимитированный геймпад DualSense",
+   "text": "Лимитированный DualSense от LISA из BLACKPINK и мерч. Предзаказ открыт на сайте PlayStation, лимитки обычно уходят за часы.",
+   "price": "",
+   "buy": "https://direct.playstation.com",
+   "src": "https://sneakerbardetroit.com/lisa-playstation-dualsense-wireless-controller/",
    "image": ""
   }
  ]

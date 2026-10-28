@@ -901,6 +901,7 @@ function scrollToDay() {
 
 /* Фото-карусель/пост — картинка по расширению, рилс — видео */
 function isImgPost(p) {
+  if (p.history) return false;          // архив ленты: обложка-картинка, но это рилс
   const url = p.thumb || p.video || "";
   return /\.(png|jpe?g|webp|gif|avif)(\?|#|$)/i.test(url);
 }

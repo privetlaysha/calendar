@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T14:01:24",
+ "updatedAt": "2026-10-28T14:04:58",
  "timezone": "Europe/Moscow",
  "categories": {
   "shoes": "Обувь",
@@ -79,7 +79,7 @@
    "price": "",
    "buy": "https://www.vans.com",
    "src": "https://sneakerbardetroit.com/satoshi-nakamoto-vans-era-gems-navy-2026/",
-   "image": ""
+   "image": "drops_img/vans-satoshi-era.jpg"
   },
   {
    "id": "bape-7uice",
@@ -170,7 +170,7 @@
    "price": "",
    "buy": "https://www.bbcicecream.com",
    "src": "https://sneakerbardetroit.com/bbc-ice-cream-reebok-board-flip-pumpkin/",
-   "image": ""
+   "image": "drops_img/reebok-bbc-boardflip.jpg"
   },
   {
    "id": "adidas-adios-pro-evo3",
@@ -209,7 +209,7 @@
    "price": "",
    "buy": "https://www.adidas.com",
    "src": "https://sneakerbardetroit.com/",
-   "image": ""
+   "image": "drops_img/adidas-ae3-purple.jpg"
   },
   {
    "id": "vans-oldskool36-marshmallow",
@@ -222,7 +222,7 @@
    "price": "",
    "buy": "https://www.vans.com",
    "src": "https://sneakerbardetroit.com/vans-old-skool-36-pearlized-marshmallow/",
-   "image": ""
+   "image": "drops_img/vans-oldskool36-marshmallow.jpg"
   },
   {
    "id": "aj6-white-infrared",
@@ -236,7 +236,7 @@
    "price": "",
    "buy": "https://www.nike.com/launch",
    "src": "https://sneakerbardetroit.com/air-jordan-6-white-infrared-2026/",
-   "image": ""
+   "image": "drops_img/aj6-white-infrared.jpg"
   },
   {
    "id": "birkenstock-1774-uerzell",
@@ -410,7 +410,7 @@
    "price": "",
    "buy": "https://www.bathandbodyworks.com",
    "src": "https://www.glossy.co/beauty/bath-body-works-is-testing-smaller-batch-fragrances-through-hype-lab/",
-   "image": ""
+   "image": "drops_img/bbw-hype-lab.jpg"
   },
   {
    "id": "stanley-quencher-keychain",
@@ -568,7 +568,7 @@
    "price": "",
    "buy": "https://www.nike.com",
    "src": "https://sneakerbardetroit.com/nocturnal-nike-sb-air-force-1-low-iv6099-003/",
-   "image": ""
+   "image": "drops_img/nike-sb-af1-nocturnal.jpg"
   },
   {
    "id": "gap-victoria-beckham-2",
@@ -702,7 +702,144 @@
    "price": "",
    "buy": "https://direct.playstation.com",
    "src": "https://sneakerbardetroit.com/lisa-playstation-dualsense-wireless-controller/",
-   "image": ""
+   "image": "drops_img/lisa-playstation-dualsense.jpg"
+  },
+  {
+   "id": "supreme-nike-af1-snow-camo",
+   "date": "2026-10-29",
+   "our": true,
+   "cat": "shoes",
+   "brand": "Nike",
+   "title": "Supreme x Nike Air Force 1 Low «Snow Camo»",
+   "text": "Серо-бело-чёрный камуфляж, чёрная подошва и бокс-лого Supreme. Релиз 29 октября в 11:00 по Нью-Йорку на сайте и в магазинах Supreme.",
+   "price": "$124",
+   "buy": "https://www.supremenewyork.com",
+   "src": "https://sneakerbardetroit.com/supreme-nike-air-force-1-low-snow-camo-2026/",
+   "image": "drops_img/supreme-nike-af1-snow-camo.jpg"
+  },
+  {
+   "id": "margiela-gentle-monster",
+   "date": "2026-10-29",
+   "our": false,
+   "cat": "clothes",
+   "brand": "Maison Margiela",
+   "title": "Maison Margiela x Gentle Monster: очки",
+   "text": "Первая совместная коллекция очков двух культовых брендов. Релиз 29 октября, Gentle Monster обычно распродаёт коллабы в первые дни.",
+   "price": "",
+   "buy": "https://www.gentlemonster.com",
+   "src": "https://t.me/omanko_news/35210",
+   "tg": [
+    "omanko_news/35210"
+   ],
+   "image": "drops_img/margiela-gentle-monster.jpg"
+  },
+  {
+   "id": "haven-timberland-field-boot",
+   "date": "2026-10-30",
+   "our": true,
+   "cat": "shoes",
+   "brand": "Timberland",
+   "title": "HAVEN x Timberland Field Boot «Black»",
+   "text": "Field Boot в чёрной ворсистой замше: мембрана GORE-TEX, утеплитель PrimaLoft, подошва Vibram. 30 октября в HAVEN и отдельных магазинах Timberland.",
+   "price": "$230",
+   "buy": "https://havenshop.com",
+   "src": "https://justfreshkicks.com/haven-timberland-field-boot-black/",
+   "image": "drops_img/haven-timberland-field-boot.jpg"
+  },
+  {
+   "id": "doe-crocs-echo-clog-2",
+   "date": "2026-10-30",
+   "our": true,
+   "cat": "shoes",
+   "brand": "Crocs",
+   "title": "DOE x Crocs Echo Clog II",
+   "text": "Молочные клоги с цифровым камуфляжем и хромированными деталями. В комплекте бархатный пыльник, который носится как сумка. 30 октября на crocs.com.",
+   "price": "",
+   "buy": "https://www.crocs.com",
+   "src": "https://justfreshkicks.com/doe-crocs-echo-clog-ii/",
+   "image": "drops_img/doe-crocs-echo-clog-2.jpg"
+  },
+  {
+   "id": "palace-nike-manor-place-fc",
+   "date": "2026-10-30",
+   "our": false,
+   "cat": "clothes",
+   "brand": "Palace",
+   "title": "Palace x Nike: футбольная коллекция Manor Place FC",
+   "text": "Джерси, спортивные костюмы, худи, футболки, верхняя одежда и аксессуары. 30 октября онлайн и в магазинах Palace в США и Европе, а также в Dover Street Market.",
+   "price": "",
+   "buy": "https://www.palaceskateboards.com",
+   "src": "https://sneakerbardetroit.com/palace-nike-manor-place-fc-collection-release-date/",
+   "image": "drops_img/palace-nike-manor-place-fc.jpg"
+  },
+  {
+   "id": "wacko-maria-champion",
+   "date": "2026-10-31",
+   "our": false,
+   "cat": "clothes",
+   "brand": "Champion",
+   "title": "WACKO MARIA x Champion Reverse Weave",
+   "text": "Первый коллаб: свитшот, два худи, худи на молнии и штаны из плотного флиса Reverse Weave. 31 октября на сайтах Champion Japan и WACKO MARIA.",
+   "price": "",
+   "buy": "https://wackomaria.co.jp",
+   "src": "https://hypebeast.com/2026/10/wacko-maria-champion-reverse-weave-collaboration-capsule-collection-release-info",
+   "image": "drops_img/wacko-maria-champion.jpg"
+  },
+  {
+   "id": "apartment-nb-2010-kingfisher",
+   "date": "2026-10-31",
+   "our": true,
+   "cat": "shoes",
+   "brand": "New Balance",
+   "title": "The Apartment x New Balance 2010 GORE-TEX «Kingfisher»",
+   "text": "Повторный коллаб The Apartment и New Balance: всепогодные 2010 с мембраной GORE-TEX. 31 октября на newbalance.com и у партнёров.",
+   "price": "",
+   "buy": "https://www.newbalance.com",
+   "src": "https://hypebeast.com/2026/10/the-apartment-new-balance-2010-gore-tex-kingfisher-u2010376-official-look-release-info",
+   "image": "drops_img/apartment-nb-2010-kingfisher.jpg"
+  },
+  {
+   "id": "kiko-asics-tabi-boots",
+   "date": "2026-10-31",
+   "our": true,
+   "cat": "shoes",
+   "brand": "ASICS",
+   "title": "Kiko Kostadinov x ASICS Tabi Boots",
+   "text": "Ботинки с раздельным носком-таби, впервые показанные на показе Kiko Kostadinov. Вещь для ценителей и очень ограниченный тираж. Релиз 31 октября.",
+   "price": "$620",
+   "buy": "https://www.kikokostadinov.com",
+   "src": "https://t.me/omanko_news/35298",
+   "tg": [
+    "omanko_news/35298"
+   ],
+   "image": "drops_img/kiko-asics-tabi-boots.jpg"
+  },
+  {
+   "id": "fenty-casetify",
+   "date": "2026-11-01",
+   "our": false,
+   "cat": "beauty",
+   "brand": "Fenty Beauty",
+   "dateApprox": "скоро, дата уточняется",
+   "title": "Fenty Beauty x CASETiFY: чехлы с мини-блеском",
+   "text": "29 предметов: чехлы, MagSafe-аксессуары, ремешки. На чехол крепятся мини Gloss Bomb и пудра Invisimatte. На fentybeauty.com уже висит «Coming Soon».",
+   "price": "от €49",
+   "buy": "https://fentybeauty.com",
+   "src": "https://www.cosmeticsbusiness.com/fenty-moves-into-wearable-beauty-tech-with-casetify-collection",
+   "image": "drops_img/fenty-casetify.jpg"
+  },
+  {
+   "id": "tonymoly-squishmallows-advent",
+   "date": "2026-10-28",
+   "our": false,
+   "cat": "beauty",
+   "brand": "TONYMOLY",
+   "title": "TONYMOLY x Squishmallows: адвент-календарь",
+   "text": "10 дней корейского ухода: кремы для рук, тканевые маски, патчи, блеск для губ и плюшевая повязка Squishmallows. Уже в Target.",
+   "price": "$30",
+   "buy": "https://www.target.com",
+   "src": "https://subscriptionboxramblings.com/2026/10/tonymoly-x-squishmallows-advent-calendar-bath-and-body-gift-set/",
+   "image": "drops_img/tonymoly-squishmallows-advent.png"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T09:13:10",
+ "updatedAt": "2026-10-29T10:04:00",
  "map": {
   "peshkov": "yt-classic",
   "shopomaniia": "yt-shop"
@@ -5840,6 +5840,19 @@
    "status": "scheduled",
    "url": "",
    "video": "https://static.metricool.com/video-converter/202610/6316245-file-15001516856214623603.mp4",
+   "channel": "yt-shop"
+  },
+  {
+   "mcId": 409743846,
+   "brand": "shopomaniia",
+   "ytId": "",
+   "date": "2026-10-31T11:00:00",
+   "title": "Распаковка самого яркого адвент-календаря от Benefit 🏨",
+   "text": "Распаковка самого яркого адвент-календаря от Benefit 🏨\nХотите такой же — напишите «BENEFIT», и мы пришлём подробности.\n\nЭто целый отель — The Hotel Beneville: миниатюры, зеркальце, заколки для макияжа, патчи и полноразмерная тушь с той самой кисточкой. Что ещё спрятано в номерах — досмотрите до конца 👀\n\nПодписывайтесь на @shopomaniia2012 — самые интересные адвенты сезона первыми.\n\n#адвенткалендарь #бенефит #косметика #подарокнановыйгод #шопомания",
+   "short": true,
+   "status": "scheduled",
+   "url": "",
+   "video": "https://static.metricool.com/video-converter/202610/6316245-file-1774089745039062890.mp4",
    "channel": "yt-shop"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T13:29:54",
+ "updatedAt": "2026-10-30T14:06:35",
  "timezone": "Europe/Moscow",
  "since": "2026-09-01",
  "brands": [
@@ -6446,7 +6446,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/cc/a7/cca75a68430d18ec64a3840b27e0e755.jpg",
    "duration": 47,
    "stats": {
-    "views": 91
+    "views": 99
    }
   },
   {
@@ -6478,7 +6478,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/b0/38/b038efc25c142c1b25de9832fbeed08f.jpg",
    "duration": 46,
    "stats": {
-    "views": 50
+    "views": 51
    }
   },
   {
@@ -7287,6 +7287,22 @@
    "duration": 22,
    "stats": {
     "views": 0
+   }
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "published",
+   "date": "2026-10-30T13:56:20",
+   "id": "2d494da0a480b2079c316f3f1bc34fbe",
+   "title": "САМЫЕ удобные кроссовки Найк для бега! #nike #обувь #кроссовки",
+   "text": "Всем привет! С вами Peshkov.shoes - ведущий байер-сервис оригинальной брендовой обуви из США и Европы.\n\nВ этом видео разберем, как появилась технология Nike Free и почему ее идея поначалу казалась странной даже внутри компании. Вы узнаете, что Найк увидел на тренировках бегунов Стэнфорда, как инженеры пытались повторить ощущение бега босиком в кроссовке и почему гибкая подошва Free изменила подход к беговой обуви на годы вперед.\n\n✔️Подписывайтесь на канал и узнайте, где купить оригинальные и комфортные кроссовки!\n\n#ортопедия #кроссовки #nike #обувь #кроссы #мужскойстиль #спортивнаяобувь #мужскаяобувь #peshkovshoes \n\n🔹 Наш телеграм: https://t.me/+MeYg_DfAYKBhYmU6\n🖤 Наш телеграм с брендами сегмента люкс из США и Европы: https://t.me/shopomaniia_lux\n👉 Аутлет-каталог: https://t.me/shopomaniia_outlet\n\n\nДзен - https://dzen.ru/peshkovsh\nРутуб - https://rutube.ru/channel/62248193/\nВК - https://vk.com/peshkovshoes\nЮтуб - https://www.youtube.com/channel/UC4uiPRVoiWxtR65K_aYUgSg",
+   "url": "https://rutube.ru/video/2d494da0a480b2079c316f3f1bc34fbe/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-30/19/8f/198f4cccc18a779d68f86a04c0135879.jpg",
+   "duration": 34,
+   "stats": {
+    "views": 1
    }
   },
   {
@@ -10691,6 +10707,19 @@
    "text": "Что делать, когда жизнь перевернулась, а одежда в шкафу больше «не твоя»?\n После родов, развода, болезни или переезда мы часто чувствуем: вещи не отражают нас настоящих. В этом выпуске стилист Полина Ротнова и ведущая Яна разбирают, как через стиль обрести новую, лучшую версию себя: почему одежда — это отражение психотипа, как найти «своего» стилиста, какие вещи пора выбросить прямо сейчас и какие бренды переоценены. Плюс честный блиц о трендах 2026 года.\n\n \n\n🇺🇸 Шопомания — байер-сервис с 13-летним опытом. Выкупаем 100% оригинал напрямую из США и Европы. Все ссылки на сервис и на стилиста Полину — ниже в описании.\n\nПолина Ротнова - Стилист\nhttps://www.instagram.com/polina.rotnova\n\n\n\n🖤 Заказать одежду из США и Европы : \nhttps://t.me/shopomaniia2012\n \n\n\nНаши соцсети: \n◼Дзен - https://dzen.ru/id/68234069a685494e64a44d92\n◼Рутуб - https://rutube.ru/channel/58463509/\n◼ВК - https://vk.com/shopomaniia2012\n\n#шопомания #стиль #стилист #мода #гардероб",
    "url": "",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/1bd/2b2/53907900.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "long",
+   "status": "scheduled",
+   "date": "2026-11-26T20:00:00",
+   "id": "727c5462502e3d73fbf780cc1a07cb30",
+   "title": "5 СРЕДСТВ ИЗ SEPHORA, НА КОТОРЫЕ ВИЗАЖИСТ НИКОГДА НЕ ПОТРАТИТ ДЕНЬГИ",
+   "text": "",
+   "url": "https://rutube.ru/video/727c5462502e3d73fbf780cc1a07cb30/",
+   "thumb": "https://i.ytimg.com/vi/sWl2RCLCkcY/maxresdefault.jpg",
+   "duration": 0
   },
   {
    "brand": "peshkov",

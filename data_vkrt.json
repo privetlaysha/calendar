@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T08:42:34",
+ "updatedAt": "2026-10-31T11:37:40",
  "timezone": "Europe/Moscow",
  "since": "2026-09-01",
  "brands": [
@@ -7230,7 +7230,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/8c/f8/8cf89a09723252a9627d6f9d3f78d5c5.jpg",
    "duration": 49,
    "stats": {
-    "views": 62
+    "views": 67
    }
   },
   {
@@ -7477,7 +7477,7 @@
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T09:00:00",
    "id": "32225099",
    "title": "Шопомания 1",
@@ -7489,7 +7489,7 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T09:00:00",
    "id": "33035854",
    "title": "Обувь, похожая на копытца, снова в моде. Её история началась в Японии много веков назад, а сегодня её возродил известный модный дом. Странно",
@@ -7498,62 +7498,74 @@
    "media": "https://ycs-media.postmypost.io/postmypost/upload/c2d/408/54365814.mp4"
   },
   {
-   "brand": "peshkov",
-   "platform": "rutube",
-   "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T09:00:00",
-   "id": "d17e825e8a9870a38fddeae2cca5c42d",
-   "title": "Nike Air Force, которые продаются уже грязными",
-   "text": "Nike продаёт грязные кроссовки. Эти Air Force выглядят так, будто вы месяц ходили по фестивалям, хотя купили их вчера. И даже щётка в комплекте не вернёт им белый цвет. Купили бы такие?\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#кроссовки #Nike #AirForce1 #необычныекроссовки",
-   "url": "https://rutube.ru/video/d17e825e8a9870a38fddeae2cca5c42d/",
-   "thumb": "",
-   "duration": 0
-  },
-  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T09:00:00",
+   "status": "published",
+   "date": "2026-10-31T09:00:11",
    "id": "3653cbfe3b48821419c6ab970783708d",
    "title": "Шерстяное пальто: Aritzia vs. Massimo Dutti – Стоит ли переплачивать?",
    "text": "Шерстяное пальто: Aritzia vs. Massimo Dutti – Стоит ли переплачивать?\n\nСравниваем шерстяные пальто Aritzia и Massimo Dutti. Узнайте, действительно ли дорогой бренд оправдывает свою цену, когда состав и крой идентичны. Разница лишь в лейбле, а не в качестве.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#ШерстяноеПальто #Aritzia #MassimoDutti #СравнениеБрендов #Мода",
    "url": "https://rutube.ru/video/3653cbfe3b48821419c6ab970783708d/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/23/e5/23e5368d37ca1cc7fc2cff011d99fadb.jpg",
+   "duration": 20,
+   "stats": {
+    "views": 2
+   }
   },
   {
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T10:30:00",
+   "status": "published",
+   "date": "2026-10-31T09:00:29",
+   "id": "d17e825e8a9870a38fddeae2cca5c42d",
+   "title": "Nike Air Force, которые продаются уже грязными",
+   "text": "Nike продаёт грязные кроссовки. Эти Air Force выглядят так, будто вы месяц ходили по фестивалям, хотя купили их вчера. И даже щётка в комплекте не вернёт им белый цвет. Купили бы такие?\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#кроссовки #Nike #AirForce1 #необычныекроссовки",
+   "url": "https://rutube.ru/video/d17e825e8a9870a38fddeae2cca5c42d/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/37/08/370898a1b096dab3b2b414b9906b9796.jpg",
+   "duration": 32,
+   "stats": {
+    "views": 0
+   }
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "published",
+   "date": "2026-10-31T10:30:13",
    "id": "b968e39b364f091e79db51eb857757ec",
    "title": "Coach, Nike или UGG: битва брендов обуви",
    "text": "Coach против Dior, UGG против Gucci, Nike против Adidas. Быстрая битва брендов — и победитель вас может удивить. А какой бренд выбрали бы вы?\n\nПонравилась пара? Пишите в директ @peshkov.shoes — привезём оригинал из США и Европы.\n\n#обувь #Coach #UGG #Nike",
    "url": "https://rutube.ru/video/b968e39b364f091e79db51eb857757ec/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/73/f3/73f381cafa048450c0d3fd55b7a6a958.jpg",
+   "duration": 20,
+   "stats": {
+    "views": 0
+   }
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T10:30:00",
+   "status": "published",
+   "date": "2026-10-31T10:30:13",
    "id": "a20ec9b4586f2e3f4b505b587379b551",
    "title": "Уютнее и качественнее пижамы Вы не найдёте😍",
    "text": "Уютнее и качественнее пижамы Вы не найдёте😍\nRalph Lauren 🧸\nТа самая вещь, в которой хочется проводить уютные вечера и просыпаться красивой 💔\n 💯 оригинал!\nZены намного ниже, чем в РФ!\n➡️Ссылка на тг-канал в шапке профиля. \n🚀Чтобы быстрее получить ответ \n✍🏻пишите напрямую менеджеру!\n\nС уважением ♥️  \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
    "url": "https://rutube.ru/video/a20ec9b4586f2e3f4b505b587379b551/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/d3/22/d32225116a1269b4ca262370ce426fce.jpg",
+   "duration": 19,
+   "stats": {
+    "views": 0
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T11:00:00",
    "id": "33085639",
    "title": "Эти женские бренды обуви мало кто знает — а по стилю они не уступают самым известным маркам 👢",
@@ -7565,7 +7577,7 @@
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T11:00:00",
    "id": "33087519",
    "title": "Чёрный верх и белый низ выглядят дорого. А наоборот — дёшево 👀",

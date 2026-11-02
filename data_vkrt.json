@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T09:00:32",
+ "updatedAt": "2026-11-02T09:07:15",
  "timezone": "Europe/Moscow",
  "since": "2026-09-01",
  "brands": [
@@ -6478,7 +6478,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/b0/38/b038efc25c142c1b25de9832fbeed08f.jpg",
    "duration": 46,
    "stats": {
-    "views": 115
+    "views": 116
    }
   },
   {
@@ -8257,7 +8257,7 @@
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-02T09:00:00",
    "id": "32224220",
    "title": "Сначала мамы покупали Crocs детям, теперь — сумки! 👜",
@@ -8269,7 +8269,7 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-02T09:00:00",
    "id": "33036157",
    "title": "Что можно купить за 1000 рублей, а что — за полмиллиона? От самых доступных пар до коллекционных редкостей, которые достать почти невозможно",

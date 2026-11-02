@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T14:24:21",
+ "updatedAt": "2026-11-02T19:50:40",
  "timezone": "Europe/Moscow",
  "since": "2026-09-01",
  "brands": [
@@ -6702,7 +6702,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/1e/b5/1eb55fab213ca5e15eb09da7646a5da7.jpg",
    "duration": 20,
    "stats": {
-    "views": 117
+    "views": 118
    }
   },
   {
@@ -6830,7 +6830,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/21/63/2163152cb3b7ddac8935e9281cad99f7.jpg",
    "duration": 52,
    "stats": {
-    "views": 58
+    "views": 68
    }
   },
   {
@@ -8394,7 +8394,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/7c/10/7c10a526d7c35806eb91040866e736a5.jpg",
    "duration": 51,
    "stats": {
-    "views": 94
+    "views": 113
    }
   },
   {
@@ -8450,7 +8450,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/dc/19/dc19f4b9d72458878c519a9cea106cba.jpg",
    "duration": 51,
    "stats": {
-    "views": 1
+    "views": 2
    }
   },
   {
@@ -8470,14 +8470,17 @@
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-02T15:00:00",
+   "status": "published",
+   "date": "2026-11-02T15:00:45",
    "id": "9fe2cd7f4e690ce6fc715b8ca65501d7",
    "title": "Гардероб: Как понять, что носить методом проб",
    "text": "Гардероб: Как понять, что носить методом проб\n\nУзнайте, как с помощью картинок разобрать свой гардероб и понять, чего не хватает для создания идеального стиля. Метод проб и ошибок поможет вам одеваться лучше.\n\nСмотрите полный выпуск на YouTube-канале SHOPOMANIIA\n@shopomaniia2012 — байер-сервис по доставке одежды из США и Европы\n\n#гардероб #стиль #мода #советыпостилю #шоппинг #одежда #модныйблог #стильныеобразы #модныйсовет #гардеробмечты",
    "url": "https://rutube.ru/video/9fe2cd7f4e690ce6fc715b8ca65501d7/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-28/91/eb/91eb187a5b69ab35ac74d16529ad1943.jpg",
+   "duration": 20,
+   "stats": {
+    "views": 0
+   }
   },
   {
    "brand": "peshkov",
@@ -8496,7 +8499,7 @@
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-02T17:00:00",
    "id": "32224237",
    "title": "Находка дня ✨",
@@ -8508,7 +8511,7 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-02T17:00:00",
    "id": "33036218",
    "title": "Оригинал или подделка — отличите на глаз? Два почти одинаковых ботинка, но разница проявляется в мелочах. А одна деталь выдаст копию уже пос",
@@ -8533,7 +8536,7 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-02T19:00:00",
    "id": "33086083",
    "title": "Почему одни кроссовки становятся легендой, а другие — нет 🔥",
@@ -8545,7 +8548,7 @@
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-02T19:00:00",
    "id": "33087727",
    "title": "Пуховики, которые носит даже Меган Маркл — и стоят они дешевле, чем кажется 🧥",

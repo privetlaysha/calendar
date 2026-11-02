@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T11:50:13",
+ "updatedAt": "2026-11-02T09:00:32",
  "timezone": "Europe/Moscow",
  "since": "2026-09-01",
  "brands": [
@@ -74,7 +74,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-04/c3/bf/c3bf7c8872f5ff1cde81fbe5078600e2.jpg",
    "duration": 413,
    "stats": {
-    "views": 69
+    "views": 73
    }
   },
   {
@@ -686,7 +686,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-17/1c/bd/1cbd8217c8d13cc56dfa06615e098511.jpg",
    "duration": 270,
    "stats": {
-    "views": 40
+    "views": 41
    }
   },
   {
@@ -926,7 +926,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-09-21/a2/6c/a26cae8a25b843673db5ef331a37c178.jpg",
    "duration": 72,
    "stats": {
-    "views": 118
+    "views": 121
    }
   },
   {
@@ -5698,7 +5698,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-20/b7/ec/b7ec448d59955c1cd286fe98ed4b52e5.jpg",
    "duration": 35,
    "stats": {
-    "views": 131
+    "views": 132
    }
   },
   {
@@ -6002,7 +6002,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-13/f9/42/f9426fd9654ebd8b6d405521e602c2a7.jpg",
    "duration": 367,
    "stats": {
-    "views": 2
+    "views": 3
    }
   },
   {
@@ -6462,7 +6462,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/27/e0/27e0d904668135128ffa5a43aa5e9fa8.jpg",
    "duration": 51,
    "stats": {
-    "views": 54
+    "views": 95
    }
   },
   {
@@ -6478,7 +6478,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/b0/38/b038efc25c142c1b25de9832fbeed08f.jpg",
    "duration": 46,
    "stats": {
-    "views": 52
+    "views": 115
    }
   },
   {
@@ -6566,7 +6566,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/56/73/567325a573b27231620228f8d204a8a4.jpg",
    "duration": 30,
    "stats": {
-    "views": 61
+    "views": 137
    }
   },
   {
@@ -6702,7 +6702,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/1e/b5/1eb55fab213ca5e15eb09da7646a5da7.jpg",
    "duration": 20,
    "stats": {
-    "views": 1
+    "views": 117
    }
   },
   {
@@ -6830,7 +6830,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/21/63/2163152cb3b7ddac8935e9281cad99f7.jpg",
    "duration": 52,
    "stats": {
-    "views": 55
+    "views": 58
    }
   },
   {
@@ -6894,7 +6894,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/1e/32/1e320435e578cdaa9275d23c6edf5b75.jpg",
    "duration": 405,
    "stats": {
-    "views": 3
+    "views": 4
    }
   },
   {
@@ -6990,7 +6990,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/bb/b3/bbb311f81229288e54d5cfb8bec37823.jpg",
    "duration": 65,
    "stats": {
-    "views": 1
+    "views": 342
    }
   },
   {
@@ -7086,7 +7086,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/12/6f/126ff501fb51bda790abed39c99e0c16.jpg",
    "duration": 27,
    "stats": {
-    "views": 1
+    "views": 108
    }
   },
   {
@@ -7158,7 +7158,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/23/d6/23d60a7dd37e9d286bb38a99f527965f.jpg",
    "duration": 27,
    "stats": {
-    "views": 0
+    "views": 4
    }
   },
   {
@@ -7230,7 +7230,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-26/8c/f8/8cf89a09723252a9627d6f9d3f78d5c5.jpg",
    "duration": 49,
    "stats": {
-    "views": 69
+    "views": 81
    }
   },
   {
@@ -7302,7 +7302,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-30/19/8f/198f4cccc18a779d68f86a04c0135879.jpg",
    "duration": 34,
    "stats": {
-    "views": 1
+    "views": 48
    }
   },
   {
@@ -7350,7 +7350,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/32/4c/324c84b0facc6e9f53fdcc907cd75e08.jpg",
    "duration": 67,
    "stats": {
-    "views": 12
+    "views": 13
    }
   },
   {
@@ -7526,7 +7526,7 @@
    "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/37/08/370898a1b096dab3b2b414b9906b9796.jpg",
    "duration": 32,
    "stats": {
-    "views": 0
+    "views": 1
    }
   },
   {
@@ -7589,33 +7589,39 @@
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T12:00:00",
+   "status": "published",
+   "date": "2026-10-31T12:00:13",
    "id": "143ccb75b6d93c1584d24d74e8266cf1",
    "title": "Jordan x Dior за 12 000 долларов против экскаватора",
    "text": "Кроссовки за 12 тысяч долларов под экскаватором. Их топили в грязи, стирали, поджигали и переезжали трактором. Сколько продержалась пара — смотрите до конца.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#кроссовки #Jordan #Dior #Nike",
    "url": "https://rutube.ru/video/143ccb75b6d93c1584d24d74e8266cf1/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/12/ac/12ac68d99b3ebe71de4f74b36ab78899.jpg",
+   "duration": 48,
+   "stats": {
+    "views": 0
+   }
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T12:00:00",
+   "status": "published",
+   "date": "2026-10-31T12:00:37",
    "id": "8da3bcd2387495c644c51b6e3ac29cd3",
    "title": "Michael Kors: Икона стиля и статуса в Америке",
    "text": "Michael Kors: Икона стиля и статуса в Америке\n\nMichael Kors - символ нью-йоркского ритма жизни. Его сумки, особенно Jet Set Travel Tote, созданы для динамичных людей. Узнаваемый дизайн и высокое качество делают бренд идеальным выбором для успешных.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#MichaelKors #Fashion #Luxury #Style #NewYork",
    "url": "https://rutube.ru/video/8da3bcd2387495c644c51b6e3ac29cd3/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/a7/86/a78612eb9c98374610e61a10266cc35b.jpg",
+   "duration": 41,
+   "stats": {
+    "views": 96
+   }
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T13:00:00",
    "id": "32225104",
    "title": "Шопомания 12",
@@ -7627,7 +7633,7 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T13:00:00",
    "id": "33035913",
    "title": "Какие кроссовки носит семья известных блогеров? У мамы — базовая классика, у папы — брутальная пара на каждый день, а у дочки кроссовки доро",
@@ -7636,75 +7642,90 @@
    "media": "https://ycs-media.postmypost.io/postmypost/upload/29b/b83/54365951.mp4"
   },
   {
-   "brand": "peshkov",
-   "platform": "rutube",
-   "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T13:30:00",
-   "id": "db851e45e9d8a0c142daaf30226ab26d",
-   "title": "Nike Air Zoom Pegasus, Asics и Adidas Ultraboost: для работы на ногах",
-   "text": "Работаете весь день на ногах? Три пары кроссовок, в которых это гораздо проще: лёгкие, мягкие и с отдачей на каждом шаге. Какая из них ваша — в видео.\n\nПонравилась пара? Пишите в директ @peshkov.shoes — привезём оригинал из США и Европы.\n\n#кроссовки #NikePegasus #Asics #AdidasUltraboost",
-   "url": "https://rutube.ru/video/db851e45e9d8a0c142daaf30226ab26d/",
-   "thumb": "",
-   "duration": 0
-  },
-  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T13:30:00",
+   "status": "published",
+   "date": "2026-10-31T13:30:19",
    "id": "afecb4b51069c8cdec029921da8fa451",
    "title": "Кружево: от одежды до декора дома – новый тренд!",
    "text": "Кружево: от одежды до декора дома – новый тренд!\n\nОткройте для себя возрождение кружева! Мы покажем, как этот вечный тренд вышел за рамки одежды, украшая наш дом салфетками, абажурами и даже свечами. Узнайте, как кружево преображает ваш интерьер и гардероб!\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#Кружево #Мода #Интерьер #Тренды2026 #ДомашнийДекор",
    "url": "https://rutube.ru/video/afecb4b51069c8cdec029921da8fa451/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/73/18/73185de2d5b799407e2caaef054dfa1e.jpg",
+   "duration": 26,
+   "stats": {
+    "views": 122
+   }
   },
   {
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T15:00:00",
-   "id": "e9758f6ce31e41982ab290bf53832ec5",
-   "title": "Vans — самая неудобная обувь?",
-   "text": "Vans — самая неудобная обувь? Выглядят стильно, но через пару часов ноги начинают жаловаться. Почему так происходит и как этого избежать — в видео.\n\nПонравилась пара? Пишите в директ @peshkov.shoes — привезём оригинал из США и Европы.\n\n#Vans #кеды #обувь #удобнаяобувь",
-   "url": "https://rutube.ru/video/e9758f6ce31e41982ab290bf53832ec5/",
-   "thumb": "",
-   "duration": 0
+   "status": "published",
+   "date": "2026-10-31T13:30:20",
+   "id": "db851e45e9d8a0c142daaf30226ab26d",
+   "title": "Nike Air Zoom Pegasus, Asics и Adidas Ultraboost: для работы на ногах",
+   "text": "Работаете весь день на ногах? Три пары кроссовок, в которых это гораздо проще: лёгкие, мягкие и с отдачей на каждом шаге. Какая из них ваша — в видео.\n\nПонравилась пара? Пишите в директ @peshkov.shoes — привезём оригинал из США и Европы.\n\n#кроссовки #NikePegasus #Asics #AdidasUltraboost",
+   "url": "https://rutube.ru/video/db851e45e9d8a0c142daaf30226ab26d/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/21/a8/21a867babc29e62f7b131405f98344b9.jpg",
+   "duration": 29,
+   "stats": {
+    "views": 2
+   }
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T15:00:00",
+   "status": "published",
+   "date": "2026-10-31T15:00:23",
    "id": "824bb9bb2a08124d14089f79807e3f3b",
    "title": "Бренды против Качества: Экономим на Наценке, не на Вещи!",
    "text": "Бренды против Качества: Экономим на Наценке, не на Вещи!\n\nМы раскрываем секрет брендов: экономия на наценке за имя, а не на качестве. Сравниваем вещи за 15 000 и 3 000 — разница часто только в этикетке. Узнайте, как делать умные покупки!\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#Бренды #Качество #Экономия #Покупки #Маркетинг",
    "url": "https://rutube.ru/video/824bb9bb2a08124d14089f79807e3f3b/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/f0/d1/f0d1e4c222e30ed7d0f3095ac82995e8.jpg",
+   "duration": 22,
+   "stats": {
+    "views": 2
+   }
   },
   {
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T16:30:00",
+   "status": "published",
+   "date": "2026-10-31T15:00:33",
+   "id": "e9758f6ce31e41982ab290bf53832ec5",
+   "title": "Vans — самая неудобная обувь?",
+   "text": "Vans — самая неудобная обувь? Выглядят стильно, но через пару часов ноги начинают жаловаться. Почему так происходит и как этого избежать — в видео.\n\nПонравилась пара? Пишите в директ @peshkov.shoes — привезём оригинал из США и Европы.\n\n#Vans #кеды #обувь #удобнаяобувь",
+   "url": "https://rutube.ru/video/e9758f6ce31e41982ab290bf53832ec5/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/69/66/696634ca84bebb450d6ede1614c224ec.jpg",
+   "duration": 26,
+   "stats": {
+    "views": 0
+   }
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "published",
+   "date": "2026-10-31T16:30:10",
    "id": "972de9d689c8fe2ced6d2d90c6e72774",
    "title": "90% людей выбирают кроссовки On неправильно",
    "text": "90% людей выбирают кроссовки On неправильно\n\nГлавная ошибка — взять беговую модель и ходить в ней в офис. Шпаргалка: Cloud Tilt — долгие прогулки и работа на ногах. Cloud X — зал и функционалка. Cloud 6 — универсал на каждый день. Cloudsurfer — мягкий бег. Cloudmonster — максимум амортизации. Сохраняй, чтобы не ошибиться.\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#on #oncloud #кроссовки #бег #peshkovshoes",
    "url": "https://rutube.ru/video/972de9d689c8fe2ced6d2d90c6e72774/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/2f/55/2f55a036aefb0da7d3a16414b5f857a3.jpg",
+   "duration": 55,
+   "stats": {
+    "views": 2
+   }
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T17:00:00",
    "id": "32225108",
    "title": "Шопомания 13",
@@ -7716,7 +7737,7 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T17:00:00",
    "id": "33035972",
    "title": "Nike продаёт грязные кроссовки. Эти Air Force выглядят так, будто вы месяц ходили по фестивалям, хотя купили их вчера. И даже щётка в компле",
@@ -7728,20 +7749,23 @@
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T18:00:00",
+   "status": "published",
+   "date": "2026-10-31T18:00:37",
    "id": "a93d629a3ec2ef093d3894e7cd41ce77",
    "title": "Резиновые сапоги Hunter: почему им 170 лет, а они в тренде",
    "text": "Резиновым сапогам Hunter 170 лет — а они снова главный тренд осени 👢\nПодберём размер и привезём из США — пишите менеджеру в наш Telegram (ссылка на канал с zенами в шапке профиля).\n\nПочему одну пару собирают вручную три дня и при чём тут мировые войны — смотрите в ролике 👀\n\nА вы бы носили резиновые сапоги в городе? Пишите 👇\n\nПодписывайтесь на @peshkov.shoes — показываем обувь, которой не страшна слякоть.\n\n#hunter #хантер #резиновыесапоги #сапоги #обувьнаосень #peshkovshoes",
    "url": "https://rutube.ru/video/a93d629a3ec2ef093d3894e7cd41ce77/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/10/92/1092051976d001f5ffb3515c29ab8047.jpg",
+   "duration": 58,
+   "stats": {
+    "views": 2
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T19:00:00",
    "id": "33085710",
    "title": "🔥 Самые трендовые и редкие новинки обуви от твоих любимых брендов — уже в нашем Telegram-канале!",
@@ -7753,7 +7777,7 @@
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T19:00:00",
    "id": "33087574",
    "title": "Бьюти-наборы Chanel к праздникам — лимитка, которую разбирают первой 🎄",
@@ -7765,20 +7789,23 @@
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T19:30:00",
+   "status": "published",
+   "date": "2026-10-31T19:30:07",
    "id": "660fd3cac0f12b3786829ba2fc915c2d",
    "title": "Самый переоценённый бренд обуви? On",
    "text": "Самый переоценённый бренд обуви? On\n\nNike или adidas? On или Hoka? Оригинал б/у или новая реплика? Гость подкаста отвечает без раздумий. И главный совет тем, кто покупает первые Nike: почитайте историю модели и выбирайте сердцем, а не хайпом. Ваши ответы — в комментариях 👇\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#nike #on #hoka #кроссовки #peshkovshoes",
    "url": "https://rutube.ru/video/660fd3cac0f12b3786829ba2fc915c2d/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/7d/2f/7d2f1d64a47a1fc3c958063403b47b31.jpg",
+   "duration": 41,
+   "stats": {
+    "views": 0
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "long",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T20:00:00",
    "id": "33084203",
    "title": "Кроссовки, которые ЛУЧШЕ и ДЕШЕВЛЕ New Balance и Nike! 5 брендов, которые знают только ЦЕНИТЕЛИ",
@@ -7790,7 +7817,7 @@
    "brand": "shopomania",
    "platform": "vk",
    "kind": "long",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T20:00:00",
    "id": "33084967",
    "title": "Купи ЭТО, если хочешь выглядеть СТИЛЬНО КАЖДЫЙ ДЕНЬ! Эксклюзивный ОБЗОР аутлета Karl Lagerfeld!",
@@ -7799,23 +7826,42 @@
    "media": "https://ycs-media.postmypost.io/postmypost/upload/737/c84/54445597.mp4"
   },
   {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "long",
+   "status": "published",
+   "date": "2026-10-31T20:00:19",
+   "id": "847613cec525cded2e7a3d2d3a463718",
+   "title": "Кроссовки, которые ЛУЧШЕ и ДЕШЕВЛЕ New Balance и Nike! 5 брендов, которые знают только ЦЕНИТЕЛИ",
+   "text": "🔹 Заказать женскую обувь из США и Европы со скидками: https://t.me/+PbbNbjaW1_kxNzU6\n🖤 Заказать мужскую обувь и одежду из США и Европы со скидками: https://t.me/+f2ct2Lp2Iqs3M2Fi\n👉 Брендовая женская одежда со скидками: https://t.me/+qCxy03Rq0H01NTky\n\n👋 Всем привет! С вами Карен и Peshkov.shoes, ведущий байер-сервис оригинальной брендовой обуви из США и Европы. 🇺🇸🇪🇺\n\n👟 Nike, Adidas и New Balance знают все. А эти 5 брендов знают только настоящие ценители стиля. В этом видео разбираем марки обуви, которые редко попадают в обзоры, но по качеству, комфорту и технологиям спокойно конкурируют с самыми громкими именами.\n\n❓ Какие кроссовки за четыре дня продали тысячу пар ещё до запуска производства, а теперь их носит вся Кремниевая долина?\n❓ Как ремешки от наручных часов создали целую категорию обуви?\n❓ Почему одни ботинки назвали в честь расстояния, которое они способны выдержать?\n❓ И что получилось, когда бывшие сотрудники Reebok перенесли технологию беговых кроссовок туда, где её никто не ждал?\n\n🔥 Смотрите до конца: последний бренд вас точно удивит!\n\n💬 Ставьте лайк и подписывайтесь на канал, чтобы не пропустить новые разборы брендов и узнать, где купить оригинальную обувь из США и Европы дешевле!\n\nНапишите в комментариях, какие бренды из подборки вы знали раньше?\n\n#обувь #кроссовки #брендыобуви #лучшиекроссовки #удобныекроссовки #мужскаяобувь #альтернативаnike #обзоркроссовок #стиль #мода #мода2026 #sneakers #peshkovshoes\n\n00:00 - Вступление\n00:42 - Бренд №1: кроссовки, в которых ходит вся КРЕМНИЕВАЯ ДОЛИНА\n01:32 - Бренд №2: ЛЕГЕНДА Дикого Запада с 1879 года\n02:27 - Бренд №3: как РЕМЕШКИ ОТ ЧАСОВ создали новую категорию обуви\n03:12 - Где купить ОРИГИНАЛ дешевле\n03:32 - Бренд №4: ботинки, которые выдерживают 1000 МИЛЬ\n04:44 - Бренд №5: технологии БЕГОВЫХ кроссовок там, где их никто не ждал\n06:06 - Итоги\n\nНаши соцсети:\n◼Дзен - https://dzen.ru/peshkovsh\n◼Рутуб - https://rutube.ru/channel/62248193/\n◼ВК - https://vk.com/peshkovshoes",
+   "url": "https://rutube.ru/video/847613cec525cded2e7a3d2d3a463718/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/68/92/6892f594ed5863dea16f370318563982.jpg",
+   "duration": 397,
+   "stats": {
+    "views": 2
+   }
+  },
+  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "long",
-   "status": "scheduled",
-   "date": "2026-10-31T20:00:00",
+   "status": "published",
+   "date": "2026-10-31T20:00:25",
    "id": "ea9bfc338e7998147793535775461ee8",
    "title": "Купи ЭТО, если хочешь выглядеть СТИЛЬНО КАЖДЫЙ ДЕНЬ! Эксклюзивный ОБЗОР аутлета Karl Lagerfeld!",
-   "text": "",
+   "text": "➡️ Заказать одежду и аксессуары из США и Европы: https://t.me/+gN2FRmYnVuoyYzQy\n🔹 Заказать обувь из США и Европы со скидками: https://t.me/+NM58SsY6n5M5ZDdi\n🖤 Одежда сегмента люкс из США и Европы для мужчин: https://t.me/+5IcsG0tPWEs5NzAy\n\n👋 Всем привет! В этом видео идём в флагманский аутлет Karl Lagerfeld в Америке и смотрим, что сейчас висит на вешалках. Разбираем новые коллекции бренда: что модно в этом сезоне, какие вещи стоит брать, а какие лучше оставить на полке, и сколько всё это стоит со скидками аутлета 🔥\n\n❓ Какие вещи из новой коллекции Karl Lagerfeld станут хитом сезона?\n❓ Что из аутлета выглядит дороже, чем стоит?\n❓ Какие модели легко впишутся в базовый гардероб?\n\n💬 Какая вещь из обзора понравилась вам больше всего? Пишите в комментариях 👇\n\n🛍 Где заказать оригинальный Karl Lagerfeld и другие бренды из США и Европы с доставкой, рассказываем в нашем Telegram-канале, ссылка в шапке профиля! Чтобы быстрее получить ответ, пишите нашему менеджеру в ТГ ♥️\n\n✅ Подписывайтесь, чтобы первыми узнавать о новинках и скидках любимых брендов 😍\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍\n\n#karllagerfeld #карллагерфельд #аутлет #мода #стиль #тренды #модныетренды #мода2026 #новаяколлекция #шопингвсша #брендоваяодежда #женскаяодежда #шопомания\n\n00:00 О чем выпуск?\n00:28  Обзор магазина Карл Лагерфельд\n00:50 Рубашки и платья\n02:09 Примерка платьев\n02:44 Интервью с генеральным директором\n09:50 Продолжаем примерку\n11:08 Обзор популярных позиций из магазина\n11:55 Обзор сумок\n13:37 Обзор обуви\n15:39 Обзор аксессуаров\n\n#karllagerfeld #карллагерфельд #аутлет #мода #стиль #тренды #модныетренды #мода2026 #новаяколлекция #шопингвсша #брендоваяодежда #женскаяодежда #шопомания",
    "url": "https://rutube.ru/video/ea9bfc338e7998147793535775461ee8/",
-   "thumb": "https://i.ytimg.com/vi/eAFYinXDsyk/maxresdefault.jpg",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/69/3d/693d760210911f5c7e156b83321d6d97.jpg",
+   "duration": 989,
+   "stats": {
+    "views": 0
+   }
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T21:00:00",
    "id": "32225110",
    "title": "Шопомания 2",
@@ -7827,7 +7873,7 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-10-31T21:00:00",
    "id": "33035995",
    "title": "Coach против Dior, UGG против Gucci, Nike против Adidas. Быстрая битва брендов — и победитель вас может удивить. А какой бренд выбрали бы вы",
@@ -7839,20 +7885,23 @@
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-10-31T21:00:00",
+   "status": "published",
+   "date": "2026-10-31T21:00:17",
    "id": "f6fae2ffe35a06ebf8b5faac54bbe7b4",
    "title": "Вся правда о качестве белых футболок за 30 секунд!",
    "text": "Вся правда о качестве белых футболок за 30 секунд! \n\nЗа что на самом деле мы отдаем деньги? Смотри видео и учись выбирать вещи, которые не растянутся.\n\n🚀 Еще больше топовых брендов на любой бюджет — у нас в тг! Подписывайся!\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы",
    "url": "https://rutube.ru/video/f6fae2ffe35a06ebf8b5faac54bbe7b4/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/13/b3/13b3d6c95d4b7ec929dd06dd2a057c33.jpg",
+   "duration": 77,
+   "stats": {
+    "views": 1
+   }
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T09:00:00",
    "id": "32225112",
    "title": "Шопомания 4",
@@ -7864,7 +7913,7 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T09:00:00",
    "id": "33036039",
    "title": "Кроссовки за 12 тысяч долларов под экскаватором. Их топили в грязи, стирали, поджигали и переезжали трактором. Сколько продержалась пара — с",
@@ -7873,62 +7922,74 @@
    "media": "https://ycs-media.postmypost.io/postmypost/upload/384/668/54366226.mp4"
   },
   {
-   "brand": "peshkov",
-   "platform": "rutube",
-   "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T09:00:00",
-   "id": "be9af4195817e69a164e8c81b6215f7a",
-   "title": "Лучшие кроссовки для бега: Nike Alphafly, Hoka Clifton 9 и другие",
-   "text": "В этих кроссовках вы будете не бегать, а летать. Пять пар для бега — от футуристичных моделей до тех, что можно носить каждый день. Выбирайте свою и сохраняйте, чтобы не потерять.\n\nПонравилась пара? Пишите в директ @peshkov.shoes — привезём оригинал из США и Европы.\n\n#кроссовки #бег #Hoka #Nike #NewBalance",
-   "url": "https://rutube.ru/video/be9af4195817e69a164e8c81b6215f7a/",
-   "thumb": "",
-   "duration": 0
-  },
-  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T09:00:00",
+   "status": "published",
+   "date": "2026-11-01T09:00:25",
    "id": "5f030f6c0c050de31980e684fd43f50d",
    "title": "✅Обязательно подписывайтесь, чтобы не пропускать предстоящие выгодные предложения любимых брендов 😍",
    "text": "✅Обязательно подписывайтесь, чтобы не пропускать предстоящие выгодные предложения любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
    "url": "https://rutube.ru/video/5f030f6c0c050de31980e684fd43f50d/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/61/f3/61f384ecc97b317723a10a8c50399813.jpg",
+   "duration": 61,
+   "stats": {
+    "views": 3
+   }
   },
   {
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T10:30:00",
+   "status": "published",
+   "date": "2026-11-01T09:00:38",
+   "id": "be9af4195817e69a164e8c81b6215f7a",
+   "title": "Лучшие кроссовки для бега: Nike Alphafly, Hoka Clifton 9 и другие",
+   "text": "В этих кроссовках вы будете не бегать, а летать. Пять пар для бега — от футуристичных моделей до тех, что можно носить каждый день. Выбирайте свою и сохраняйте, чтобы не потерять.\n\nПонравилась пара? Пишите в директ @peshkov.shoes — привезём оригинал из США и Европы.\n\n#кроссовки #бег #Hoka #Nike #NewBalance",
+   "url": "https://rutube.ru/video/be9af4195817e69a164e8c81b6215f7a/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/5e/d8/5ed80ce5534427bfc074db05164205a9.jpg",
+   "duration": 47,
+   "stats": {
+    "views": 2
+   }
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "published",
+   "date": "2026-11-01T10:30:12",
    "id": "69c48424c230df82dbf5205310c73b11",
    "title": "Как выглядят кроссовки за 1000, 10 000, 100 000 и 500 000 рублей",
    "text": "Что можно купить за 1000 рублей, а что — за полмиллиона? От самых доступных пар до коллекционных редкостей, которые достать почти невозможно. Посмотрите, где граница между обувью и искусством.\n\nПонравилась пара? Пишите в директ @peshkov.shoes — привезём оригинал из США и Европы.\n\n#кроссовки #Nike #Dior #коллекционныекроссовки",
    "url": "https://rutube.ru/video/69c48424c230df82dbf5205310c73b11/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/9d/1c/9d1c6c00464aae974c4e89e0b4e39eb9.jpg",
+   "duration": 48,
+   "stats": {
+    "views": 0
+   }
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T10:30:00",
+   "status": "published",
+   "date": "2026-11-01T10:30:12",
    "id": "4258c3d73015299abe06494c001ea596",
    "title": "Самая вирусная новинка от Dior- бальзам для губ в виде винтажного медальона",
    "text": "🤩Самая вирусная новинка от Dior- бальзам для губ в виде винтажного медальона, который крепится на телефон 🥰\nТакие вещи разлетаются моментально 🚀\n \nВсе новинки от Dior и их стоимость, вы сможете увидеть в нашем тг-канале ⤵️\n➡️Ссылка на канал в шапке профиля. \n🚀Чтобы быстрее получить ответ ✍🏻пишите напрямую менеджеру!\n💯 оrигинальная косметика!\n\nС уважением ♥️  \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
    "url": "https://rutube.ru/video/4258c3d73015299abe06494c001ea596/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/c3/be/c3be5c958e0c951960904dfbf75ed046.jpg",
+   "duration": 57,
+   "stats": {
+    "views": 1
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T11:00:00",
    "id": "33085755",
    "title": "Зачем терпеть боль в узкой обуви? 👟",
@@ -7940,7 +8001,7 @@
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T11:00:00",
    "id": "33087614",
    "title": "Zara снова в суде — на этот раз из-за духов 😳",
@@ -7949,36 +8010,42 @@
    "media": "https://ycs-media.postmypost.io/postmypost/upload/476/aff/54450397.mp4"
   },
   {
-   "brand": "peshkov",
-   "platform": "rutube",
-   "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T12:00:00",
-   "id": "861ccfce22ba421af2ff9940bf489218",
-   "title": "Balenciaga сошли с ума — и новая модель тому доказательство",
-   "text": "Balenciaga сошли с ума — и новая модель тому доказательство\n\nКроссовки-носки в 2015-м казались странными, но их носили все. Потом огромные Triple S — и их тоже носили. А дальше публика устала: убитые кроссовки за $2000 не купил никто, не сработали и XL. Бренд превзошёл сам себя, но интерес ушёл. А вы бы купили такие?\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#balenciaga #кроссовки #мода #peshkovshoes",
-   "url": "https://rutube.ru/video/861ccfce22ba421af2ff9940bf489218/",
-   "thumb": "",
-   "duration": 0
-  },
-  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T12:00:00",
+   "status": "published",
+   "date": "2026-11-01T12:00:17",
    "id": "2f9b0f849ef9a5ee039c8535ded6eb90",
    "title": "Сумки Marc Jacobs: Минимализм, Стиль и Узнаваемость",
    "text": "Сумки Marc Jacobs: Минимализм, Стиль и Узнаваемость\n\nОткройте для себя мир сумок Marc Jacobs! Сочетание минималистичного дизайна, узнаваемых деталей и доступной цены покоряет Instagram. Идеальное качество за разумные деньги — это не случайность, а продуманный маркетинг.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#MarcJacobs #Сумки #Мода #Стиль #Дизайн",
    "url": "https://rutube.ru/video/2f9b0f849ef9a5ee039c8535ded6eb90/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/af/35/af35af3fbf96a27f94d45a61c106d30d.jpg",
+   "duration": 16,
+   "stats": {
+    "views": 2
+   }
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "published",
+   "date": "2026-11-01T12:00:31",
+   "id": "861ccfce22ba421af2ff9940bf489218",
+   "title": "Balenciaga сошли с ума — и новая модель тому доказательство",
+   "text": "Balenciaga сошли с ума — и новая модель тому доказательство\n\nКроссовки-носки в 2015-м казались странными, но их носили все. Потом огромные Triple S — и их тоже носили. А дальше публика устала: убитые кроссовки за $2000 не купил никто, не сработали и XL. Бренд превзошёл сам себя, но интерес ушёл. А вы бы купили такие?\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#balenciaga #кроссовки #мода #peshkovshoes",
+   "url": "https://rutube.ru/video/861ccfce22ba421af2ff9940bf489218/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/a1/4d/a14d798df0c3ea23941cdaf43f411626.jpg",
+   "duration": 42,
+   "stats": {
+    "views": 1
+   }
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T13:00:00",
    "id": "32225115",
    "title": "Шопомания 6",
@@ -7990,7 +8057,7 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T13:00:00",
    "id": "33036061",
    "title": "Работаете весь день на ногах? Три пары кроссовок, в которых это гораздо проще: лёгкие, мягкие и с отдачей на каждом шаге. Какая из них ваша ",
@@ -8002,72 +8069,87 @@
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T13:30:00",
+   "status": "published",
+   "date": "2026-11-01T13:30:12",
    "id": "abfea0e86574b781c7547ef9ac89de89",
    "title": "Как распознать поддельные кроссовки: оригинал против копии",
    "text": "Оригинал или подделка — отличите на глаз? Два почти одинаковых ботинка, но разница проявляется в мелочах. А одна деталь выдаст копию уже после года носки.\n\nПонравилась пара? Пишите в директ @peshkov.shoes — привезём оригинал из США и Европы.\n\n#кроссовки #оригинал #подделка #какотличитьподделку",
    "url": "https://rutube.ru/video/abfea0e86574b781c7547ef9ac89de89/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/97/9d/979dd3fb63c91f262d8cd95580a81022.jpg",
+   "duration": 36,
+   "stats": {
+    "views": 0
+   }
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T13:30:00",
+   "status": "published",
+   "date": "2026-11-01T13:30:13",
    "id": "cdf8392ea351a14b25d94cfd2ff221cf",
    "title": "Трендовый шарф: как завернуться стильно этой зимой?",
    "text": "Трендовый шарф: как завернуться стильно этой зимой?\n\nОткройте для себя модный тренд – объемные шарфы! Мы покажем, как стильно повязать крупные, плотные шарфы, создавая эффект 'упакованной' шеи. Идеально для создания эффектных деталей образа!\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#мода #стиль #шарфы #тренды #зимняямода",
    "url": "https://rutube.ru/video/cdf8392ea351a14b25d94cfd2ff221cf/",
-   "thumb": "",
-   "duration": 0
-  },
-  {
-   "brand": "peshkov",
-   "platform": "rutube",
-   "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T15:00:00",
-   "id": "98906459e17bd2b768269eb0720f7867",
-   "title": "Puma x Черепашки-ниндзя: кроссовки с коробкой от пиццы",
-   "text": "Puma и Черепашки-ниндзя выпустили кроссовки. Пара в стиле Рафаэля, коробка как из пиццерии, а внутри — сюрприз в духе 80-х. С кем из черепашек хотели бы кроссовки вы?\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#кроссовки #Puma #черепашкининдзя #коллаборация",
-   "url": "https://rutube.ru/video/98906459e17bd2b768269eb0720f7867/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/27/a8/27a86f2e4cb09d094f20600ad502b990.jpg",
+   "duration": 22,
+   "stats": {
+    "views": 2
+   }
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T15:00:00",
+   "status": "published",
+   "date": "2026-11-01T15:00:27",
    "id": "86b6c69c7c53d95e181dded400ff2025",
    "title": "George at Asda: Дизайнерская одежда из супермаркета",
    "text": "George at Asda: Дизайнерская одежда из супермаркета\n\nУзнайте, как Джордж Дэвис, создатель известного британского бренда, запустил доступную линию одежды George at Asda. Идеальный крой и дизайнерский подход по супермаркетным ценам для всей семьи.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#GeorgeAtAsda #БрендыОдежды #ДизайнерскаяОдежда #ДоступнаяМода #МодаИзСупермаркета",
    "url": "https://rutube.ru/video/86b6c69c7c53d95e181dded400ff2025/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/d7/62/d762d4d0f6396ea003256ec88e5bc599.jpg",
+   "duration": 58,
+   "stats": {
+    "views": 3
+   }
   },
   {
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T16:30:00",
+   "status": "published",
+   "date": "2026-11-01T15:00:30",
+   "id": "98906459e17bd2b768269eb0720f7867",
+   "title": "Puma x Черепашки-ниндзя: кроссовки с коробкой от пиццы",
+   "text": "Puma и Черепашки-ниндзя выпустили кроссовки. Пара в стиле Рафаэля, коробка как из пиццерии, а внутри — сюрприз в духе 80-х. С кем из черепашек хотели бы кроссовки вы?\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#кроссовки #Puma #черепашкининдзя #коллаборация",
+   "url": "https://rutube.ru/video/98906459e17bd2b768269eb0720f7867/",
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/ce/a1/cea12483c6f7effb322fd57e455a0df1.jpg",
+   "duration": 26,
+   "stats": {
+    "views": 2
+   }
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "published",
+   "date": "2026-11-01T16:30:11",
    "id": "2ce415af42224571293f37cc6df59cf6",
    "title": "А у вас какие — Onitsuka или ASICS? Пишите 👇",
    "text": "Onitsuka Tiger и ASICS — почему у них одинаковый логотип? 👟\n\nДва разных бренда, а полоски на кроссовках одни и те же. И это совсем не совпадение.\n\nРассказал в ролике, как так вышло 👀\n\nА у вас какие — Onitsuka или ASICS? Пишите 👇\n\n👟 Оригинальные Onitsuka Tiger и ASICS — в нашем Telegram-канале, ссылка в шапке профиля!\n\nС уважением,\n@peshkov.shoes — байер-сервис и доставка брендовой обуви из США и Европы по всему миру.\n\n#onitsukatiger #asics #оницукатигр #асикс #кроссовки #обувь #мода #стиль",
    "url": "https://rutube.ru/video/2ce415af42224571293f37cc6df59cf6/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/3b/61/3b61074d5e03ca5bca06815b228be560.jpg",
+   "duration": 76,
+   "stats": {
+    "views": 2
+   }
   },
   {
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T17:00:00",
    "id": "32225117",
    "title": "Эти цвета молодят",
@@ -8079,7 +8161,7 @@
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T17:00:00",
    "id": "33036088",
    "title": "Vans — самая неудобная обувь? Выглядят стильно, но через пару часов ноги начинают жаловаться. Почему так происходит и как этого избежать — в",
@@ -8091,20 +8173,23 @@
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T18:00:00",
+   "status": "published",
+   "date": "2026-11-01T18:00:14",
    "id": "1b02e280c3cfb0d8b4e571eb84f77b1b",
    "title": "Эти женские бренды обуви мало кто знает — а по стилю они не уступают самым известным маркам 👢",
    "text": "Эти женские бренды обуви мало кто знает — а по стилю они не уступают самым известным маркам 👢\nЗаказать оригинал из США и Европы — пишите в директ или в наш Telegram (ссылка в шапке профиля).\n\nОдин бренд старше почти всего в вашем шкафу, другой прославился за один день. Кто третий — в конце ролика.\n\nПодписывайтесь на @peshkov.shoes — рассказываем об обуви, которая служит годами.\n \n#женскаяобувь #сапоги #ботильоны #оригинальнаяобувь #пешковшуз",
    "url": "https://rutube.ru/video/1b02e280c3cfb0d8b4e571eb84f77b1b/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/fe/47/fe47a33c5e5da71b32f8dd69cf031b3c.jpg",
+   "duration": 77,
+   "stats": {
+    "views": 2
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T19:00:00",
    "id": "33085927",
    "title": "Кроссовки на Gore-Tex на осень — и не за ползарплаты 🌧",
@@ -8116,7 +8201,7 @@
    "brand": "shopomania",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T19:00:00",
    "id": "33087635",
    "title": "Мужчины никогда не поймут это чувство 💅",
@@ -8128,20 +8213,23 @@
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T19:30:00",
+   "status": "published",
+   "date": "2026-11-01T19:30:13",
    "id": "c2adadcad07cbe65ea411cc911810223",
    "title": "Air Max, Air Force 1, Air Jordan 1: лучшая, худшая или ни о чём",
    "text": "Air Jordan 1 — худшая модель Nike прямо сейчас? Эксперт честно оценивает самые известные пары бренда, от Air Max 90 до Cortez. Некоторые ответы вас точно удивят.\n\nПишите в директ и подписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы.\n\n#nike #airmax #airjordan1 #airforce1 #кроссовки",
    "url": "https://rutube.ru/video/c2adadcad07cbe65ea411cc911810223/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/c2/74/c274dd416d24423d1b826da657d4a362.jpg",
+   "duration": 51,
+   "stats": {
+    "views": 1
+   }
   },
   {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "short",
-   "status": "scheduled",
+   "status": "error",
    "date": "2026-11-01T21:00:00",
    "id": "33036115",
    "title": "В этих кроссовках вы будете не бегать, а летать. Пять пар для бега — от футуристичных моделей до тех, что можно носить каждый день. Выбирайт",
@@ -8153,14 +8241,17 @@
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-01T21:00:00",
+   "status": "published",
+   "date": "2026-11-01T21:00:15",
    "id": "d2c6242171538e82689918a9caec865a",
    "title": "Этих кроссовок могло и не быть, но они стали культовыми 🏀",
    "text": "Этих кроссовок могло и не быть, но они стали культовыми 🏀\nAir Jordan 3 привезём в вашем размере — пишите в директ или в наш Telegram (ссылка в шапке профиля).\n\nТри «впервые» в одной модели и знаменитый прыжок Майкла Джордана с линии штрафного — смотрите в ролике 👀\n\nЕсть Jordan 3 в коллекции? Пишите в комментариях 👇\n\nПодписывайтесь на @peshkov.shoes — байер-сервис и доставка оригинальной обуви из США и Европы 🌍\n\n#airjordan3 #jordan3 #джорданы #кроссовки #peshkovshoes",
    "url": "https://rutube.ru/video/d2c6242171538e82689918a9caec865a/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-29/b2/bc/b2bc97865dfc3099f76372d754086692.jpg",
+   "duration": 54,
+   "stats": {
+    "views": 0
+   }
   },
   {
    "brand": "shopomania",
@@ -8190,27 +8281,33 @@
    "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-02T09:00:00",
+   "status": "published",
+   "date": "2026-11-02T09:00:17",
    "id": "1f1e0eb8e812ee5ab0c768d4eaef7510",
    "title": "Nike в стиле Наруто: кроссовки, которые так и не вышли",
    "text": "Баскетболист не выиграл ни одного матча, но уговорил Nike сделать кроссовки в стиле аниме. До релиза пара так и не дошла, и ходят слухи почему. Как так вышло — рассказываем в видео.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#кроссовки #Nike #Наруто #баскетбол",
    "url": "https://rutube.ru/video/1f1e0eb8e812ee5ab0c768d4eaef7510/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/01/47/01470c67cf789f2da2baa77ff686c60f.jpg",
+   "duration": 38,
+   "stats": {
+    "views": 1
+   }
   },
   {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
-   "status": "scheduled",
-   "date": "2026-11-02T09:00:00",
+   "status": "published",
+   "date": "2026-11-02T09:00:42",
    "id": "df25630c0e66f3ea7666ad7467315fab",
    "title": "Адвент-календарь KIKO Milano — Новый год уже здесь 🎄",
    "text": "Адвент-календарь KIKO Milano — Новый год уже здесь 🎄\n\nКрасная шкатулка с золотым узором в стиле ар-деко, а внутри — окошки с косметикой, которые открываешь по одному до самых праздников. Такой подарок хочется оставить себе и подарить подругам.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#kiko #адвенткалендарь #новыйгод #подарок",
    "url": "https://rutube.ru/video/df25630c0e66f3ea7666ad7467315fab/",
-   "thumb": "",
-   "duration": 0
+   "thumb": "https://pic.rtbcdn.ru/video/2026-10-27/63/62/6362bf186490fa90f36dada2156362b4.jpg",
+   "duration": 21,
+   "stats": {
+    "views": 0
+   }
   },
   {
    "brand": "peshkov",
@@ -10740,6 +10837,30 @@
   },
   {
    "brand": "peshkov",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T09:00:00",
+   "id": "33037366",
+   "title": "Как выглядеть на миллион и не потратить миллион? Хватит восьми простых вещей — и комбинаций хватит на целый сезон. В видео одна вещь работае",
+   "text": "Как выглядеть на миллион и не потратить миллион? Хватит восьми простых вещей — и комбинаций хватит на целый сезон. В видео одна вещь работает сразу в двух образах, а про одни джинсы лучше забыть навсегда. Досмотрите до обуви — там три пары, которые закрывают почти любой случай.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#базовыйгардероб #мужскойстиль #стиль #обувь",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/f7e/e74/54368283.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T09:00:00",
+   "id": "33088172",
+   "title": "Из бедности в модную империю: история из Ливерпуля",
+   "text": "Из бедности в модную империю: история из Ливерпуля\n\nКак парень из Ливерпуля начал с нуля и построил модную империю: от склада для клубных покупателей до сети магазинов одежды, где минимум посредников и максимум выгоды.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#мода #бренды #историябренда #бизнес #британскийбренд",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/572/309/54451266.mp4"
+  },
+  {
+   "brand": "peshkov",
    "platform": "rutube",
    "kind": "short",
    "status": "scheduled",
@@ -10765,6 +10886,19 @@
    "duration": 0
   },
   {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T10:30:00",
+   "id": "7c56898e6bab77a207f52f1aefeea84b",
+   "title": "5 пар мужской обуви, которые выглядят дорого: оксфорды, дерби, лоферы",
+   "text": "Какая обувь делает даже обычный костюм солидным? Пять классических пар — от цельнокроенных оксфордов до ботинок, которые придумали для верховой езды. Одна из них добавит образу вайб британского аристократа.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#мужскаяобувь #оксфорды #лоферы #дерби #классика",
+   "url": "https://rutube.ru/video/7c56898e6bab77a207f52f1aefeea84b/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
@@ -10774,6 +10908,19 @@
    "title": "Если вы фанат Гарри Поттера — этот набор просто создан для атмосферных вечеров.😍🪄",
    "text": "Если вы фанат Гарри Поттера — этот набор просто создан для атмосферных вечеров.😍🪄\n\nЭтот и другие наборы Вы можете заказать у нас по оригинальным ценам 🥰т. е без переплат 😉\n\n➡️вся информация в нашем тг-канале\n🔗Ссылка на канал в шапке профиля\n\n✅Обязательно подписывайтесь, чтобы не пропускать предстоящие skidки любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
    "url": "https://rutube.ru/video/d54e78fd1ec01d0ae8320f1ebcc91c16/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T12:00:00",
+   "id": "74a110c27196af283a746f0ba00f42e9",
+   "title": "Какие кроссовки носит Токсис",
+   "text": "Рэпер со всенародным хитом носит всего две пары обуви. Если пересмотреть его ролики и фото, везде одно и то же. Что это за пары и сколько они стоят — в видео.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#кроссовки #обувьзвезд #рэп #стиль",
+   "url": "https://rutube.ru/video/74a110c27196af283a746f0ba00f42e9/",
    "thumb": "",
    "duration": 0
   },
@@ -10791,6 +10938,43 @@
    "duration": 0
   },
   {
+   "brand": "peshkov",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T13:00:00",
+   "id": "33037404",
+   "title": "Три стиля, которые подойдут каждому мужчине. Один из них закрывает 80% жизни, второй выручает перед важной встречей, а в третьем любой выгля",
+   "text": "Три стиля, которые подойдут каждому мужчине. Один из них закрывает 80% жизни, второй выручает перед важной встречей, а в третьем любой выглядит как Джеймс Бонд. Есть одно правило, которое нельзя нарушать, — узнаете в видео.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#мужскойстиль #кэжуал #смарткэжуал #стиль",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/da0/794/54368338.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T13:00:00",
+   "id": "33088185",
+   "title": "Классические юбочные костюмы: ваш ключ к элегантности",
+   "text": "Классические юбочные костюмы: ваш ключ к элегантности\n\nОткройте для себя элегантность костюмов с юбкой! Мы обсудим идеальную длину юбки, пропорции фигуры и модные жакеты. Погрузитесь в мир женственности и стиля с нашими советами!\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#КостюмысЮбкой #Женственность #Стиль #Мода #Элегантность",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/d69/3ce/54451282.mp4"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T13:30:00",
+   "id": "9b036b097841dfde1df4e25089cff13c",
+   "title": "За эти кроссовки в России к вам придут люди в форме",
+   "text": "За эти кроссовки в России к вам придут люди в форме\n\nКаждый год 20 апреля adidas выпускают лимитку — дата, сами понимаете, не случайная. Campus 80 «Croptober»: сверху обёрнуты коричневой бумагой, под ней ярко-зелёная замша, а стелька — в психоделическом тай-дае. В Америке их носят спокойно. Безумные коллабы мировых брендов — в нашем Telegram.\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#adidas #campus #кроссовки #коллаборации #peshkovshoes",
+   "url": "https://rutube.ru/video/9b036b097841dfde1df4e25089cff13c/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
@@ -10800,6 +10984,19 @@
    "title": "Самые классные адвент-календари этого года разлетаются как горячие пирожки!",
    "text": "Самые классные адвент-календари этого года разлетаются как горячие пирожки!😭🔥\n\nЕсли откладывать покупку на декабрь, останутся только пустые полки или огромная переплата. Собрали подборку лучших бьюти - адвентов. \n\n👇 ВСЕ АДВЕНТЫ УЖЕ В НАШЕМ ТГ-КАНАЛЕ! Ссылка в шапке профиля!\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
    "url": "https://rutube.ru/video/c6e4b8c202e910fc3a3f08e97f724d03/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T15:00:00",
+   "id": "038aeec6b3aa5ff75e2b19f71c1e1716",
+   "title": "Nike Dunk с отсылкой к 4.20: всего 420 пронумерованных пар",
+   "text": "Кроссовки, за которые на вас точно будут странно смотреть. Nike выпустили Dunk в двух оттенках фиолетового и с очень говорящей отсылкой. Каждая пара пронумерована, а коробка заслуживает отдельного внимания.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Nike #NikeDunk #лимитка #кроссовки",
+   "url": "https://rutube.ru/video/038aeec6b3aa5ff75e2b19f71c1e1716/",
    "thumb": "",
    "duration": 0
   },
@@ -10817,6 +11014,91 @@
    "duration": 0
   },
   {
+   "brand": "peshkov",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T17:00:00",
+   "id": "33037430",
+   "title": "Обувь, которая растёт вместе с ногой, — звучит как фантастика, но такая уже существует. Одну пару могут носить несколько лет подряд, и вот з",
+   "text": "Обувь, которая растёт вместе с ногой, — звучит как фантастика, но такая уже существует. Одну пару могут носить несколько лет подряд, и вот зачем её придумали. А что, если бы так же можно было модернизировать и обычные кроссовки?\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#обувь #кроссовки #технологии #интересныефакты",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/2e6/18a/54368400.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T17:00:00",
+   "id": "33088226",
+   "title": "Адвент - календарь 2026 от L’Oréal🤩",
+   "text": "Адвент - календарь 2026 от L’Oréal🤩\n12 окошек с самыми лучшими и популярными продуктами🔥\n\nтгк: shopomaniia2012\nЕще больше адвент-календарей 2026 с ценами Вы найдёте в нашем тг-канале!\n📎Ссылка на канал в шапке профиля\n\n#Макияж #Адвенткалендарь #Распаковка #Бьюти #Бренды\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/3ef/afb/54451328.mp4"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T21:00:00",
+   "id": "33037464",
+   "title": "Обувь действительно разнашивается или это миф? Ответ зависит от материала — и от вашей ноги. Одни пары растянутся без проблем, а с другими с",
+   "text": "Обувь действительно разнашивается или это миф? Ответ зависит от материала — и от вашей ноги. Одни пары растянутся без проблем, а с другими скорее пострадают пальцы и ногти, чем сама обувь. Досмотрите, чтобы понять, какую пару лучше не брать «на вырост».\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#обувь #какразноситьобувь #кроссовки #советы",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/710/6f2/54368461.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-11T21:00:00",
+   "id": "33088268",
+   "title": "Испанский бренд: Элегантность, о которой вы не знали",
+   "text": "Испанский бренд: Элегантность, о которой вы не знали\n\nИстория испанского бренда, рожденного в Оренсе в 1950 году. Узнайте, как они произвели революцию в моде, сделав ставку на натуральные ткани и естественную элегантность. Погрузитесь в мир сдержанного стиля.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#ИспанскийБренд #Мода #Элегантность #Стиль #ИсторияМоды",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/ccb/a4f/54451410.mp4"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T09:00:00",
+   "id": "33037487",
+   "title": "Nike и SKIMS выпустили обувь, которая похожа на детские сандалии. Это Rift Mesh с раздвоенным носком в стиле таби — и все размеры разлетелис",
+   "text": "Nike и SKIMS выпустили обувь, которая похожа на детские сандалии. Это Rift Mesh с раздвоенным носком в стиле таби — и все размеры разлетелись за считанные минуты. Почему о них мечтают девушки и как такие носить — в видео.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Nike #SKIMS #RiftMesh #кроссовки",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/fe5/391/54368550.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T09:00:00",
+   "id": "33088279",
+   "title": "Секретный код Zara, о котором почти никто не знает 🤫",
+   "text": "Секретный код Zara, о котором почти никто не знает 🤫\n\nОказывается, по цвету бирки можно понять качество вещи ещё до примерки 😳 Белая, чёрная или коричневая: какая из них означает премиум? Ответ в ролике, досмотри до конца 👀\n\n📌 Сохрани, чтобы вспомнить в следующий раз в примерочной!\n\nА ты знала про этот секрет? Пиши в комментариях 👇\n\n🛍 Где заказать оригинальные вещи Zara и других брендов из США и Европы, рассказали в нашем Telegram-канале, ссылка в шапке профиля!\n\n✅ Подписывайся, чтобы первыми узнавать о новинках и секретах любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍\n\n#zara #шопинг #зара #биркизара #базовыйгардероб #мода #лайфхаки #стилист #шопомания #байерсервис",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/6ee/a0d/54451459.mp4"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T09:00:00",
+   "id": "6fe60b4c10872dc69a9892bf5a89a085",
+   "title": "Что означают полоска и клетка на мужском костюме",
+   "text": "Полоска на костюме — это не узор, а целый язык. Когда-то по ней можно было понять, где человек работает, а клетку однажды вообще запретили законом. Досмотрите, чтобы узнать, что на самом деле говорит ваш костюм.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#мужскойкостюм #мужскойстиль #историямоды #стиль",
+   "url": "https://rutube.ru/video/6fe60b4c10872dc69a9892bf5a89a085/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
@@ -10826,6 +11108,19 @@
    "title": "Шесть брендов обуви, которых мало кто знает. А по удобству, посадке и цене они рвут распиаренные Nik",
    "text": "Шесть брендов обуви, которых мало кто знает. А по удобству, посадке и цене они рвут распиаренные Nike и Adidas.\n\nПривезём любую пару из США. Только оригинал, любой личный запрос. Пиши в директ.\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
    "url": "https://rutube.ru/video/403d5117907db3bbf3b00d00b591a4b5/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T10:30:00",
+   "id": "8a5ca11effc22b2b13718f883a46e08e",
+   "title": "50 Cent в двух костюмах: почему посадка важнее бренда",
+   "text": "Легенда рэпа в неудачном костюме выглядит как босс с маркетплейса. Сравните два образа одного человека — разница бросается в глаза. Почему правильная посадка важнее, чем кажется, — в видео.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#мужскойстиль #костюм #стильзвезд #стиль",
+   "url": "https://rutube.ru/video/8a5ca11effc22b2b13718f883a46e08e/",
    "thumb": "",
    "duration": 0
   },
@@ -10843,6 +11138,19 @@
    "duration": 0
   },
   {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T12:00:00",
+   "id": "49e600fea15735161343e50c0efc6f6a",
+   "title": "Как выглядеть круто без идеальной внешности",
+   "text": "Ты не хуже Брэда Питта — и сейчас это станет понятно. Самых красивых мужчин планеты одели как на шашлыки, и вся магия исчезла за секунду. К чему этот эксперимент — в конце видео.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#мужскойстиль #стиль #образ #мода",
+   "url": "https://rutube.ru/video/49e600fea15735161343e50c0efc6f6a/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
@@ -10852,6 +11160,43 @@
    "title": "В США их берут на распродажах. У нас они читаются как статус",
    "text": "В США их берут на распродажах. У нас они читаются как статус.\n\nCoach в аутлете — 80–120 долларов за сумку. Поло Ralph Lauren — 35–50, у нас та же рубашка 12–15 тысяч. Levi's 501 — 70–80. Бельё Victoria's Secret — три штуки за двадцать. Футболка Gap — 15–20.\n\nРазница не в качестве. В том, когда и как бренд попал в культуру.\n\nТринадцать лет привозим одежду и обувь из США и Европы. Каталоги — по ссылке в профиле.\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
    "url": "https://rutube.ru/video/d293ff1361d7791d10265e57dfca8807/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T13:00:00",
+   "id": "33037515",
+   "title": "Очки Ray-Ban, которые снимают видео и подсказывают текст прямо в линзе. Камера в дужках, переводчик в реальном времени и управление движения",
+   "text": "Очки Ray-Ban, которые снимают видео и подсказывают текст прямо в линзе. Камера в дужках, переводчик в реальном времени и управление движениями пальцев — а выглядят как обычные Ray-Ban. Досмотрите, чтобы узнать, сколько они весят.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#RayBan #Meta #умныеочки #гаджеты",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/2c9/1f5/54368609.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T13:00:00",
+   "id": "33096148",
+   "title": "Баска: Четвертый тренд, подчеркивающий женственность и фигуру",
+   "text": "Баска: Четвертый тренд, подчеркивающий женственность и фигуру\n\nОткройте для себя тренд на баску! Мы покажем, как этот элегантный элемент подчеркивает женственность и корректирует фигуру, предлагая стильные решения от Ann Taylor. Идеально для создания утонченного образа!\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#баска #женственность #мода #стиль #тренды2026",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/d77/b1c/54463666.mp4"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T13:30:00",
+   "id": "0b27356d6668c4ffa9892144f636bbd4",
+   "title": "Saucony: обувь этого бренда побывала в космосе",
+   "text": "Обувь этого бренда побывала на Луне. В 60-х компания получила контракт от NASA на ботинки для астронавтов. Догадаетесь, о каком кроссовочном бренде речь?\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#Saucony #кроссовки #NASA #историябрендов",
+   "url": "https://rutube.ru/video/0b27356d6668c4ffa9892144f636bbd4/",
    "thumb": "",
    "duration": 0
   },
@@ -10869,6 +11214,19 @@
    "duration": 0
   },
   {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T15:00:00",
+   "id": "637eb1807fdf2050bad29b19e0b55ebf",
+   "title": "Почему бренды не уважают своих покупателей",
+   "text": "В брендах кроссовок работают люди, которые не любят кроссовки. Так считает один из главных коллекционеров Saucony в мире — и у него есть примеры. Что не так с рекламой больших брендов — в видео.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Saucony #коллекционер #кроссовки #сникеры",
+   "url": "https://rutube.ru/video/637eb1807fdf2050bad29b19e0b55ebf/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
@@ -10878,6 +11236,67 @@
    "title": "Rhode x Alexandra Leclerc!",
    "text": "Главный бьюти-дроп этой осени: Rhode x Alexandra Leclerc! ✨ Хейли Бибер объединилась с главной иконой стиля паддока Ф-1 Александрой Леклер для создания сияющей лимитированной капсулы. Внутри — мини-румяна, превращающиеся в брелок для сумки. Рассматриваем поближе! \n\n👇 Пишите в комментариях и подписывайтесь, чтобы первыми узнавать о мировых бьюти-новинках!\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
    "url": "https://rutube.ru/video/26dec0d5539376804ac849801fbb0430/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T17:00:00",
+   "id": "33037552",
+   "title": "Чёрные носки летом — ошибка, которую делают почти все. С кроссовками, лоферами и кедами правила разные, а в одном случае носки лучше не наде",
+   "text": "Чёрные носки летом — ошибка, которую делают почти все. С кроссовками, лоферами и кедами правила разные, а в одном случае носки лучше не надевать вовсе. А вы носите чёрные носки? Пишите в комментариях.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#носки #мужскойстиль #лоферы #кроссовки",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/538/ff7/54368679.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T17:00:00",
+   "id": "33096163",
+   "title": "Adidas и Asos выпустили свою 05 коллекцию и она невероятно стильная 😍",
+   "text": "Adidas и Asos выпустили свою 05 коллекцию и она невероятно стильная 😍\nВесь каталог мы собрали в нашем тг-канале \n➡️Ссылка на тг- канал в шапке профиля!\n\nС уважением ♥️  \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/f37/3a5/54463707.mp4"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T21:00:00",
+   "id": "33037592",
+   "title": "Из мальчика в мужчину за одну минуту — без дорогих брендов. Пять простых правил: от длины футболки до обуви, где чем проще, тем взрослее. Пр",
+   "text": "Из мальчика в мужчину за одну минуту — без дорогих брендов. Пять простых правил: от длины футболки до обуви, где чем проще, тем взрослее. Проверьте, сколько пунктов вы уже нарушаете.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#мужскойстиль #базовыйгардероб #стиль #обувь",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/186/c00/54368723.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "vk",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-12T21:00:00",
+   "id": "33096173",
+   "title": "Matalan: Стильная одежда от 1600 рублей",
+   "text": "Matalan: Стильная одежда от 1600 рублей\n\nОткройте для себя Matalan – бренд, предлагающий стильную повседневную одежду, от удобных платьев до пальто. Специальные линейки для невысоких и больших размеров. Качество по доступной цене.\n\nС уважением 💙\n@shopomaniia2012 — байер-сервис, доставка брендов из США и Европы\n\n#Matalan #МоднаяОдежда #ПовседневныйСтиль #ДоступнаяРоскошь #ЖенскаяОдежда",
+   "url": "",
+   "media": "https://ycs-media.postmypost.io/postmypost/upload/3ca/d0b/54463730.mp4"
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-13T09:00:00",
+   "id": "4a5bbe12fb8f34b2e9de6e9c9f2835ce",
+   "title": "Как бренды на самом деле относятся к коллекционерам",
+   "text": "Бренд кроссовок вспоминает о коллекционере только тогда, когда ему что-то нужно. Юбилей модели, переиздание, пустой архив — и вдруг приходит письмо с обещаниями. Чем это заканчивается, коллекционер рассказывает сам.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#коллекционер #кроссовки #Saucony #сникеры",
+   "url": "https://rutube.ru/video/4a5bbe12fb8f34b2e9de6e9c9f2835ce/",
    "thumb": "",
    "duration": 0
   },
@@ -10895,6 +11314,19 @@
    "duration": 0
   },
   {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-13T10:30:00",
+   "id": "2469471a40f9e460812ab01a0c3601d2",
+   "title": "Шнурки, которые не нужно завязывать",
+   "text": "Шнурки, которые больше никогда не развяжутся. Их вставляют в кроссовки один раз — и обувь надевается за секунду, как шлёпки. В чём секрет материала и почему ноги не устают даже к вечеру — в видео.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#шнурки #кроссовки #лайфхак #обувь",
+   "url": "https://rutube.ru/video/2469471a40f9e460812ab01a0c3601d2/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
    "brand": "shopomania",
    "platform": "rutube",
    "kind": "short",
@@ -10904,6 +11336,214 @@
    "title": "Самый популярный костюм на осень от Adidas",
    "text": "Самый популярный костюм на осень от Adidas 😍\n\nЧтобы узнать стоимость и посмотреть другие варианты\n➡️вся информация в нашем тг-канале\n🔗Ссылка на канал в шапке профиля\n\n✅Обязательно подписывайтесь, чтобы не пропускать предстоящие skidки любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
    "url": "https://rutube.ru/video/72126ae7956243e5729f866dfac95a74/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-13T12:00:00",
+   "id": "d1406fed1ae87affa691aaa717a116df",
+   "title": "Самые дорогие кроссовки Saucony в коллекции",
+   "text": "Кроссовки Saucony за тысячи евро — и одну такую пару просто подарили. В коллекции есть сэмплы, которые так и не вышли в продажу, возможно, единственные в мире. Сколько стоят самые редкие пары — в видео.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Saucony #коллекционер #редкиекроссовки #сникеры",
+   "url": "https://rutube.ru/video/d1406fed1ae87affa691aaa717a116df/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-13T12:00:00",
+   "id": "2062a7230c407874e0aece6c325ccddd",
+   "title": "Alessandro Michele завирусился",
+   "text": "Alessandro Michele завирусился в сети, благодаря своей реакции на Vogue World во время парада роботов, которые захватили подиум.\n\n😍Обязательно подписывайтесь, чтобы не пропускать предстоящие skidки любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
+   "url": "https://rutube.ru/video/2062a7230c407874e0aece6c325ccddd/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-13T13:30:00",
+   "id": "88055c75bc6b3264a0ef70acc34968d5",
+   "title": "Письмо от бренда коллекционеру: «Не ломай нам цену на eBay»",
+   "text": "Бренд кроссовок попросил коллекционера не перебивать его на eBay. Письмо пришло прямо из штаб-квартиры в Лондоне. Почему бренд покупает свои же старые пары — и где на самом деле крупнейшая коллекция Saucony.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Saucony #коллекционер #кроссовки #eBay",
+   "url": "https://rutube.ru/video/88055c75bc6b3264a0ef70acc34968d5/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-13T13:30:00",
+   "id": "2e0de1392a84f11ba1b90cba86b02d03",
+   "title": "Адвент- календарь от Dyson",
+   "text": "Адвент- календарь от Dyson🤩\nСамая неожиданная новость этой недели 🔥\nКалендарь состоит из 12 ящиков с продуктами и аксессуарами для ухода за волосами.\n\nЧтобы узнать стоимость и заказать \n➡️вся информация в нашем тг-канале\n🔗Ссылка на канал в шапке профиля\n\n✅Обязательно подписывайтесь, чтобы не пропускать предстоящие skidки любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
+   "url": "https://rutube.ru/video/2e0de1392a84f11ba1b90cba86b02d03/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-13T15:00:00",
+   "id": "271d020b7376acf4ae6f19296f4baf47",
+   "title": "Lay's x Saucony: кроссовки со вкусом чипсов",
+   "text": "Кроссовки со вкусом чипсов — это не шутка. Lay's и Saucony выпустили три модели в трёх вкусах, и каждая пара упакована необычно. Какой вкус выбрали бы вы? Пишите в комментариях.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Saucony #Lays #коллаборация #кроссовки",
+   "url": "https://rutube.ru/video/271d020b7376acf4ae6f19296f4baf47/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-13T15:00:00",
+   "id": "39fdbb7407f357068f6bab388526d291",
+   "title": "Зализанный пучок в зале — это больше не про тонну лака для волос",
+   "text": "Зализанный пучок в зале — это больше не про тонну лака для волос. \n\nЭто новая эстетика и секретный релиз от бренда, о котором мы подробно рассказали в этом ролике. Больше никакой стянутости, склеенных прядей и вреда для волос во время тренировок. Только идеальная фиксация, уход и абсолютный комфорт.\n👉 Досматривай видео до конца, чтобы узнать название бренда, и пиши в комментариях, как тебе такой фитнес-тренд? \n\nЗаказать можно по ссылке в шапке профиля ❤️\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/39fdbb7407f357068f6bab388526d291/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-14T09:00:00",
+   "id": "17c4e94b03a3eed519353171bfe450f0",
+   "title": "Самые редкие вещи коллекционера: эскизы дизайнера Saucony",
+   "text": "У коллекционера есть то, чего нет даже у самого бренда. Бывший дизайнер Saucony однажды передал ему нарисованные от руки эскизы начала 90-х. Где эти рисунки оказались потом — в видео.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Saucony #коллекционер #кроссовки #историябрендов",
+   "url": "https://rutube.ru/video/17c4e94b03a3eed519353171bfe450f0/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-14T09:00:00",
+   "id": "f520b613f0de3dd51d948adbc70a665a",
+   "title": "Твоя косметичка скажет тебе «спасибо»!",
+   "text": "Твоя косметичка скажет тебе «спасибо»! ✨ Бьюти-посылки — это отдельный вид терапии. \n\nРаспаковываю новые баночки и средства, которые точно станут фаворитами этого сезона.\n\nВсе обзоры и каталог можно найти у нас в тг-канале. \nПодписывайся, чтобы не пропустить бьюти-находки 🔥\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/f520b613f0de3dd51d948adbc70a665a/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-14T10:30:00",
+   "id": "bcfd29593f5649304504a62281fbce26",
+   "title": "3 стиля для мужчин, чтобы не выглядеть скуфом",
+   "text": "Три стиля, чтобы никогда не выглядеть скуфом. Один нужен каждый день, второй спасает перед важной встречей, а третий превращает любого в Джеймса Бонда. Есть одно простое правило, после которого ошибиться невозможно.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#мужскойстиль #кэжуал #стиль #образ",
+   "url": "https://rutube.ru/video/bcfd29593f5649304504a62281fbce26/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-14T10:30:00",
+   "id": "a76f6ac2ba90d9463946aead55cbb772",
+   "title": "Арина Соболенко вышла на подиум вместо теннисного корта!",
+   "text": "Шок новость 😱\nАрина Соболенко вышла на подиум вместо теннисного корта!\nКак вам образ Арины?\n✍🏻пишите в комментариях \n\nЧтобы посмотреть актуальный ассортимент брендов➡️\nвся информация в нашем тг-канале\n🔗Ссылка на канал в шапке профиля\n\n✅И Обязательно подписывайтесь, чтобы не пропускать предстоящие skidки любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
+   "url": "https://rutube.ru/video/a76f6ac2ba90d9463946aead55cbb772/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-14T12:00:00",
+   "id": "e87022421862c3dd1a75071eb2e12711",
+   "title": "Heineken выпустил кроссовки с пивом в подошве",
+   "text": "Heineken залил пиво прямо в кроссовки. Подошва прозрачная, внутри действительно плещется жидкость, а в язычок встроен сюрприз. Досмотрите, чтобы узнать, сколько таких пар выпустили на весь мир.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Heineken #коллаборация #кроссовки #лимитка",
+   "url": "https://rutube.ru/video/e87022421862c3dd1a75071eb2e12711/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-14T12:00:00",
+   "id": "84abc9c74e7cb693b838154555585dae",
+   "title": "ТОП ТРИ КОСТЮМА НА ОСЕНЬ ОТ ЛЮБИМЫХ БРЕНДОВ",
+   "text": "ТОП ТРИ КОСТЮМА НА ОСЕНЬ ОТ ЛЮБИМЫХ БРЕНДОВ 😍\n\nЧтобы посмотреть актуальный ассортимент ➡️вся информация в нашем тг-канале\n🔗Ссылка на канал в шапке профиля\n\n✅И Обязательно подписывайтесь, чтобы не пропускать предстоящие skidки любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
+   "url": "https://rutube.ru/video/84abc9c74e7cb693b838154555585dae/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-14T13:30:00",
+   "id": "b17504f57906ca23fbb77efcbefe56b5",
+   "title": "MSCHF выпустили кроссовки, которые носят задом наперёд",
+   "text": "Кроссовки, которые можно носить задом наперёд. Надеваете обычно — получаются почти сандалии, переворачиваете — мюли. Удобно ли это на самом деле и стоит ли такое брать — честная оценка в видео.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#MSCHF #кроссовки #странныекроссовки #дизайн",
+   "url": "https://rutube.ru/video/b17504f57906ca23fbb77efcbefe56b5/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-14T13:30:00",
+   "id": "2502345460f186b49ab9beaed251a225",
+   "title": "Это гидрохромная ткань — инновационная технология, которая меняет свой рисунок и цвет при малейшем к",
+   "text": "Магия вне Хогвартса, не иначе! 🪄 Простой дождь превращает эту вещь в настоящее искусство.\n\nЭто гидрохромная ткань — инновационная технология, которая меняет свой рисунок и цвет при малейшем контакте с водой. Полная трансформация стиля прямо под открытым небом! Как только вещь высыхает, она снова становится прежней. \n\nХотели бы себе такую куртку/футболку? 👇\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/2502345460f186b49ab9beaed251a225/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-14T15:00:00",
+   "id": "05668b0d7b2cd44530f1c976eeb830c0",
+   "title": "Зачем на самом деле нужна бирка на одежде",
+   "text": "Колючая бирка на одежде раздражает всех, но без неё вещь просто нельзя продавать. Оказывается, у бирки есть важная задача, о которой мало кто знает. И один простой совет, как не испортить вещь, когда её снимаешь.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#одежда #интересныефакты #мужскойстиль #стиль",
+   "url": "https://rutube.ru/video/05668b0d7b2cd44530f1c976eeb830c0/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-14T15:00:00",
+   "id": "b6805315598a1249b1eb9183c2210d9b",
+   "title": "Поистине главный тренд этой осени — аксессуар от Yves Saint Laurent в виде таблетницы😍",
+   "text": "Поистине главный тренд этой осени — аксессуар от Yves Saint Laurent в виде таблетницы😍\n\n➡️все подробности в нашем тг-канале. Ссылка на канал в шапке профиля 🔥\n\n✅И Обязательно подписывайтесь, чтобы не пропускать предстоящие skidки любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
+   "url": "https://rutube.ru/video/b6805315598a1249b1eb9183c2210d9b/",
    "thumb": "",
    "duration": 0
   },
@@ -10946,6 +11586,526 @@
   },
   {
    "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-15T09:00:00",
+   "id": "bd089f21b68385a19945991d45a70ad8",
+   "title": "5 неубиваемых кроссовок: New Balance 990, Air Force 1, Samba, Chuck 70",
+   "text": "Выбросьте одноразовые кроссовки — эти пять пар переживут вас. New Balance серии 990, Nike Air Force 1, Adidas Samba, Converse Chuck 70 и ещё одна пара, о которой знают немногие. Почему они служат годами — в видео.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#NewBalance #Nike #Adidas #Converse #кроссовки",
+   "url": "https://rutube.ru/video/bd089f21b68385a19945991d45a70ad8/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-15T09:00:00",
+   "id": "12bd38f5d1f126ad1321fb5a7925df42",
+   "title": "Собрали топ-альтернатив, о которых многие почему-то забывают",
+   "text": "Собрали топ-альтернатив, о которых многие почему-то забывают.\n\nВесь каталог и секретные промокоды на выгодный шопинг у нас в канале. \n\nПодпишись, чтобы одеваться в бренды за вменяемые деньги! ❤️\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/12bd38f5d1f126ad1321fb5a7925df42/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-15T10:30:00",
+   "id": "915de0da629cc72c9d2d877f72458053",
+   "title": "Кроссовки Джигана: Travis Scott x Air Force 1, Balenciaga Track, NMD Hu",
+   "text": "Коллекция кроссовок Джигана стоит больше, чем кажется. Nike Air Force 1 Travis Scott, Balenciaga Track и красные adidas NMD Hu от Фаррелла Уильямса — и это только часть. Какая пара нравится вам больше? Пишите в комментариях.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Nike #Balenciaga #adidas #обувьзвезд",
+   "url": "https://rutube.ru/video/915de0da629cc72c9d2d877f72458053/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-15T10:30:00",
+   "id": "b558148a708b2aa7a1c4ff9fd2b58ba4",
+   "title": "Адвент- календарь от Sephora 🎄",
+   "text": "Адвент- календарь от Sephora 🎄\nНе отказывайте себе в идеальной возможности получить всё и сразу с максимальной выгодой.\n\nСтоимость набора представлена в нашем тг-канале!\n➡️Ссылка на тг- канал в шапке профиля!\n💯 оригинал!\n\nС уважением ♥️  \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
+   "url": "https://rutube.ru/video/b558148a708b2aa7a1c4ff9fd2b58ba4/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-15T12:00:00",
+   "id": "c1d483a740124a4717a6bb1bff7a9c76",
+   "title": "Самый позорный провал подделок Dior x Jordan 1",
+   "text": "Подделки Jordan вышли с ником случайного человека внутри кроссовка. Перед релизом Dior x Jordan 1 в сеть утекли фото, и производители реплик скопировали их один в один. Чем это закончилось — в видео.\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#Jordan #Dior #AirJordan1 #оригинал #кроссовки",
+   "url": "https://rutube.ru/video/c1d483a740124a4717a6bb1bff7a9c76/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-15T12:00:00",
+   "id": "bca82237baf928da0ba60e0f8fbfab5d",
+   "title": "Все носят одни и те же сумки 👜 А эти бренды знают единицы",
+   "text": "Все носят одни и те же сумки 👜 А эти бренды знают единицы.\n\nКачество выше, zены ниже, и главное — такую же не увидишь ещё у десяти девушек вокруг.\n\nВ ролике — бренды, которые стоит знать ✨\n\n💌 Хотите такую же? Напишите нашему менеджеру в Telegram — подберём и посчитаем доставку из США. Ссылка на канал в шапке профиля!\n\nА какие из них знали вы? Пишите 👇\n\n✅ Подписывайтесь, чтобы первыми узнавать о новинках и скидках любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍\n\n#сумки #брендовыесумки #мода #стиль #тренды #аксессуары #шопомания",
+   "url": "https://rutube.ru/video/bca82237baf928da0ba60e0f8fbfab5d/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-15T13:30:00",
+   "id": "4654c21655d65a931c4c23df238461cd",
+   "title": "New Balance 1000: из «папиных» кроссовок в тренд",
+   "text": "«Папины кроссовки» когда-то звучали как оскорбление, а теперь это комплимент. New Balance 1000 впервые вышли в 1999 году и спустя годы вернулись в уличную моду. Кто стоит за этим возвращением — в видео. А для вас эти кроссовки дедовские или стильные?\n\nПодписывайтесь на @peshkov.shoes — привозим оригинальную обувь из США и Европы, пишите в директ, подберём пару.\n\n#NewBalance #NewBalance1000 #кроссовки #тренды",
+   "url": "https://rutube.ru/video/4654c21655d65a931c4c23df238461cd/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-15T13:30:00",
+   "id": "1c00e688a508cdf06fe0dabf03ec371e",
+   "title": "Самый желанный подарочный набор от Charlotte Tilbury 😍🤌🏻",
+   "text": "Самый желанный подарочный набор от Charlotte Tilbury 😍🤌🏻\nНаполнение из продуктов- бестселлеров🤩 \nСтоимость набора представлена в нашем тг-канале!\n➡️Ссылка на тг- канал в шапке профиля!\n💯 оригинал!\n\nС уважением ♥️  \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
+   "url": "https://rutube.ru/video/1c00e688a508cdf06fe0dabf03ec371e/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-15T15:00:00",
+   "id": "171b981cd0f8520d6a7c86159796a0cc",
+   "title": "Самые странные формы сборной России на чемпионатах мира",
+   "text": "Сборная России однажды вышла на чемпионат мира в чужой форме? Звучит как шутка, но история реальная. А дальше дизайнеры придумали вариант, к которому до сих пор слишком много вопросов. Досмотрите до конца и напишите в комментариях, какая форма нравится вам.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#футбол #чемпионатмира #сборнаяроссии #Nike #футбольнаяформа",
+   "url": "https://rutube.ru/video/171b981cd0f8520d6a7c86159796a0cc/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-15T15:00:00",
+   "id": "81f9b340b686f57f744cec9f93240d1d",
+   "title": "Карман на джинсах, в который ничего не влезает 👖 Знаете, зачем он вообще нужен?",
+   "text": "Карман на джинсах, в который ничего не влезает 👖 Знаете, зачем он вообще нужен?\n\nА пуговица на рукаве, которая ничего не застёгивает? А почему у женщин пуговицы слева, а у мужчин справа?\n\nУ каждой из этих деталей есть своя причина, и большинству из них больше 150 лет. Собрала всё в одну минуту 👀\n\nКакая деталь удивила больше всего? Пишите в комментариях 👇\n\n Оригинальные бренды из США и Европы — в нашем Telegram-канале, ссылка в шапке профиля! Подписывайтесь, чтобы первыми узнавать о новинках и скидках любимых брендов 😍\n\nС уважением ♥️ @shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍\n\n#джинсы #одежда #историяодежды #мода #шопомания #трендыодежды #стиль",
+   "url": "https://rutube.ru/video/81f9b340b686f57f744cec9f93240d1d/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-16T09:00:00",
+   "id": "c1c76ccb4eef13f4930291a0a8b2d388",
+   "title": "Три лучшие пары кроссовок для падела и тенниса: Asics и Nike",
+   "text": "Кроссовки для падела, которые успевают за вами? В одной паре подошва разделена на три части, в другой стопу держит жёсткая пластина. Третья — для тех, кто играет на задней линии и ценит устойчивость. Посмотрите и выберите свою.\n\nПишите в директ @peshkov.shoes — привезём оригинальную пару из США и Европы.\n\n#падел #теннис #Asics #Nike #кроссовки",
+   "url": "https://rutube.ru/video/c1c76ccb4eef13f4930291a0a8b2d388/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-16T09:00:00",
+   "id": "31d1fbfe513bc1d09d975fa3567126b1",
+   "title": "24 бутылочки вина за 24 вечера до Рождества 🍷 18+",
+   "text": "24 бутылочки вина за 24 вечера до Рождества 🍷 18+\n\nБелое, розовое, красное — из разных регионов мира. И в каждой дверце есть кое-что поинтереснее вина 👀\n\nОтправьте подруге, от которой ждёте такой подарок 😏\n\n💌 А бьюти-адвенты этого сезона у нас уже есть — каталог с zенами в нашем Telegram, ссылка в шапке профиля! Подберём и посчитаем доставку из США.\n\n✅ Подписывайтесь, чтобы первыми узнавать о новинках и скидках любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍\n\n#адвенткалендарь #винныйадвент #адвент2026 #подарокнановыйгод #подарокподруге #шопомания",
+   "url": "https://rutube.ru/video/31d1fbfe513bc1d09d975fa3567126b1/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-16T10:30:00",
+   "id": "43426baebf35416998b10b603a5a3f9a",
+   "title": "Кроссовки Osiris в сериале «Во все тяжкие»",
+   "text": "Кроссовки Osiris в «Во все тяжкие» — замечали? Они мелькали в кадре несколько раз, но почти никто не связал сериал с обувью. А у этой серии своя история — с героями андеграунда. Смотрите, в каких сценах их можно поймать.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#ВоВсеТяжкие #Osiris #кроссовки #сериалы",
+   "url": "https://rutube.ru/video/43426baebf35416998b10b603a5a3f9a/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-16T10:30:00",
+   "id": "5a03cfbd25d91e0514419873421f19d8",
+   "title": "Открываем адвент-календарь KIKO Milano раньше декабря 🎁",
+   "text": "Открываем адвент-календарь KIKO Milano раньше декабря 🎁\nХотите такой же — пишите в директ или в наш Telegram (ссылка в шапке профиля).\n\nКрасная шкатулка с ящичками — и в каждом сюрприз. Что спряталось внутри — смотрите до конца 👀\n\nПодписывайтесь на @shopomaniia2012 — показываем самые красивые адвенты сезона первыми.\n\n#адвенткалендарь #кико #косметика #подарокдевушке #шопомания",
+   "url": "https://rutube.ru/video/5a03cfbd25d91e0514419873421f19d8/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-16T12:00:00",
+   "id": "065d384cd5584f3e71bdda8ec16f3cdd",
+   "title": "New Balance 1300 и рекламный слоган «Заложи свой дом»",
+   "text": "Заложить дом ради New Balance? Когда-то кроссовки этого бренда были самыми дорогими на рынке, и реклама прямо предлагала такой вариант. Чем всё закончилось — смотрите в видео.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#NewBalance #кроссовки #историябрендов #кроссовкиNewBalance",
+   "url": "https://rutube.ru/video/065d384cd5584f3e71bdda8ec16f3cdd/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-16T12:00:00",
+   "id": "04434201ba3e76dd44cd637496785114",
+   "title": "Пока все живут в 2026, Рианна живёт в 2050 🚀",
+   "text": "Пока все живут в 2026, Рианна живёт в 2050 🚀\n\nПризнайтесь, вы тоже вылавливаете патчи пинцетом, а эссенция капает на халат и телефон? В бренде Рианны придумали, как это прекратить — и саму баночку надо видеть.\n\nПоказала в ролике, как она работает 👀\n\n📦 Как zakaзать из США: напишите нашему менеджеру в Telegram — посчитаем доставку. Ссылка на канал с zенами в шапке профиля!\n\nПопробуете? Пишите 👇\n\n✅ Подписывайтесь, чтобы первыми узнавать о новинках и скидках любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍\n\n#рианна #fenty #патчи #патчидляглаз #уходзакожей #бьюти #новинкикосметики #косметикаизсша #шопомания",
+   "url": "https://rutube.ru/video/04434201ba3e76dd44cd637496785114/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-16T13:30:00",
+   "id": "c5d24105dc5fc7c7c82e98288111e02d",
+   "title": "Почему Месси ушёл из Nike в Adidas",
+   "text": "Nike потерял Месси из-за носков? Бренд подписал его ещё подростком, но одна обычная просьба семьи всё изменила. Конкурент оказался быстрее. Смотрите, как это было, и пишите в комментариях: Месси или Роналду?\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Месси #Nike #Adidas #футбол #историябрендов",
+   "url": "https://rutube.ru/video/c5d24105dc5fc7c7c82e98288111e02d/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-16T13:30:00",
+   "id": "f2cdb8e74195ad53da40ea353c8e69e0",
+   "title": "Почему на вашей груди именно крокодил? 🐊",
+   "text": "Почему на вашей груди именно крокодил? 🐊\n\nЭтот логотип носит весь мир, но почти никто не знает, откуда он взялся. А вещь, на которой он появился, когда-то вообще называли неприличной.\n\nВся история — за минуту 👀\n\nА у вас есть вещь с крокодилом? Пишите 👇\n\n👕 Оригинальный Lacoste — в нашем Telegram-канале, ссылка в шапке профиля!\n✅ Подписывайтесь, чтобы первыми узнавать о новинках и скидках любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍\n\n#lacoste #лакост #поло #мода #историямоды #стиль #тренды #шопомания",
+   "url": "https://rutube.ru/video/f2cdb8e74195ad53da40ea353c8e69e0/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-16T15:00:00",
+   "id": "85a64e8adefdaffe759e7a6eaf9c0413",
+   "title": "Как курица подсказала идею New Balance",
+   "text": "New Balance придумала курица? Звучит странно, но всё началось с наблюдения за птицей во дворе. Три пальца, а она не падает. Досмотрите, чтобы узнать, к какому изобретению это привело.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#NewBalance #историябрендов #кроссовки #обувь",
+   "url": "https://rutube.ru/video/85a64e8adefdaffe759e7a6eaf9c0413/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-16T15:00:00",
+   "id": "7579c8d56a789b91e35902469043b68c",
+   "title": "Мужчины никогда не поймут это чувство 💅",
+   "text": "Мужчины никогда не поймут это чувство 💅\n\nКогда открываешь коробку Lancôme, а там палетка, тушь, уход и парфюм — и всё это стоит в разы меньше, чем содержимое по отдельности.\n\nHoliday Beauty Box 2026 — лимитка, которую выпускают раз в год.\n\n💌 Хотите такую же? Напишите нашему менеджеру в Telegram — подберём и посчитаем доставку из США. Ссылка на канал с zенами в шапке профиля!\n\nТираж ограниченный, разбирают быстро ⏳\n\nПризнавайтесь, знакомо это чувство? 👇\n\n✅ Подписывайтесь, чтобы первыми узнавать о новинках и скидках любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍",
+   "url": "https://rutube.ru/video/7579c8d56a789b91e35902469043b68c/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-17T09:00:00",
+   "id": "0fe6e949107e5ab1bcbf5c27ebda7a96",
+   "title": "Feiyue: китайские кеды за копейки или французский бренд",
+   "text": "Feiyue — подделка французского бренда или наоборот? На китайском рынке эти кеды стоят копейки, во Франции их продают в красивой коробке и с коллаборациями. Так где оригинал? Смотрите — ответ не такой очевидный.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Feiyue #кеды #историябрендов #кроссовки",
+   "url": "https://rutube.ru/video/0fe6e949107e5ab1bcbf5c27ebda7a96/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-17T09:00:00",
+   "id": "68bbc2b261f5dea97dfc732e991c0c65",
+   "title": "Чёрный верх и белый низ выглядят дорого. А наоборот — дёшево 👀",
+   "text": "Чёрный верх и белый низ выглядят дорого. А наоборот — дёшево 👀\nПодберём вещи под эти сочетания — пишите в директ или в наш Telegram (ссылка в шапке профиля).\n\nКакие ещё цвета дают эффект роскоши — смотрите в ролике. Сохраните, чтобы собрать образ 📌\n\nПодписывайтесь на @shopomaniia2012 — показываем, как выглядеть дороже без лишних трат.\n\n#сочетаниецветов #стиль #образ #шопомания",
+   "url": "https://rutube.ru/video/68bbc2b261f5dea97dfc732e991c0c65/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-17T10:30:00",
+   "id": "20db682b3802fed00c97fe3352263be4",
+   "title": "Пакт Пеле: как Puma обошла договор с Adidas",
+   "text": "Пеле завязал шнурок — и Adidas пришёл в ярость. Два бренда договорились не трогать главную звезду футбола, но Puma нашла лазейку. Одна пауза перед матчем, и весь мир смотрел на его бутсы. Досмотрите, чтобы узнать, как это сработало.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Пеле #Puma #Adidas #футбол #историябрендов",
+   "url": "https://rutube.ru/video/20db682b3802fed00c97fe3352263be4/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-17T10:30:00",
+   "id": "72dbc15b3342bc2ce2aef5772bc3e36b",
+   "title": "Такого подарка вы ещё не видели 💵",
+   "text": "Такого подарка вы ещё не видели 💵\n\nНастоящие доллары США — но неразрезанные. Целый лист купюр, который так и не отправили под нож.\n\nИдеальный подарок мужу, шефу или партнёру — тому, кому вечно не знаешь, что дарить.\n\n💌 Хотите такой же? Напишите нашему менеджеру в Telegram — подберём и посчитаем доставку из США. Ссылка на канал с zенами в шапке профиля!\n\nКому бы такое подарили? Пишите 👇\n\n✅ Подписывайтесь, чтобы первыми узнавать о новинках и скидках любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру 🌍\n\n#подарок #необычныйподарок #коллекционныекупюры #шопомания #новогоднийподарок",
+   "url": "https://rutube.ru/video/72dbc15b3342bc2ce2aef5772bc3e36b/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-17T12:00:00",
+   "id": "8f7d23b22c5860d6477791cb527c901b",
+   "title": "Рекордсменка Мастеркова, контракт с Nike и шиповки Adidas",
+   "text": "Контракт с Nike, а на ногах три полоски? Олимпийская чемпионка честно сказала спонсору, в чём покажет результат. Решение нашли очень необычное. Смотрите, что придумали перед Олимпиадой.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Nike #Adidas #легкаяатлетика #историябрендов",
+   "url": "https://rutube.ru/video/8f7d23b22c5860d6477791cb527c901b/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-17T12:00:00",
+   "id": "e81eb060f9ba5d273dd6ac85039c8d28",
+   "title": "Мечтали о фене Dyson, но жалко отдавать целую зарплату? 💨",
+   "text": "Мечтали о фене Dyson, но жалко отдавать целую зарплату? 💨\nГде найти адвент Dyson — пишите в директ или в наш Telegram (ссылка в шапке профиля).\n\nБренд впервые выпустил адвент-календарь. Что лежит в последнем ящичке — досмотрите до конца 👀\n\nПодписывайтесь на @shopomaniia2012 — самые интересные адвенты сезона первыми.\n\n#адвенткалендарь #дайсон #фендайсон #подарокдевушке #шопомания",
+   "url": "https://rutube.ru/video/e81eb060f9ba5d273dd6ac85039c8d28/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-17T13:30:00",
+   "id": "021e1d1e40d9c127012b371e7b4d2e9e",
+   "title": "Хотите лучшие беговые кроссовки? Не смотрите Олимпиаду",
+   "text": "Хотите лучшие беговые кроссовки? Не смотрите Олимпиаду\n\nСмотрите не на то, в чём профессионалы бегут на камеру, а в чём они тренируются каждый день. Если спортсмены изо дня в день выбирают Mizuno или New Balance — значит, эти пары берегут колени и помогают показывать результат.\n\nС уважением 🩵\n@peshkov.shoes — байер-сервис по доставке обуви из США и Европы\n\n#бег #кроссовки #newbalance #mizuno #peshkovshoes",
+   "url": "https://rutube.ru/video/021e1d1e40d9c127012b371e7b4d2e9e/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-17T13:30:00",
+   "id": "e26de5d099b7179490deec301a48c85d",
+   "title": "Adidas и Asos выпустили свою 05 коллекцию и она невероятно стильная 😍",
+   "text": "Adidas и Asos выпустили свою 05 коллекцию и она невероятно стильная 😍\nВесь каталог мы собрали в нашем тг-канале \n➡️Ссылка на тг- канал в шапке профиля!\n\nС уважением ♥️  \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
+   "url": "https://rutube.ru/video/e26de5d099b7179490deec301a48c85d/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-17T15:00:00",
+   "id": "5d8b021671538fdb1fcf63d0fb59a3b2",
+   "title": "Кто выиграет чемпионат мира 2026: прогнозы на сборные",
+   "text": "Кто заберёт чемпионат мира 2026? Испания, Португалия или Франция с тремя составами? В видео — честные прогнозы и неожиданное мнение о фаворите. А ваш прогноз — в комментарии.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#чемпионатмира2026 #футбол #прогнозы #Испания #Португалия",
+   "url": "https://rutube.ru/video/5d8b021671538fdb1fcf63d0fb59a3b2/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-17T15:00:00",
+   "id": "883805e2dce512a0ee5a1718e846467c",
+   "title": "Tory Burch сделал невероятное предложение ВСЕГО НА ДВА ДНЯ!",
+   "text": "Tory Burch сделал невероятное предложение ВСЕГО НА ДВА ДНЯ!\n\nМы уже приготовили для вас живой каталог бренда с аутлета Tort Burch🔥\nНа сайтах этого просто нет.\n\n➡️Вся информация в нашем тг-канале по ссылке, указанной в шапке профиля \n\nС уважением ♥️   \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
+   "url": "https://rutube.ru/video/883805e2dce512a0ee5a1718e846467c/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-18T09:00:00",
+   "id": "86100f37517665d8f8e4b4618530c2df",
+   "title": "Методы Тарасова: почему советские спортсмены были непобедимы",
+   "text": "Мешки с камнями вместо тренажёров? Так готовились легендарные советские хоккеисты. Методы Тарасова до сих пор вспоминают с уважением и страхом. Смотрите, чем такие сборы отличаются от нынешних.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#хоккей #Тарасов #спорт #историяспорта",
+   "url": "https://rutube.ru/video/86100f37517665d8f8e4b4618530c2df/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-18T09:00:00",
+   "id": "0098b71754c37040c58e2ab1ce73f0b7",
+   "title": "Наш руководитель Елена тоже в тренде 🤌🏻☺️",
+   "text": "Наш руководитель Елена тоже в тренде 🤌🏻☺️\nЕжедневный поиск оригинальных товаров по невероятно низким zенам, которых Вы точно не найдёте в Рф\n 💯 оригинал! Эксклюзивные и редкие позиции только у нас!\n\n➡️Ссылка на тг-канал, где представлен каталог всех брендов, живые фото и видео.\n📎Ссылка на канал в шапке профиля. \n\nС уважением ♥️  \n@shopomaniia2012 — байер-сервис и доставка брендов из США и Европы по всему миру!",
+   "url": "https://rutube.ru/video/0098b71754c37040c58e2ab1ce73f0b7/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-18T10:30:00",
+   "id": "cb224f1bffaeb71bd9dbf929f58e5713",
+   "title": "Две полоски вместо трёх: форма Кройфа на ЧМ-1974",
+   "text": "Две полоски вместо трёх — и это не подделка. На чемпионате мира 1974 года звезда сборной Нидерландов отказался носить форму Adidas. Причина — личный контракт с конкурентом. Смотрите, какой выход нашли.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Кройф #Adidas #Puma #футбол #историябрендов",
+   "url": "https://rutube.ru/video/cb224f1bffaeb71bd9dbf929f58e5713/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-18T10:30:00",
+   "id": "eeabdaec4dd45f4a217809851e4e6e7f",
+   "title": "Если ты тоже вырос на диснеевских мультиках — эта коллаба точно для тебя",
+   "text": "Если ты тоже вырос на диснеевских мультиках — эта коллаба точно для тебя.\n\nCrocs × [герой]. И это не просто сабо: они светятся в темноте. Да-да, те самые, которых мы все так долго ждали.\n\nПервые пары уже приехали к тем, кто заказал. Но ещё не поздно — их можно заказать прямо сейчас.\n\nПиши в директ — посчитаем доставку до двери.\n\n#crocs #disney #peshkovshoes\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/eeabdaec4dd45f4a217809851e4e6e7f/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-18T12:00:00",
+   "id": "0040d5e09a330f85c7cf2983ff4d2181",
+   "title": "Штрафы в футболе: за что игроки платят из своего кармана",
+   "text": "Сахар под запретом, а лишний килограмм стоит денег? В футбольных командах свои строгие правила. Тренер рассказывает, за что приходится платить и какие наказания работают лучше штрафов.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#футбол #Карпин #тренер #спорт",
+   "url": "https://rutube.ru/video/0040d5e09a330f85c7cf2983ff4d2181/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-18T12:00:00",
+   "id": "b65d782c95616fe61567bb9a10f1e61c",
+   "title": "✨ Ностальгия и магия Disney в одной коробке! ✨",
+   "text": "✨ Ностальгия и магия Disney в одной коробке! ✨\n\n❤️ Нам очень интересно: какой ваш самый любимый мультик детства от Disney? Пишите свои теплые воспоминания в комментариях!\n\nПодпишись, здесь все про выгодный шопинг 🔥\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/b65d782c95616fe61567bb9a10f1e61c/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-18T13:30:00",
+   "id": "8429d21d74d5ea7f874a2f0012833e28",
+   "title": "Блиц: самый переоценённый бренд кроссовок",
+   "text": "Самый переоценённый бренд кроссовок — какой он? Adidas или Premiata, New Balance или другой? Быстрый блиц с неожиданными ответами. А в конце — бренд, который должен вернуться в Россию первым.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#кроссовки #Premiata #NewBalance #Adidas",
+   "url": "https://rutube.ru/video/8429d21d74d5ea7f874a2f0012833e28/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-18T13:30:00",
+   "id": "004f7af8349c00814052ceda296bf6d5",
+   "title": "В нашем тг-канале огромный выбор сумок Coach по самым лучшим zенам♥️",
+   "text": "В нашем тг-канале огромный выбор сумок Coach по самым лучшим zенам♥️\n➡️ссылка на канал в шапке профиля 😉\n\n✅Подписывайтесь, чтобы не пропускать предстоящие skidки любимых брендов 😍\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
+   "url": "https://rutube.ru/video/004f7af8349c00814052ceda296bf6d5/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-18T15:00:00",
+   "id": "b1e74663e3b6817aa4d7ad1e856f7213",
+   "title": "Блиц с тренером: лучшие бутсы в истории и Месси или Роналду",
+   "text": "Лучшие бутсы в истории — какие? Тренер отвечает быстро и без раздумий. А ещё — главная ошибка новичка при выборе обуви и вечный спор: Месси или Роналду. Ответ вас не удивит, а вот остальное — может.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#бутсы #футбол #Месси #Роналду",
+   "url": "https://rutube.ru/video/b1e74663e3b6817aa4d7ad1e856f7213/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-18T15:00:00",
+   "id": "41800bfcf8614fcbbeb297dfb378de8a",
+   "title": "Идеальный бьюти-набор существует, и он выглядит именно так",
+   "text": "Идеальный бьюти-набор существует, и он выглядит именно так 🤍 Адвент от KIKO Milano, мимо которого просто невозможно пройти. Сохраняй, чтобы не потерять идею для подарка! 🪄\n\nПодпишись, здесь все про выгодный шопинг ❤️\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/41800bfcf8614fcbbeb297dfb378de8a/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
    "platform": "vk",
    "kind": "long",
    "status": "scheduled",
@@ -10979,6 +12139,175 @@
    "text": "",
    "url": "https://rutube.ru/video/7addb14b3386959d9356b9143aa52b9a/",
    "thumb": "https://i.ytimg.com/vi/w8AuVA22gEE/maxresdefault.jpg",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-19T09:00:00",
+   "id": "bf492c52b3a7f6b6c1a41af617f0f70e",
+   "title": "Худший игрок чемпионата мира 2026: мнение тренера",
+   "text": "Худший игрок чемпионата мира 2026 — звезда мирового уровня? Тренер не стесняется в оценках. А ещё называет, кто на этом турнире будет главным лидером. Согласны? Пишите в комментариях.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#чемпионатмира2026 #футбол #Месси #Роналду",
+   "url": "https://rutube.ru/video/bf492c52b3a7f6b6c1a41af617f0f70e/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-19T09:00:00",
+   "id": "cb0093e16d3d6888cf5be6375beecda5",
+   "title": "Давайте знакомиться ближе, уважаемые Шопоманы♥️",
+   "text": "Давайте знакомиться ближе, уважаемые Шопоманы♥️\nЯ — Елена Пешкова, основатель @SHOPOMANIIA2012 и @Peshkov.Shoes. \nС 2012 года мы выросли из маленькой идеи в большой байер-сервис с командой, клиентами по всему миру и тысячами счастливых покупок.\n\nНаша миссия — делать шопинг простым, выгодным и уверенным: только оригинальные товары, лучшие предложения и личное сопровождение ❤️\n\nСпасибо, что выбираете нас. Мы это ценим♥️\n\n➡️А Чтобы увидеть ассортимент всех брендов- переходите по ссылке в шапке профиля 😍\n✍🏻Пишите нашим менеджерам напрямую - они свяжутся с Вами и помогут в любом вопросе ♥️",
+   "url": "https://rutube.ru/video/cb0093e16d3d6888cf5be6375beecda5/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-19T10:30:00",
+   "id": "d687e0b8822fa68e6a02c6adac05a8a6",
+   "title": "Тихая роскошь: какую обувь носит Олег Тиньков",
+   "text": "Миллиардер в кроссовках Adidas? Олег Тиньков выбирает обувь по удобству, а не по громким логотипам. Одна из его пар — от итальянского люкса, о котором мало кто слышал. Смотрите, что ещё есть в его гардеробе.\n\nПишите в директ @peshkov.shoes — привезём оригинальную пару из США и Европы.\n\n#Тиньков #тихаяроскошь #Adidas #Ferragamo #обувь",
+   "url": "https://rutube.ru/video/d687e0b8822fa68e6a02c6adac05a8a6/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-19T10:30:00",
+   "id": "e0aca1927171f10d24ef624d7572bc0b",
+   "title": "Мода, которая буквально сбивает с ног!",
+   "text": "Мода, которая буквально сбивает с ног! 🫣 Думали, «штаны-убийцы» из Zara — это просто мем? Как бы не так!\nЭти сатиновые палаццо выглядят на миллион, но ведут себя как личный враг. Стоит сделать шаг шире обычного, и летящая ткань коварно оборачивается вокруг щиколотки. Итог — вы летите с лестницы, собирая все лайки (и синяки) этого мира.\n\nДевочки, признавайтесь в комментариях: кто уже успел примерить этот тренд и выжить? 👇 Поделитесь своей историей встреч с асфальтом!\n\nИ обязательно отправь подруге, которая обожает оверсайз и широкие штаны — предупреди её! 🚨\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/e0aca1927171f10d24ef624d7572bc0b/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-19T12:00:00",
+   "id": "6669762ad531e33495eedff55e263fa6",
+   "title": "Puma Future 8 и провальный дебют на поле",
+   "text": "Новые бутсы Puma — и два пропущенных гола за 10 минут. Дебют модели должен был стать грандиозным, но что-то пошло не так. А то, что футболист сделал потом, ударило по бренду ещё сильнее. Смотрите до конца и решайте, прав ли он.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Puma #бутсы #футбол #Челси",
+   "url": "https://rutube.ru/video/6669762ad531e33495eedff55e263fa6/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-19T12:00:00",
+   "id": "374ebf29eafed04b3228c5e11264feba",
+   "title": "Burberry сожгла одежду на 28 миллионов фунтов. Специально",
+   "text": "Burberry сожгла одежду на 28 миллионов фунтов. Специально. 🔥\nЭто не пожар — это бизнес-стратегия. Люксовые бренды не пускают остатки на распродажи: если сумка за $3 000 появится на аутлете за $300, она навсегда перестанет стоить $3 000 в голове покупателя. Лучше уничтожить.\n— Burberry жгла.\n— Richemont (Cartier и IWC) разбивала часы молотком.\n— H&M резал одежду и выбрасывал, чтобы её не могли носить даже бездомные.\nВ 2019-м Евросоюз запретил уничтожение нераспроданного. Burberry извинилась и «прекратила практику». Но производство не сократили — теперь остатки едут в Африку и Латинскую Америку, и в пустыне Атакама лежит буквально гора одежды. Это можно загуглить.\nИндустрия нашла новый способ не думать об этом. А вы — за осознанное потребление? 💬 Пишите в комментариях.\n\n@shopomaniia2012 - байер сервис по выкупу и доставке одежды из США и Европы!",
+   "url": "https://rutube.ru/video/374ebf29eafed04b3228c5e11264feba/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-19T13:30:00",
+   "id": "e82b4dd238a69f06b209c1ec7736dc4f",
+   "title": "Как отличить подделку: разбор советов с федерального канала",
+   "text": "Оригинальные кроссовки всегда падают подошвой вниз? Такой совет прозвучал на федеральном канале. В сюжете было ещё несколько «проверок», от которых хочется схватиться за голову. Смотрите разбор — и узнайте, что там действительно правда.\n\nПишите в директ @peshkov.shoes — привезём оригинальную пару из США и Европы.\n\n#подделки #оригинал #кроссовки #Nike #NewBalance",
+   "url": "https://rutube.ru/video/e82b4dd238a69f06b209c1ec7736dc4f/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-19T13:30:00",
+   "id": "a34eda0301ac09bbbd6df45deedb775b",
+   "title": "Финал US Open взбудоражил мир:",
+   "text": "🤩Финал US Open взбудоражил мир: Соболенко не сдержала эмоций, а Рыбакина получила главный трофей из рук Марии Шараповой!\n\n➡️Подписывайтесь, чтобы быть в курсе всех новостей, новинок и больших rаспродаж брендов🔥\n\nС уважением ♥️\n@shopomaniia2012 — байер-сервис и доставка брендов из\nСША и Европы.",
+   "url": "https://rutube.ru/video/a34eda0301ac09bbbd6df45deedb775b/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-19T15:00:00",
+   "id": "b505602da031dae3e7fba3cec666c131",
+   "title": "Почему на чемпионате мира у всех розовые бутсы",
+   "text": "Розовые бутсы у Nike, Adidas, Puma и New Balance одновременно? Это не требование FIFA и не сговор брендов. Причина куда проще и от этого смешнее. Досмотрите, чтобы узнать, как так вышло.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#бутсы #чемпионатмира #Nike #Adidas #футбол",
+   "url": "https://rutube.ru/video/b505602da031dae3e7fba3cec666c131/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-19T15:00:00",
+   "id": "2c9ed2f92a7fbb7e912031225b66b3d1",
+   "title": "Тестируем легендарный крем для рук от Trader Joe's 🍂",
+   "text": "Тестируем легендарный крем для рук от Trader Joe's 🍂\nСравнили классику, которую так любят наши клиенты, и новинку из осенней лимитированной коллекции.\nКлассика — почти без запаха, плотная текстура. Именно то, что нужно в самые холодные зимы.\nОсенняя лимитка — тот же крем, но с ароматом pumpkin spice. Ох, как печенька! Как же американцы это любят. По цвету не отличается, но запах — что-то невероятное.\nИ главное: такого вы не увидите в течение года. Лимитированная коллекция — только осенью.\nЭксклюзивный крем от Trader Joe's уже в нашем телеграм-канале. Подписывайтесь — там много секретных предложений 🤫\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/2c9ed2f92a7fbb7e912031225b66b3d1/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "peshkov",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-20T09:00:00",
+   "id": "854681d01e7a014a4e32b71aab033934",
+   "title": "Скандал Nike: перекупщик и вице-президент компании",
+   "text": "Новые Jordan за месяцы до релиза — откуда? Молодой перекупщик построил огромный бизнес, а журналисты задались простым вопросом. Ответ привёл к скандалу на самом верху Nike. Смотрите, чем всё закончилось.\n\nПодписывайтесь на @peshkov.shoes, чтобы следить за новостями мира кроссовок.\n\n#Nike #Jordan #перекупщики #скандал",
+   "url": "https://rutube.ru/video/854681d01e7a014a4e32b71aab033934/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-20T09:00:00",
+   "id": "2b373cae4212b855198d9dc4e6b61634",
+   "title": "Канье Уэст свихнулся?",
+   "text": "Канье Уэст свихнулся? 😂 Посмотрите, что у него под штанами!\nГлавный прогрев сентября: Yeezy выпускает трусы с котиками. Гений маркетинга или дед забыл таблетки? 🤷‍♂️ Мнения в комменты!\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/2b373cae4212b855198d9dc4e6b61634/",
+   "thumb": "",
+   "duration": 0
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "short",
+   "status": "scheduled",
+   "date": "2026-11-20T10:30:00",
+   "id": "fa9d2d5c411b716310e0f79d43b2cb91",
+   "title": "Почему рубашка Ralph Lauren после 50 стирок выглядит как новая, а обычная сдыхает после пяти?",
+   "text": "Почему рубашка Ralph Lauren после 50 стирок выглядит как новая, а обычная сдыхает после пяти? 👔\nСекрет в хлопке. Обычный хлопок — короткая нитка: ткань грубая, быстро рвётся и теряет форму. А египетский хлопок и пима (Pima) — волокно в 1,5 раза длиннее: нить тонкая, ровная и прочная. Такая ткань не пилингуется, не вытягивается и не желтеет.\nИменно Pima Ralph Lauren использует для своих рубашек Polo — поэтому они не снашиваются годами.\nТы платишь не за лошадку на кармане. Ты платишь за то, чтобы не покупать рубашку снова через год. 🐎\nRalph Lauren — бренд, который наши клиенты заказывают чаще всего. Привозим напрямую из США 🇺🇸 👉 Заказ — по ссылке в шапке профиля.\n\nПодписывайтесь на @shopomaniia2012 — бренды из США и Европы со скидками каждый день!",
+   "url": "https://rutube.ru/video/fa9d2d5c411b716310e0f79d43b2cb91/",
+   "thumb": "",
    "duration": 0
   },
   {
@@ -11105,6 +12434,19 @@
    "media": "https://ycs-media.postmypost.io/postmypost/upload/978/0ff/53909360.mp4"
   },
   {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "long",
+   "status": "scheduled",
+   "date": "2026-12-04T20:00:00",
+   "id": "57643ca86b34b338528c48ff085c6075",
+   "title": "РАЗВОД, РОДЫ, НОВАЯ ЖИЗНЬ: КАК ОДЕЖДА ДЕЛАЕТ ИЗ ТЕБЯ ДРУГОГО ЧЕЛОВЕКА",
+   "text": "",
+   "url": "https://rutube.ru/video/57643ca86b34b338528c48ff085c6075/",
+   "thumb": "https://i.ytimg.com/vi/EX35qnQcNPU/maxresdefault.jpg",
+   "duration": 0
+  },
+  {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "long",
@@ -11115,6 +12457,19 @@
    "text": "🔹 Заказать обувь из США и Европы со скидками: https://t.me/+Wxm0kqm1JPM4MjFi \n🖤 Одежда сегмента люкс из США и Европы для мужчин: https://t.me/+1bTATD9n4WQxNWNi \n➡️ Заказать одежду и аксессуары сегмента люкс из США и Европы: https://t.me/+f2ct2Lp2Iqs3M2Fi \n👉 Онлайн витрина: https://clck.ru/3RnHdJ\n\nВ этом выпуске мы собрали самые интересные новинки: от команды Adidas с Тимоти Шаламе и звёздами футбола до LEGO-рекламы и новых наборов, стильных футбольных джерси и даже неожиданных лайфстайл-коллабораций.\n\nЭто обзор трендов FIFA 2026, которые уже хочется носить, собирать и добавлять в свою коллекцию. Футбол становится стилем жизни — и бренды делают его ещё ярче.\n\n\n00:00 Вступление: о чем выпуск? \n00:25 Adidas и Тимоти Шаламе собирают дворовую команду: Беллингем, Ямаль и Родман \n02:05 LEGO выпустили самую дорогую рекламу с иконами футбола\n03:03 Наборы LEGO к FIFA 2026\n03:50 Домашняя форма от Adidas\n04:56 Джерси для собак от Adidas \n06:03 Легендарная «джинсовая» форма от Adidas \n06:52 LABUBU от POP MART играет в футбол\n07:27 Новые вкусы чипсов Lays \n\n\n#FIFA2026 #Adidas #LEGO #POP MART #Lays #footballstyle #footballfashion #soccer2026 #brandcollab #sportsmarketing #footballnews #newdrops #streetwearfootball #footballculture #timotheechalamet #yamal #bellingham #footballmerch #lifestylebrands",
    "url": "",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/72e/e58/53910386.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "long",
+   "status": "scheduled",
+   "date": "2026-12-08T20:00:00",
+   "id": "ff7c9c9117fac9b9f8b1182cdb317e03",
+   "title": "Нашли САМЫЕ СТИЛЬНЫЕ вещи в AEROPOSTALE | Собираем мужские и женские образы",
+   "text": "",
+   "url": "https://rutube.ru/video/ff7c9c9117fac9b9f8b1182cdb317e03/",
+   "thumb": "https://i.ytimg.com/vi/1_VgjK-SskU/maxresdefault.jpg",
+   "duration": 0
   },
   {
    "brand": "peshkov",
@@ -11141,6 +12496,19 @@
    "media": "https://ycs-media.postmypost.io/postmypost/upload/355/f86/53912684.mp4"
   },
   {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "long",
+   "status": "scheduled",
+   "date": "2026-12-12T20:00:00",
+   "id": "2d26320a00c97db68f6d1a4730cd05d4",
+   "title": "Главный Магазин NIKE в Нью-Йорке! Эксклюзивные Коллекции, Которых Нет в России. Jordan, Skims",
+   "text": "",
+   "url": "https://rutube.ru/video/2d26320a00c97db68f6d1a4730cd05d4/",
+   "thumb": "https://i.ytimg.com/vi/5zZ7fQMmyhU/maxresdefault.jpg",
+   "duration": 0
+  },
+  {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "long",
@@ -11165,6 +12533,19 @@
    "media": "https://ycs-media.postmypost.io/postmypost/upload/1d4/8a7/53916114.mp4"
   },
   {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "long",
+   "status": "scheduled",
+   "date": "2026-12-16T20:00:00",
+   "id": "c7735d6faef17823d839c780cd10d637",
+   "title": "ТРЕНДЫ Для Любого Возраста | 20, 40, 60 | Самый ПРАКТИЧНЫЙ Тренд",
+   "text": "",
+   "url": "https://rutube.ru/video/c7735d6faef17823d839c780cd10d637/",
+   "thumb": "https://i.ytimg.com/vi/Q1F0ub97B64/maxresdefault.jpg",
+   "duration": 0
+  },
+  {
    "brand": "peshkov",
    "platform": "vk",
    "kind": "long",
@@ -11175,6 +12556,19 @@
    "text": "🔹 Заказать обувь из США и Европы со скидками: https://t.me/+Wxm0kqm1JPM4MjFi \n🖤 Одежда сегмента люкс из США и Европы для мужчин: https://t.me/+1bTATD9n4WQxNWNi \n➡️ Заказать одежду и аксессуары сегмента люкс из США и Европы: https://t.me/+f2ct2Lp2Iqs3M2Fi \n👉 Онлайн витрина: https://clck.ru/3RnHdJ \n🔥 Какие кроссовки действительно стоят своих денег? В этом видео разберем самые популярные модели, которые любят по всему миру за комфорт, стиль и универсальность. Без переплаты за хайп - только те пары, которые реально носят каждый день и которые отлично вписываются в современный гардероб.\nПоговорим про New Balance, Asics, Nike и ON, сравним модели, внешний вид, удобство и то, почему именно эти кроссовки стали мировыми фаворитами.\nА какие кроссовки сейчас ваши любимые? 🔥\n\n00:00 Вступление.\n00:16 New Balance.\n00:50 New Balance 740.\n01:21 New Balance 9060.\n01:46 Asics Gel.\n02:15 Nike Zoom Vomero 5.\n02:43 ON.\n03:16 Подведение итогов.\n\n#кроссовки #newbalance #nike #asics #onrunning #sneakers #обзоркроссовок #модныекроссовки #кроссовки2026 #стиль #мода #newbalance9060 #vomero5 #asicsgel #кеды #обувь #тренды #fashion #streetwear #newbalance740",
    "url": "",
    "media": "https://ycs-media.postmypost.io/postmypost/upload/6d4/882/53916374.mp4"
+  },
+  {
+   "brand": "shopomania",
+   "platform": "rutube",
+   "kind": "long",
+   "status": "scheduled",
+   "date": "2026-12-20T20:00:00",
+   "id": "03af4e9738373a51e3a2115292e7e345",
+   "title": "ОДИН ДЕНЬ ИЗ ЖИЗНИ БАЙЕРА В США / РАБОТА ИЗНУТРИ / МАГАЗИНЫ, ЗАКАЗЫ, СТРЕСС?",
+   "text": "",
+   "url": "https://rutube.ru/video/03af4e9738373a51e3a2115292e7e345/",
+   "thumb": "https://i.ytimg.com/vi/uZYyYkyYE74/maxresdefault.jpg",
+   "duration": 0
   },
   {
    "brand": "peshkov",

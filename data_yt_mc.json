@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T14:10:38",
+ "updatedAt": "2026-11-04T10:19:25",
  "map": {
   "peshkov": "yt-classic",
   "shopomaniia": "yt-shop"
@@ -5895,19 +5895,6 @@
    "channel": "yt-shop"
   },
   {
-   "mcId": 410965962,
-   "brand": "shopomaniia",
-   "ytId": "",
-   "date": "2026-11-04T09:00:00",
-   "title": "Когда мама покупает куртку «на вырост» на ближайшие пять лет 😅",
-   "text": "Когда мама покупает куртку «на вырост» на ближайшие пять лет 😅\nТакой же пуховик из США — пишите в директ или в наш Telegram (ссылка в шапке профиля).\n\nОбъёмный Aritzia Super Puff, в котором можно спрятаться целиком. Узнали себя в детстве? Пишите в комментариях 👇\n\nПодписывайтесь на @shopomaniia2012 — тёплые вещи из США к зиме по адекватным ценам.\n\n#пуховик #аритзия #оверсайз #зимняякуртка #шопомания",
-   "short": true,
-   "status": "scheduled",
-   "url": "",
-   "video": "https://static.metricool.com/video-converter/202610/6316245-file-4775506103644243663.mp4",
-   "channel": "yt-shop"
-  },
-  {
    "mcId": 410972843,
    "brand": "shopomaniia",
    "ytId": "pIeD4lieBgM",
@@ -5918,6 +5905,19 @@
    "status": "public",
    "url": "https://www.youtube.com/shorts/pIeD4lieBgM",
    "video": "https://static.metricool.com/planner/202610/6316245-file-17463689301275311900.mp4",
+   "channel": "yt-shop"
+  },
+  {
+   "mcId": 410965962,
+   "brand": "shopomaniia",
+   "ytId": "mZAGYLZdQac",
+   "date": "2026-11-04T09:00:00",
+   "title": "Когда мама покупает куртку «на вырост» на ближайшие пять лет 😅",
+   "text": "Когда мама покупает куртку «на вырост» на ближайшие пять лет 😅\nТакой же пуховик из США — пишите в директ или в наш Telegram (ссылка в шапке профиля).\n\nОбъёмный Aritzia Super Puff, в котором можно спрятаться целиком. Узнали себя в детстве? Пишите в комментариях 👇\n\nПодписывайтесь на @shopomaniia2012 — тёплые вещи из США к зиме по адекватным ценам.\n\n#пуховик #аритзия #оверсайз #зимняякуртка #шопомания",
+   "short": true,
+   "status": "public",
+   "url": "https://www.youtube.com/shorts/mZAGYLZdQac",
+   "video": "https://static.metricool.com/video-converter/202610/6316245-file-4775506103644243663.mp4",
    "channel": "yt-shop"
   }
  ]

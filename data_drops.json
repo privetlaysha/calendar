@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T04:21:38",
+ "updatedAt": "2026-11-10T17:07:18",
  "timezone": "Europe/Moscow",
  "categories": {
   "shoes": "Обувь",
@@ -1259,6 +1259,183 @@
    "buy": "https://www.neweracap.com",
    "src": "https://hypebeast.com/2026/11/new-era-pokemon-30-collaboration-info",
    "image": "drops_img/new-era-pokemon-30.jpg"
+  },
+  {
+   "id": "stella-mccartney-nara-3",
+   "date": "2026-11-11",
+   "our": false,
+   "cat": "clothes",
+   "brand": "Stella McCartney",
+   "gender": "female",
+   "title": "Stella McCartney x Йошитомо Нара: «Рок-н-ролльный лес»",
+   "text": "Третья совместная коллекция: трикотаж из шерсти, футболки и лонгсливы из органического хлопка, веганские сумки и кроссовки с принтами картин Нары. 11 ноября на сайте Stella McCartney по всему миру.",
+   "price": "",
+   "buy": "https://www.stellamccartney.com",
+   "src": "https://t.me/Buro247_ru/97241",
+   "tg": [
+    "Buro247_ru/97241"
+   ],
+   "image": "drops_img/stella-mccartney-nara-3.jpg"
+  },
+  {
+   "id": "loewe-nightmare-before-christmas",
+   "date": "2026-11-12",
+   "our": false,
+   "cat": "clothes",
+   "brand": "LOEWE",
+   "gender": "unisex",
+   "title": "LOEWE x «Кошмар перед Рождеством»",
+   "text": "Праздничная коллекция по мультфильму Тима Бёртона: одежда, кожаные аксессуары, сумки, свечи и ароматы для мужчин и женщин. Мировой релиз 12 ноября.",
+   "price": "",
+   "buy": "https://www.loewe.com",
+   "src": "https://hypebeast.com/2026/11/loewe-tim-burton-the-nightmare-before-christmas-holiday-collection-release-info",
+   "image": "drops_img/loewe-nightmare-before-christmas.jpg"
+  },
+  {
+   "id": "asap-rocky-puma-suede94-faded-blue",
+   "date": "2026-11-12",
+   "our": true,
+   "cat": "shoes",
+   "brand": "Puma",
+   "gender": "unisex",
+   "title": "A$AP Rocky x PUMA Suede '94 «Faded Blue»",
+   "text": "Замшевые Suede '94 от A$AP Rocky в выцветшем синем. 12 ноября на puma.com и у партнёров.",
+   "price": "$120",
+   "buy": "https://us.puma.com",
+   "src": "https://sneakerbardetroit.com/asap-rocky-puma-suede-94-blue-408735-04/",
+   "image": "drops_img/asap-rocky-puma-suede94-faded-blue.jpg"
+  },
+  {
+   "id": "kith-knicks-2026",
+   "date": "2026-11-13",
+   "our": false,
+   "cat": "clothes",
+   "brand": "Kith",
+   "gender": "unisex",
+   "title": "Kith x New York Knicks 2026 с Уолтом Фрейзером",
+   "text": "Верхняя одежда, костюмы, вещи с номером 10 Клайда Фрейзера, кепки, плюс женская, детская и бэби-линейки. 13 ноября в магазинах Kith, на kith.com и в приложении.",
+   "price": "",
+   "buy": "https://kith.com",
+   "src": "https://hypebeast.com/2026/11/kith-new-york-knicks-2026-collection-release-info",
+   "image": "drops_img/kith-knicks-2026.jpg"
+  },
+  {
+   "id": "solebox-timberland-6inch-pony",
+   "date": "2026-11-14",
+   "our": true,
+   "cat": "shoes",
+   "brand": "Timberland",
+   "gender": "unisex",
+   "title": "Solebox x Timberland 6\" Boot «Pony Hair»",
+   "text": "Классические жёлтые ботинки в ворсистом исполнении под пони, цвет Chestnut. 14 ноября на solebox.com и в магазинах solebox.",
+   "price": "€200",
+   "buy": "https://www.solebox.com",
+   "src": "https://sneakerbardetroit.com/solebox-timberland-6-inch-boot-pony-hair/",
+   "image": "drops_img/solebox-timberland-6inch-pony.jpg"
+  },
+  {
+   "id": "rick-owens-adidas-springblade",
+   "date": "2026-11-17",
+   "our": true,
+   "cat": "shoes",
+   "brand": "adidas",
+   "gender": "unisex",
+   "title": "Rick Owens x adidas Springblade",
+   "text": "Рик Оуэнс снова с adidas: два раннера Springblade на пружинящей подошве и ботинок. Релиз 17 ноября.",
+   "price": "$590 / ботинок $850",
+   "buy": "https://www.adidas.com",
+   "src": "https://sneakerbardetroit.com/rick-owens-adidas-springblade-collection-release-date/",
+   "image": "drops_img/rick-owens-adidas-springblade.jpg"
+  },
+  {
+   "id": "uniqlo-cecilie-bahnsen",
+   "date": "2026-11-20",
+   "our": false,
+   "cat": "clothes",
+   "brand": "UNIQLO",
+   "gender": "female",
+   "title": "UNIQLO x Cecilie Bahnsen «Wandering Together»",
+   "text": "Коллекция из флиса в фирменной палитре датского бренда. Продажи стартуют 20 ноября, коллабы Bahnsen с UNIQLO разбирают быстро.",
+   "price": "",
+   "buy": "https://www.uniqlo.com",
+   "src": "https://t.me/omanko_news/35779",
+   "tg": [
+    "omanko_news/35779"
+   ],
+   "image": "drops_img/uniqlo-cecilie-bahnsen.jpg"
+  },
+  {
+   "id": "nike-af1-pony-atomic-violet",
+   "date": "2026-11-20",
+   "our": true,
+   "cat": "shoes",
+   "brand": "Nike",
+   "gender": "male",
+   "title": "Nike Air Force 1 Low Pony Hair «Atomic Violet»",
+   "text": "Air Force 1 в фиолетовом ворсе под пони. 20 ноября в SNKRS и у отдельных ритейлеров, мужские размеры.",
+   "price": "$140",
+   "buy": "https://www.nike.com",
+   "src": "https://sneakerbardetroit.com/nike-air-force-1-low-atomic-violet-voltage-purple/",
+   "image": "drops_img/nike-af1-pony-atomic-violet.jpg"
+  },
+  {
+   "id": "nb-allerdale-harris-tweed",
+   "date": "2026-11-20",
+   "our": true,
+   "cat": "shoes",
+   "brand": "New Balance",
+   "gender": "unisex",
+   "title": "New Balance Allerdale Harris Tweed «Raven with Chipmunk»",
+   "text": "Allerdale в шотландском твиде Harris Tweed и коже. 20 ноября на newbalance.com.",
+   "price": "$250",
+   "buy": "https://www.newbalance.com",
+   "src": "https://justfreshkicks.com/new-balance-allerdale-harris-tweed-luxe-leather-raven-with-chipmunk-uadwhtw/",
+   "image": "drops_img/nb-allerdale-harris-tweed.jpg"
+  },
+  {
+   "id": "aj4-bred-2026",
+   "date": "2026-11-27",
+   "our": true,
+   "cat": "shoes",
+   "brand": "Nike",
+   "gender": "male",
+   "title": "Air Jordan 4 «Bred» возвращается в Чёрную пятницу",
+   "text": "Культовые AJ4 «Bred» снова выходят 27 ноября: SNKRS и магазины Jordan по всему миру, размеры на всю семью.",
+   "price": "$230",
+   "buy": "https://www.nike.com",
+   "src": "https://sneakerbardetroit.com/air-jordan-4-bred-2026-release-date/",
+   "image": "drops_img/aj4-bred-2026.jpg"
+  },
+  {
+   "id": "warby-parker-rare-beauty",
+   "date": "2026-11-06",
+   "our": false,
+   "cat": "beauty",
+   "brand": "Rare Beauty",
+   "gender": "female",
+   "title": "Warby Parker x Rare Beauty: очки",
+   "text": "Лимитированная коллекция из пяти оправ от бренда Селены Гомес. Уже на warbyparker.com.",
+   "price": "$95–145",
+   "buy": "https://www.warbyparker.com",
+   "src": "https://fashionista.com/2026/11/best-fashion-beauty-launches-collaborations-november-6",
+   "image": "drops_img/warby-parker-rare-beauty.jpg"
+  },
+  {
+   "id": "balenciaga-damienciaga",
+   "date": "2026-11-10",
+   "our": false,
+   "cat": "clothes",
+   "brand": "Balenciaga",
+   "gender": "unisex",
+   "title": "Balenciaga x Дэмиен Херст: капсула Damienciaga",
+   "text": "К 25-летию сумки Le City: точки, бабочки и ручная роспись Херста на сумках, галстуках и кроссовках, плюс 25 расписанных вручную сумок. Поп-апы Le City House открываются в Париже, Нью-Йорке, Токио и Сеуле.",
+   "price": "",
+   "buy": "https://www.balenciaga.com",
+   "src": "https://t.me/Buro247_ru/97261",
+   "tg": [
+    "Buro247_ru/97261"
+   ],
+   "image": "drops_img/balenciaga-damienciaga.jpg"
   }
  ]
 }

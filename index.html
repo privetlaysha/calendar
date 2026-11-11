@@ -248,6 +248,7 @@
     background: var(--card); border: 1px solid var(--line); border-radius: 16px;
     padding: 14px; margin-bottom: 12px; display: flex; gap: 14px; align-items: flex-start;
   }
+  .post-card.feed-reel { border: 3px solid rgba(92, 170, 112, 0.38); padding: 12px; }
   .thumb { flex: 0 0 128px; position: relative; }
   .thumb video, .thumb img {
     width: 128px; height: 180px; object-fit: cover; border-radius: 10px; background: #10151c;
@@ -947,8 +948,9 @@ function renderDay() {
             <button class="copy-btn" onclick="copyLink(${idx}, this)">Скопировать ссылку на публикацию</button>` : "";
     const body = bodyText(p);
     const media = mediaHtml(p.thumb || p.video);
+    const feedReel = !(p.manual || isImgPost(p)) && !p.trial;   // рилс в основную ленту — зелёная рамка
     html += `
-      <div class="post-card">
+      <div class="post-card${feedReel ? " feed-reel" : ""}">
         ${media}
         <div class="post-body">
           <div class="post-top">
